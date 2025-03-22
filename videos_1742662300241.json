@@ -1,0 +1,1702 @@
+[
+  {
+    "kind": "youtube#searchResult",
+    "etag": "O11C_ndy0NCFt9Egs1Xic6eN1Bw",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "6Nx9ZM_8Vwo"
+    },
+    "snippet": {
+      "publishedAt": "2023-10-26T14:00:05Z",
+      "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+      "title": "React.js শেখার জন্য কতটুকু JavaScript জানতে হবে?",
+      "description": "React.js শেখার জন্য কতটুকু JavaScript জানতে হবে? সহজভাবে জানুন শুরু করার ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6Nx9ZM_8Vwo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6Nx9ZM_8Vwo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6Nx9ZM_8Vwo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-10-26T14:00:05Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "nUU2D8GWvKhna1vD-tj2U_vSk4k",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "GHriWlXHiwE"
+    },
+    "snippet": {
+      "publishedAt": "2024-01-20T17:10:00Z",
+      "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+      "title": "React Developer Roadmap 2024 - Beginner to Advanced",
+      "description": "Ready to level up your React skills? Dive into our \"React Developer Roadmap 2024\" video, designed for beginners and aspiring ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GHriWlXHiwE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GHriWlXHiwE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GHriWlXHiwE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-01-20T17:10:00Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "zzoVFhKuBobXa-CDlosZyfmWwRk",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Lx1FiESzm-U"
+    },
+    "snippet": {
+      "publishedAt": "2024-04-03T15:00:13Z",
+      "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+      "title": "JavaScript or Python - Which should you learn?",
+      "description": "JavaScript or Python - Which programming language should you learn? In this video, I have explained how a beginner ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Lx1FiESzm-U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Lx1FiESzm-U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Lx1FiESzm-U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-04-03T15:00:13Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "-2KEH3JJmf2SrCP_MjlpMUnTzWk",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "b7mpUrheMpc"
+    },
+    "snippet": {
+      "publishedAt": "2024-02-26T15:00:37Z",
+      "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+      "title": "How to find a job as an Entry Level Developer - An in-depth guideline",
+      "description": "Searching for your first job as an Entry Level Developer? Look no further! In this comprehensive guide, we dive deep into the ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/b7mpUrheMpc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/b7mpUrheMpc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/b7mpUrheMpc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-02-26T15:00:37Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "Huuof2xa_-WV0_zAamV5Mee1XY4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "wRMSNJUCR2k"
+    },
+    "snippet": {
+      "publishedAt": "2024-01-17T16:15:08Z",
+      "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+      "title": "Programming for Beginners - Why You are Struggling To Learn To Code?",
+      "description": "Unlock the secrets behind common challenges in learning to code with my latest video, \"Why You're Struggling to Learn to Code.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wRMSNJUCR2k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wRMSNJUCR2k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wRMSNJUCR2k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-01-17T16:15:08Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "Xm4PEk9-BQ8hmJz-mXQqGz-tPmE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "NgrljB7UU34"
+    },
+    "snippet": {
+      "publishedAt": "2024-01-02T15:00:13Z",
+      "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+      "title": "Next JS 14 Crash Course - Next.js Bangla Tutorial 2024",
+      "description": "Mastering Next.js 14: A Comprehensive Crash Course for Beginners and Beyond Welcome to our in-depth Next.js 14 crash ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NgrljB7UU34/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NgrljB7UU34/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NgrljB7UU34/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-01-02T15:00:13Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "RMlW-X98s6Y1qstdnAgaPy0GMLE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "HbEl_NHeHiU"
+    },
+    "snippet": {
+      "publishedAt": "2023-09-14T15:00:12Z",
+      "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+      "title": "কোড দেখলে বুঝি কিন্তু করতে দিলে পারিনা - Why most programmers fail",
+      "description": "Are you a budding programmer looking to avoid common pitfalls and achieve success in your coding journey? This in-depth ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HbEl_NHeHiU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HbEl_NHeHiU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HbEl_NHeHiU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-09-14T15:00:12Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "KJB4jqUX_ncD0XRv53Bu3irRAEk",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "24vxx8OWjPc"
+    },
+    "snippet": {
+      "publishedAt": "2023-05-09T12:00:04Z",
+      "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+      "title": "Mastering on React JS, Next JS &amp; Prisma - @RabbilHasanRupom @LearnwithSumit &amp; Ostad",
+      "description": "React.Js, Next.Js & Prisma-এর উপর খুবই ইফেক্টিভ একটি লাইভ কোর্স নিয়ে এবার ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/24vxx8OWjPc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/24vxx8OWjPc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/24vxx8OWjPc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-05-09T12:00:04Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "uN1VeLKbS6BNaMGPszqzZQBLkvM",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "SQxJRPQK0KI"
+    },
+    "snippet": {
+      "publishedAt": "2024-04-12T13:30:11Z",
+      "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+      "title": "Importance of legacy React.js code in Job Market",
+      "description": "Unlock the secrets of React.js legacy code's enduring relevance in today's job market. Explore why employers seek professionals ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SQxJRPQK0KI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SQxJRPQK0KI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SQxJRPQK0KI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-04-12T13:30:11Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "l8HKUjt3Q12Wbj4AaVIh_37zrUo",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "N3vG6Yt-e6k"
+    },
+    "snippet": {
+      "publishedAt": "2021-05-19T08:00:12Z",
+      "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+      "title": "SASS Bangla Tutorial - A complete overview - Crash Course",
+      "description": "Modern complex user interface শুধু vanilla CSS দিয়ে বানাতে গিয়ে আমাদেরকে যথেষ্ট ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/N3vG6Yt-e6k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/N3vG6Yt-e6k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/N3vG6Yt-e6k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-05-19T08:00:12Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "_2MxCWHgkn3wqSIg2nPLntoydhU",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "kRS5ficucNM"
+    },
+    "snippet": {
+      "publishedAt": "2021-04-19T08:00:08Z",
+      "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+      "title": "CSS Flexbox Complete Guide - Bangla CSS Flexbox Tutorial",
+      "description": "Modern Web Design Layout তৈরী করার জন্য কার্যকরী একটি layout system হলো “CSS Flexbox”.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kRS5ficucNM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kRS5ficucNM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kRS5ficucNM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-04-19T08:00:08Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "x5P9CTQduoEOjHmk7y1TDP2Agx4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "lb7wT1gVU7Y"
+    },
+    "snippet": {
+      "publishedAt": "2021-08-13T16:45:01Z",
+      "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+      "title": "#01 JavaScript Bangla Tutorial | Introduction to JavaScript",
+      "description": "In this Part 1 video of JavaScript Bangla Tutorial Series for Beginners, I have explained what JavaScript is, what it can do and ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lb7wT1gVU7Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lb7wT1gVU7Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lb7wT1gVU7Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-08-13T16:45:01Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "8stsoY1ifdWgM7o6ecd-HJ6gMmA",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "qImH1bFubW4"
+    },
+    "snippet": {
+      "publishedAt": "2020-10-24T15:45:02Z",
+      "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+      "title": "#2 - Node.js কি &amp; কিভাবে কাজ করে? - Node.js Tutorial Bangla | Bangla Node js Tutorial",
+      "description": "Welcome to Learn with Sumit. In this video I have shown what Node js is and how Node js works. In this whole Bangla Node js ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qImH1bFubW4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qImH1bFubW4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qImH1bFubW4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-10-24T15:45:02Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "bbNPBMj6R5v7IIsyejpD7kh4Aw8",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "gFicda3xgKc"
+    },
+    "snippet": {
+      "publishedAt": "2020-12-22T15:15:01Z",
+      "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+      "title": "১০ মিনিটে React - A top level overview of React JS in Bangla ( বাংলা )",
+      "description": "React JS - বর্তমান সময়ের সবচেয়ে জনপ্রিয় Front-end Library! বিশ্বব্যাপী ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gFicda3xgKc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gFicda3xgKc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gFicda3xgKc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-12-22T15:15:01Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "iw4Wi-9IMe90DfgVHI3kM9gL-1M",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "oe21Nlq8GS4"
+    },
+    "snippet": {
+      "publishedAt": "2020-12-11T15:00:19Z",
+      "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+      "title": "Crash Course - সহজ বাংলায় Git &amp; GitHub - Bangla ( বাংলা ) Tutorial",
+      "description": "Git একটা Version Control Mechanism. মানে এটা সবসময় আমাদের file system এর দিকে নজর রাখে ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/oe21Nlq8GS4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/oe21Nlq8GS4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/oe21Nlq8GS4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-12-11T15:00:19Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "8wSCr2lbnkVo12BFg4ZNtDeiJCQ",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "kEFIdXzQXYw"
+    },
+    "snippet": {
+      "publishedAt": "2021-03-26T08:00:23Z",
+      "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+      "title": "CSS Grid complete Bangla (বাংলা) Tutorial - যেমন খুশি তেমন layout বানাও",
+      "description": "Modern Web Design Layout তৈরী করার জন্য খুব ই কার্যকরী একটি layout system হলো “CSS Grid”.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kEFIdXzQXYw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kEFIdXzQXYw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kEFIdXzQXYw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-03-26T08:00:23Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "bCSK5Ano_yxDxTwTGs3NpT1emnU",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "o-wx8CJ8W2g"
+    },
+    "snippet": {
+      "publishedAt": "2021-08-13T16:45:02Z",
+      "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+      "title": "#12 JavaScript Bangla Tutorial | JavaScript Function",
+      "description": "In this Part 12 video of JavaScript Bangla Tutorial Series for Beginners, I have explained JavaScript function, its syntax, features, ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/o-wx8CJ8W2g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/o-wx8CJ8W2g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/o-wx8CJ8W2g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-08-13T16:45:02Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "msBXl_ScarBhbmdZhPdvQZ5AjYg",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "qhll3DXuLHI"
+    },
+    "snippet": {
+      "publishedAt": "2024-04-10T16:00:11Z",
+      "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+      "title": "React Redux Crash Course Bangla with Redux Toolkit",
+      "description": "This video constitutes a segment of my paid React-Next.js course named \"Reactive Accelerator.\" As a gesture of Eid generosity to ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qhll3DXuLHI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qhll3DXuLHI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qhll3DXuLHI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-04-10T16:00:11Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "UKYD2vkZPr-SiICd5XnFBYYqcjs",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "tGOk5uR6QIk"
+    },
+    "snippet": {
+      "publishedAt": "2024-06-11T12:01:03Z",
+      "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+      "title": "Mern Stack Web Development Career Path",
+      "description": "MERN Stack - এর একটি অরগানাইজড কোর্স নিয়ে অনেকদিন আগে থেকেই রিকুয়েস্ট ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tGOk5uR6QIk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tGOk5uR6QIk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tGOk5uR6QIk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-06-11T12:01:03Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "XliYsPRRAXOyY-ypDwFq46yGQbg",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "uZqyRJkTQog"
+    },
+    "snippet": {
+      "publishedAt": "2020-09-08T08:00:11Z",
+      "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+      "title": "JavaScript &#39;this&#39; keyword tutorial in Bangla - .call(), .apply() and .bind()",
+      "description": "If we want to define the \"this\" keyword, we can say that it allows you to reuse functions with different contexts. \"this\" keyword is one ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uZqyRJkTQog/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uZqyRJkTQog/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uZqyRJkTQog/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-09-08T08:00:11Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "gXynK7K08F6VcZfsZRVZCcwaRxk",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "ZmHdruyVB5M"
+    },
+    "snippet": {
+      "publishedAt": "2023-07-18T08:00:25Z",
+      "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+      "title": "OOP Simplified: Learn Object Oriented Programming the Easy Way",
+      "description": "Master Object Oriented Programming (OOP) with this beginner-friendly tutorial. Explore the core concepts of OOP, such as objects ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZmHdruyVB5M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZmHdruyVB5M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZmHdruyVB5M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-07-18T08:00:25Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "kcebWTP95xp5Fbv2bw-S7mVCD-s",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "mPTkKnL2aNA"
+    },
+    "snippet": {
+      "publishedAt": "2021-12-11T08:00:13Z",
+      "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+      "title": "#86 JavaScript Bangla Tutorial | What is DOM | DOM Tutorial - 1",
+      "description": "DOM or Document Object Model is the most important concept to understand for any beginner who wants to be a web developer.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mPTkKnL2aNA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mPTkKnL2aNA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mPTkKnL2aNA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-12-11T08:00:13Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "G38FDn6l5jTco9gvKVzqddjI0q8",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "XV_AfYgzx6g"
+    },
+    "snippet": {
+      "publishedAt": "2024-09-14T12:00:40Z",
+      "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+      "title": "Reactive Accelerator - Batch 2 - Bangla React and Next.js course by Learn with Sumit",
+      "description": "অবশেষে চলে এলো লার্ন উইথ সুমিত-এর বাংলা রিয়্যাক্ট-নেক্সট জে.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XV_AfYgzx6g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XV_AfYgzx6g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XV_AfYgzx6g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-09-14T12:00:40Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "M71n84-z8wX-BKR4df4b8tcDz6A",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "6WBaPpFJhR0"
+    },
+    "snippet": {
+      "publishedAt": "2021-10-08T08:00:04Z",
+      "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+      "title": "#68 JavaScript Bangla Tutorial | JavaScript Object Prototype",
+      "description": "In this Part 68 video of JavaScript Bangla Tutorial Series for Beginners, I have explained about JavaScript Object prototypes.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6WBaPpFJhR0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6WBaPpFJhR0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6WBaPpFJhR0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-10-08T08:00:04Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "aSXPJQ9JBWaez0Fk7J-s_t2_KOM",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "3sdpkFZUhlA"
+    },
+    "snippet": {
+      "publishedAt": "2023-12-14T14:48:47Z",
+      "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+      "title": "JavaScript Bangla Crash Course - Reactive Accelerator course by Learn with Sumit",
+      "description": "In this video you will get a brief overview of JavaScript syntaxes and concepts that you would mostly use in our Reactive ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3sdpkFZUhlA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3sdpkFZUhlA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3sdpkFZUhlA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-12-14T14:48:47Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "SGWFXF3KtOjFjz9oh4cpvl-psNw",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "MB9SgSYw0Gw"
+    },
+    "snippet": {
+      "publishedAt": "2020-12-08T15:00:06Z",
+      "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+      "title": "JSON Web Token - Bangla ( বাংলা ) Tutorial",
+      "description": "JSON Web Token (JWT) is an open standard (RFC 7519) for securely transmitting information between parties as JSON object.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/MB9SgSYw0Gw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/MB9SgSYw0Gw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/MB9SgSYw0Gw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-12-08T15:00:06Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "Ku8KMsN3u7kay-AK5tWwGYqo4sc",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "7unPQjNducY"
+    },
+    "snippet": {
+      "publishedAt": "2023-07-06T16:00:05Z",
+      "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+      "title": "MERN Stack Explained: Roadmap, Next.js Integration, and Mastering Rendering Techniques",
+      "description": "In this comprehensive video guide in Bangla language, we dive into the world of MERN Stack, the popular web development ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7unPQjNducY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7unPQjNducY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7unPQjNducY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-07-06T16:00:05Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "7z6cFOZT8bx4GySwb-foqf2WmTs",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Z45VQuHO_VA"
+    },
+    "snippet": {
+      "publishedAt": "2020-09-05T15:00:07Z",
+      "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+      "title": "Prototype - the foundation of JavaScript - JavaScript Bangla ( বাংলা ) Tutorial",
+      "description": "To many new developers the JavaScript world may seem pretty strange, especially to those from a traditional object-oriented ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Z45VQuHO_VA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Z45VQuHO_VA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Z45VQuHO_VA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-09-05T15:00:07Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "aDSpqS1jx-9havp9nlZPHCju7Ts",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "zIx9kFXdwlc"
+    },
+    "snippet": {
+      "publishedAt": "2020-07-19T17:15:57Z",
+      "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+      "title": "React JS Crash Course - React Crash Course Bangla - React JS Bangla Tutorial for Beginners",
+      "description": "React Bangla Tutorial for beginners - A React JS Crash Course in Bangla for beginners ReactJS is an amazing and very popular ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zIx9kFXdwlc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zIx9kFXdwlc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zIx9kFXdwlc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-07-19T17:15:57Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "SIdWQ762lrNIl95zpGHAuN50JFw",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "juHkuCtMGtQ"
+    },
+    "snippet": {
+      "publishedAt": "2020-09-18T15:00:17Z",
+      "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+      "title": "JavaScript Event Loop &amp; its functions - JavaScript Bangla ( বাংলা ) Tutorial",
+      "description": "The \"Event Loop\" is the secret behind JavaScript's asynchronous programming. JS executes all operations on a single thread, but ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/juHkuCtMGtQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/juHkuCtMGtQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/juHkuCtMGtQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-09-18T15:00:17Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "SeB9uqkM5qF_KDVhyAFlw-v63cQ",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "_WuDDnZMRiE"
+    },
+    "snippet": {
+      "publishedAt": "2021-12-18T08:30:57Z",
+      "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+      "title": "#100 JavaScript Bangla Tutorial | DOM Project JavaScript Tutorial",
+      "description": "In this tutorial, I have shown a complete project on HTML DOM (Document Object Model). This is a very important video for any ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_WuDDnZMRiE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_WuDDnZMRiE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_WuDDnZMRiE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-12-18T08:30:57Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "b-1U0SumVy3SNCjG2WCmU6o0fQA",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Wk0-6b1W_VQ"
+    },
+    "snippet": {
+      "publishedAt": "2020-09-12T15:00:06Z",
+      "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+      "title": "Execution Context - How JavaScript runs your code - JavaScript Bangla ( বাংলা ) Tutorial",
+      "description": "This video is one of the most important videos in my channel. In this video, we'll take a look at one of the most important and ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Wk0-6b1W_VQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Wk0-6b1W_VQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Wk0-6b1W_VQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-09-12T15:00:06Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "xwX2G1oTkTtA0fB9tcskLJSlbY8",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "IUBd76UQb34"
+    },
+    "snippet": {
+      "publishedAt": "2020-08-26T17:04:56Z",
+      "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+      "title": "Asynchronous JavaScript - callbacks, promises and async-await - JavaScript Bangla ( বাংলা ) Tutorial",
+      "description": "Those who work or want to work with javascript have to work with asynchronous javascript regularly. Sometimes we write ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/IUBd76UQb34/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/IUBd76UQb34/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/IUBd76UQb34/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-08-26T17:04:56Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "ruW8TTDMdeCpSxbwPwVNck9pn_U",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "vK8fnE_-NI0"
+    },
+    "snippet": {
+      "publishedAt": "2020-09-27T08:00:09Z",
+      "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+      "title": "Primitive vs Reference - What&#39;s the difference - JavaScript Bangla ( বাংলা ) Tutorial",
+      "description": "In JavaScript, a variable may store two types of values: primitive and reference. JavaScript provides six primitive types as ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vK8fnE_-NI0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vK8fnE_-NI0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vK8fnE_-NI0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-09-27T08:00:09Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "FEs665ZeZPB9jQ8zsfpmDf4qUxE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "UwrmEUCaAIY"
+    },
+    "snippet": {
+      "publishedAt": "2020-09-22T15:00:08Z",
+      "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+      "title": "#2 - JavaScript Fat Arrow Functions Bangla Tutorial - Modern JavaScript Syntaxes in Bangla - ES6",
+      "description": "Please note that, this video is a part of my free Modern JavaScript Crash Course series. Please check the full playlist here: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UwrmEUCaAIY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UwrmEUCaAIY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UwrmEUCaAIY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-09-22T15:00:08Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "8h6dpKu86C0DAy2YrlTLuhP4cjk",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "ZfrqGZTJuVQ"
+    },
+    "snippet": {
+      "publishedAt": "2020-09-22T15:00:30Z",
+      "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+      "title": "#12 - Array map() method - Modern JavaScript Syntaxes in Bangla ( বাংলা ) - ES6 + in Bangla",
+      "description": "Please note that, this video is a part of my free Modern JavaScript Crash Course series. Please check the full playlist here: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZfrqGZTJuVQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZfrqGZTJuVQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZfrqGZTJuVQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-09-22T15:00:30Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "ikTh2RlkD9SBziTYsPqvDCt2YfE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "COn9x4NbOBY"
+    },
+    "snippet": {
+      "publishedAt": "2023-07-24T08:00:04Z",
+      "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+      "title": "Mastering OOP - Your Ultimate Tutorial on Encapsulation, Inheritance, Abstraction and Polymorphism",
+      "description": "Welcome to the magical world of Object-Oriented Programming (OOP)! Join us in this fun tutorial as we explore the 4 pillars of ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/COn9x4NbOBY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/COn9x4NbOBY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/COn9x4NbOBY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-07-24T08:00:04Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "hQzzUtePSenGMz7_XGdKIBCEzHo",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "zThtzWgMtjM"
+    },
+    "snippet": {
+      "publishedAt": "2020-09-22T15:00:13Z",
+      "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+      "title": "#13 - Array reduce() method - Modern JavaScript Syntaxes in Bangla ( বাংলা ) - ES6 + in Bangla",
+      "description": "Please note that, this video is a part of my free Modern JavaScript Crash Course series. Please check the full playlist here: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zThtzWgMtjM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zThtzWgMtjM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zThtzWgMtjM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-09-22T15:00:13Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "3tdWrb6Cb0QRVkki01wEh-ilmmE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "3iG1IBJHTgE"
+    },
+    "snippet": {
+      "publishedAt": "2020-11-12T15:00:03Z",
+      "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+      "title": "আমার কোড এডিটর - Visual Studio Code - Installation, Plugins, Themes এবং Customization",
+      "description": "এই ভিডিওটি আমি মূলত দিয়েছি আপনাদের অনুরোধে। আমি এখন পর্যন্ত ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3iG1IBJHTgE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3iG1IBJHTgE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3iG1IBJHTgE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-11-12T15:00:03Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "e46v7gYvycpSn31IQEzy9eOP7AY",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "oPRx4A13ytI"
+    },
+    "snippet": {
+      "publishedAt": "2020-12-27T14:15:01Z",
+      "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+      "title": "What is Currying in JavaScript - JavaScript Bangla ( বাংলা ) Tutorial",
+      "description": "Currying is an advanced technique or pattern of working with functions. It's used not only in JavaScript, but in other functional ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/oPRx4A13ytI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/oPRx4A13ytI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/oPRx4A13ytI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-12-27T14:15:01Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "WQOnCYaZCmn6r3GI2vm0-C8Cfqo",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "2C5834qx0sA"
+    },
+    "snippet": {
+      "publishedAt": "2021-02-09T10:45:00Z",
+      "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+      "title": "#2 React Virtual DOM Explained - Easy Explanation - React Tutorial Bangla Series",
+      "description": "React Virtual DOM Explained - Easy Explanation - React Tutorial Bangla Series React JS এর ক্ষেত্রে আমরা ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2C5834qx0sA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2C5834qx0sA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2C5834qx0sA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-02-09T10:45:00Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "GCPW22GT-FwBPX3OVIiNPb127_4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "62C_FfMgCcw"
+    },
+    "snippet": {
+      "publishedAt": "2021-08-13T16:45:00Z",
+      "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+      "title": "#21 JavaScript Bangla Tutorial | JavaScript Arrays",
+      "description": "In this Part 21 video of JavaScript Bangla Tutorial Series for Beginners, I have explained the JavaScript Array data type.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/62C_FfMgCcw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/62C_FfMgCcw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/62C_FfMgCcw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-08-13T16:45:00Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "fjCACG-l-E9h4IFZ_UR-flldc3I",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "0eSG3_mvFZY"
+    },
+    "snippet": {
+      "publishedAt": "2021-11-17T08:00:00Z",
+      "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+      "title": "#81 JavaScript Bangla Tutorial | Callback Functions | Asynchronous JavaScript - 1",
+      "description": "In this tutorial from JavaScript Bangla Tutorial series, I have explained the syntax of JavaScript callback functions. References: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0eSG3_mvFZY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0eSG3_mvFZY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0eSG3_mvFZY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-11-17T08:00:00Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "ilcQ-LadnJbGT38VrherNJhw2Lw",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Ke05OZiLXDA"
+    },
+    "snippet": {
+      "publishedAt": "2021-09-15T08:00:07Z",
+      "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+      "title": "#42 JavaScript Bangla Tutorial | JavaScript Maps",
+      "description": "In this Part 42 video of JavaScript Bangla Tutorial Series for Beginners, I have explained about JavaScript Sets. ❒ Complete ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Ke05OZiLXDA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Ke05OZiLXDA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Ke05OZiLXDA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-09-15T08:00:07Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "TGqMMuTD4H1ouljAHuEDzrhvltw",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "666K4aizIu8"
+    },
+    "snippet": {
+      "publishedAt": "2023-12-12T14:15:11Z",
+      "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+      "title": "Reactive Accelerator - Bangla React and Next.js course by Learn with Sumit",
+      "description": "অবশেষে চলে এলো লার্ন উইথ সুমিত-এর বাংলা রিয়্যাক্ট-নেক্সট জে.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/666K4aizIu8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/666K4aizIu8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/666K4aizIu8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-12-12T14:15:11Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "sFsVJwHVTvzNiueLwY32JVS-wZI",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "smDa6hoxLKI"
+    },
+    "snippet": {
+      "publishedAt": "2021-10-15T08:00:31Z",
+      "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+      "title": "Tailwind CSS Tutorial Bangla - Introduction to Tailwind CSS",
+      "description": "Tailwind is a utility-first CSS framework to rapidly build modern websites without ever leaving your HTML. In this Tailwind CSS ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/smDa6hoxLKI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/smDa6hoxLKI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/smDa6hoxLKI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-10-15T08:00:31Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "juvqrqkGj_5fF_b-htnsGJbLjwM",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "XnezDeTKVUY"
+    },
+    "snippet": {
+      "publishedAt": "2023-10-17T15:45:01Z",
+      "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+      "title": "Mastering JavaScript Event Propagation - Bubbling vs. Capturing Explained",
+      "description": "Dive deep into JavaScript Event Propagation with our comprehensive tutorial! Understanding the nuances of Event Bubbling and ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XnezDeTKVUY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XnezDeTKVUY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XnezDeTKVUY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-10-17T15:45:01Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "_MZtgKpM96aI7HjmHYBplWD57E4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "iIvN7upsLoA"
+    },
+    "snippet": {
+      "publishedAt": "2020-12-31T15:50:51Z",
+      "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+      "title": "Introduction to Vue.js in Bangla ( বাংলা ) with a full Project - Vue Crash Course",
+      "description": "Vue.js is a Progressive JavaScript Framework which is very popular nowadays. Personally, I have never worked with Vue.js.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/iIvN7upsLoA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/iIvN7upsLoA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/iIvN7upsLoA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-12-31T15:50:51Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "sFswDGXlj6nVlnPvYlqox-ZPaPA",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "ZGzzMuEMVr0"
+    },
+    "snippet": {
+      "publishedAt": "2021-10-08T08:00:08Z",
+      "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+      "title": "#67 JavaScript Bangla Tutorial | JavaScript Object Constructors",
+      "description": "In this Part 67 video of JavaScript Bangla Tutorial Series for Beginners, I have explained about JavaScript Object Constructors ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZGzzMuEMVr0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZGzzMuEMVr0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZGzzMuEMVr0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-10-08T08:00:08Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "Ywvcw-1oCsZjBY6iazgqoOu889M",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "J5sCarsKX1s"
+    },
+    "snippet": {
+      "publishedAt": "2020-10-28T08:30:03Z",
+      "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+      "title": "#3 - Node.js Installation - VS Code Editor Setup - Node.js Tutorial Bangla",
+      "description": "Welcome to Learn with Sumit. In this video I have shown Node.js Installation Process(node js setup). After watching this video, ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/J5sCarsKX1s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/J5sCarsKX1s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/J5sCarsKX1s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-10-28T08:30:03Z"
+    }
+  }
+]
