@@ -1,0 +1,1702 @@
+[
+  {
+    "kind": "youtube#searchResult",
+    "etag": "GX-CHwCZrj6UUKRh28UaT9ktGPM",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "ZDRZvFNK-ek"
+    },
+    "snippet": {
+      "publishedAt": "2025-02-10T16:00:36Z",
+      "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+      "title": "Full Stack JavaScript Developer Roadmap 2025",
+      "description": "This is my complete roadmap to become a full stack JavaScript web developer. It takes you from the very begining, learning HTML ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZDRZvFNK-ek/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZDRZvFNK-ek/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZDRZvFNK-ek/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Traversy Media",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-02-10T16:00:36Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "tG-9gi0Lltfe9acLS3qCwDII-fE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "PoFkd42WvQA"
+    },
+    "snippet": {
+      "publishedAt": "2025-03-17T15:30:12Z",
+      "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+      "title": "Freelance Web Developer Roadmap",
+      "description": "In this video, we go through a 6-step process to becoming a successful freelance Web Developer. Everything from the ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PoFkd42WvQA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PoFkd42WvQA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PoFkd42WvQA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Traversy Media",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-03-17T15:30:12Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "VL_W5TKPAr-CKy3H1GBscTLPczU",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "ImSjJwzqAss"
+    },
+    "snippet": {
+      "publishedAt": "2024-05-14T12:23:56Z",
+      "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+      "title": "The Importance of Specialization in Coding",
+      "description": "Many people want to learn everything, which is impossible. Pick a tech stack and learn as much as you can about that group of ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ImSjJwzqAss/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ImSjJwzqAss/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ImSjJwzqAss/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Traversy Media",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-05-14T12:23:56Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "zz0V6r-MzcsWwx8_6XMOx4ECV34",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "hdI2bqOjy3c"
+    },
+    "snippet": {
+      "publishedAt": "2019-03-13T15:46:32Z",
+      "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+      "title": "JavaScript Crash Course For Beginners",
+      "description": "In this crash course we will go over the fundamentals of JavaScript including more modern syntax like classes, arrow functions, etc ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hdI2bqOjy3c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hdI2bqOjy3c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hdI2bqOjy3c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Traversy Media",
+      "liveBroadcastContent": "none",
+      "publishTime": "2019-03-13T15:46:32Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "ESzSJvFr8Uqk8l_nfXPmpliO5lE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "UB1O30fR-EE"
+    },
+    "snippet": {
+      "publishedAt": "2017-07-17T14:38:43Z",
+      "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+      "title": "HTML Crash Course For Absolute Beginners",
+      "description": "In this crash course I will cram as much about HTML that I can. This is meant for absolute beginners. If you are interested in ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UB1O30fR-EE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UB1O30fR-EE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UB1O30fR-EE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Traversy Media",
+      "liveBroadcastContent": "none",
+      "publishTime": "2017-07-17T14:38:43Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "qZox564a4D3wMyhzTxqc0feNGZk",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "2vPVdZWhuM8"
+    },
+    "snippet": {
+      "publishedAt": "2023-10-26T13:03:44Z",
+      "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+      "title": "Are You Too Dumb To Code? A Chat About Imposter Syndrome",
+      "description": "In this video, we will talk about why so many developers feel too dumb to code. We get into the topic of imposter syndrome.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2vPVdZWhuM8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2vPVdZWhuM8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2vPVdZWhuM8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Traversy Media",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-10-26T13:03:44Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "adE87xPXh0uvq3Z9wV5d4JuMN1s",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "LDB4uaJ87e0"
+    },
+    "snippet": {
+      "publishedAt": "2024-03-18T14:28:48Z",
+      "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+      "title": "React Crash Course",
+      "description": "Learn the basics of React, such as components, props, state, data fetching, and more, while building a job listing frontend.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LDB4uaJ87e0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LDB4uaJ87e0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LDB4uaJ87e0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Traversy Media",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-03-18T14:28:48Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "RfIghm1kjGrqbOD7hOyECUi5XOM",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "yfoY53QXEnI"
+    },
+    "snippet": {
+      "publishedAt": "2017-07-19T15:01:36Z",
+      "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+      "title": "CSS Crash Course For Absolute Beginners",
+      "description": "In this video I will cram as much as possible about CSS. We will be looking at styles, selectors, declarations, etc. We will build a ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/yfoY53QXEnI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/yfoY53QXEnI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/yfoY53QXEnI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Traversy Media",
+      "liveBroadcastContent": "none",
+      "publishTime": "2017-07-19T15:01:36Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "eL4YzfikkAKEnQF3xbh_ddkXi7c",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "R9Zj5HhCoDQ"
+    },
+    "snippet": {
+      "publishedAt": "2025-03-20T17:18:58Z",
+      "channelId": "UCaFDF4_wiwDjdiILeQGv3Ag",
+      "title": "Learn GraphQL form Beginner to expert | Spring Boot Project for Beginners &amp; Pros | part 1",
+      "description": "GRAPHQL #coding Master GraphQL in Simple Steps | Complete Beginner's Guide to GraphQL Welcome to this ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/R9Zj5HhCoDQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/R9Zj5HhCoDQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/R9Zj5HhCoDQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TecnoTab",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-03-20T17:18:58Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "l9zIVrxdYyWA3EffmmWGv6n7kVA",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "vA5TTz6BXhY"
+    },
+    "snippet": {
+      "publishedAt": "2025-01-13T15:01:15Z",
+      "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+      "title": "Git &amp; GitHub Crash Course 2025",
+      "description": "This is a crash course to learn the fundamentals of Git version control and the Github platform. Learn all of the core commands ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vA5TTz6BXhY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vA5TTz6BXhY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vA5TTz6BXhY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Traversy Media",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-01-13T15:01:15Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "AFWUbmfrO3S-d5y8oF4cK1b-WAw",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "8sXRyHI3bLw"
+    },
+    "snippet": {
+      "publishedAt": "2024-01-23T14:00:05Z",
+      "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+      "title": "Web Development Technologies - A Practical Guide",
+      "description": "My annual guide to every web development technology that you can think of. We cover everything including frontend, backend, ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8sXRyHI3bLw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8sXRyHI3bLw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8sXRyHI3bLw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Traversy Media",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-01-23T14:00:05Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "Xj6EeDzTK8-f0xcbOhpD96WZww4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "PoRJizFvM7s"
+    },
+    "snippet": {
+      "publishedAt": "2018-06-22T13:13:12Z",
+      "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+      "title": "Async JS Crash Course - Callbacks, Promises, Async Await",
+      "description": "In this crash course we will look at asynchronous JavaScript and cover callbacks, promises including promise.all as well as the ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PoRJizFvM7s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PoRJizFvM7s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PoRJizFvM7s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Traversy Media",
+      "liveBroadcastContent": "none",
+      "publishTime": "2018-06-22T13:13:12Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "NaJlc3vke_NjstKuEXrY21darG8",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "XW1aGkzyjQg"
+    },
+    "snippet": {
+      "publishedAt": "2022-03-08T14:32:32Z",
+      "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+      "title": "Build Strength From Struggle | My Story",
+      "description": "This is my own personal story that I like to share with the world to show that it's possible to get to places in your life that you ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XW1aGkzyjQg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XW1aGkzyjQg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XW1aGkzyjQg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Traversy Media",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-03-08T14:32:32Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "doMS0xWfT1K-bQlFDKAfBsS4U3w",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "32M1al-Y6Ag"
+    },
+    "snippet": {
+      "publishedAt": "2024-04-23T16:52:27Z",
+      "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+      "title": "Node.js Crash Course",
+      "description": "This is an intro to Node.js. No frameworks or libraries. We will look at a bunch of the core modules including building a server with ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/32M1al-Y6Ag/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/32M1al-Y6Ag/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/32M1al-Y6Ag/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Traversy Media",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-04-23T16:52:27Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "QunmqDEKQeSP5eQbzA-G2NeaLrM",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "BI1o2H9z9fo"
+    },
+    "snippet": {
+      "publishedAt": "2023-07-26T12:40:21Z",
+      "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+      "title": "Modern JavaScript From The Beginning | First 12 Hours",
+      "description": "This is the first 12 hours of my 37-hour JavaScript course. In thes video we will go over the fundamentals in-depth. Get The Full ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BI1o2H9z9fo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BI1o2H9z9fo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BI1o2H9z9fo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Traversy Media",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-07-26T12:40:21Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "Ne6tNORQRzzWrwZQGC5tJUIufGY",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "H_pBvUFPceA"
+    },
+    "snippet": {
+      "publishedAt": "2022-02-01T14:30:06Z",
+      "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+      "title": "6 Of My Personal Tips When Learning To Code",
+      "description": "Here are some of the things that have always helped me learn to code. Written Version: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/H_pBvUFPceA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/H_pBvUFPceA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/H_pBvUFPceA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Traversy Media",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-02-01T14:30:06Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "4ufTFb5kkN4js4evn9v5QZOb02g",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "2mvs-ZT7Gj0"
+    },
+    "snippet": {
+      "publishedAt": "2025-01-02T16:46:48Z",
+      "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+      "title": "Has Coding Become Boring?",
+      "description": "A few tips for people that are getting bored as a software developer and a bit of my own experience. Check out my courses: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2mvs-ZT7Gj0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2mvs-ZT7Gj0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2mvs-ZT7Gj0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Traversy Media",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-01-02T16:46:48Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "JWg7ksWmHuyoCPaTGjGbRd3JIdo",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "3YW65K6LcIA"
+    },
+    "snippet": {
+      "publishedAt": "2022-01-18T14:00:01Z",
+      "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+      "title": "Flexbox Crash Course",
+      "description": "Flexbox is used for space distribution, positioning and alignment in CSS. Project Code: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3YW65K6LcIA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3YW65K6LcIA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3YW65K6LcIA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Traversy Media",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-01-18T14:00:01Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "62it7b1_DsWKtIQzxvvf0HVEPdI",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "9Oi3j-FNXxw"
+    },
+    "snippet": {
+      "publishedAt": "2024-11-22T16:20:12Z",
+      "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+      "title": "Feeling Stagnant As A Developer",
+      "description": "At some point, many developers start to feel stagnant and feel like they aren't making any progress. In this video, we will talk about ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9Oi3j-FNXxw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9Oi3j-FNXxw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9Oi3j-FNXxw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Traversy Media",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-11-22T16:20:12Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "V-F22h5bBlbo64G3dmOmu70zrAQ",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "HXYZxVbWkjc"
+    },
+    "snippet": {
+      "publishedAt": "2023-10-16T14:00:18Z",
+      "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+      "title": "Professional Website From Scratch | HTML &amp; CSS For Beginners",
+      "description": "We will create a professional-looking website from scratch using HTML, CSS and a bit of JavaScript. This project is ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HXYZxVbWkjc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HXYZxVbWkjc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HXYZxVbWkjc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Traversy Media",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-10-16T14:00:18Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "c5AVDtwfrk7R6ABVMv8T0DM5g2o",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "bCpFbERgj7s"
+    },
+    "snippet": {
+      "publishedAt": "2025-02-26T15:00:53Z",
+      "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+      "title": "React Native Crash Course+ | Build a Mobile App In 3 Hours",
+      "description": "In this 3-hour course, we will learn all about React Native for building iOS and Android apps. We will discuss the fundamentals ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bCpFbERgj7s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bCpFbERgj7s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bCpFbERgj7s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Traversy Media",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-02-26T15:00:53Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "Mtoh1KKAEyRLEEbFD0Ltgh3GmOc",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "BUCiSSyIGGU"
+    },
+    "snippet": {
+      "publishedAt": "2022-03-30T13:00:05Z",
+      "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+      "title": "PHP For Beginners | 3+ Hour Crash Course",
+      "description": "Your first step in learning PHP. We will go over all of the fundamentals and create a small PHP/MySQL project. ⭐ Sponsor: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BUCiSSyIGGU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BUCiSSyIGGU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BUCiSSyIGGU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Traversy Media",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-03-30T13:00:05Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "QFh8VTxcOn5TkyNgXwBZ1Au1h-I",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "V0P3Opf-zUs"
+    },
+    "snippet": {
+      "publishedAt": "2025-01-20T15:00:40Z",
+      "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+      "title": "TTS &amp; Translate App | Serverless Functions, Google Translate &amp; Web Speech API",
+      "description": "We will build a JavaScript web app that takes in some text and does TTS as well as the option to select a language to translate to.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/V0P3Opf-zUs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/V0P3Opf-zUs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/V0P3Opf-zUs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Traversy Media",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-01-20T15:00:40Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "l9VZOkUEibZ3SpwYsGJ2DV0MHAw",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "JJmcL1N2KQs"
+    },
+    "snippet": {
+      "publishedAt": "2018-11-28T22:28:31Z",
+      "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+      "title": "Python Crash Course For Beginners",
+      "description": "In this crash course we will be going over Python programming basics like variables, data types and structures, functions, loops, ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JJmcL1N2KQs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JJmcL1N2KQs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JJmcL1N2KQs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Traversy Media",
+      "liveBroadcastContent": "none",
+      "publishTime": "2018-11-28T22:28:31Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "y3rXsVVlQ6-ERU4QIiHdLDEHftE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "PtQiiknWUcI"
+    },
+    "snippet": {
+      "publishedAt": "2021-09-29T14:00:10Z",
+      "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+      "title": "Python Django 7 Hour Course",
+      "description": "Build a discord-like application with Python Django. Visit the finished application at https://studybuddev.herokuapp.com/ Get The ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PtQiiknWUcI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PtQiiknWUcI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PtQiiknWUcI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Traversy Media",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-09-29T14:00:10Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "SBBIIhVfEqXcH6TWSkBasLiGFjs",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "CnH3kAXSrmU"
+    },
+    "snippet": {
+      "publishedAt": "2024-05-07T13:00:11Z",
+      "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+      "title": "Express Crash Course",
+      "description": "Get started with the most popular web framework for Node.js. Code from Video: https://github.com/bradtraversy/express-crash/ ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CnH3kAXSrmU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CnH3kAXSrmU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CnH3kAXSrmU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Traversy Media",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-05-07T13:00:11Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "HC1uAJLcuZQKznRG3zq4PAq7v38",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "dFgzHOX84xQ"
+    },
+    "snippet": {
+      "publishedAt": "2022-04-05T13:00:20Z",
+      "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+      "title": "Tailwind Crash Course | Project From Scratch",
+      "description": "In this video, we will set up Tailwind CLI and create a landing page from start to finish, going over many of the common utility ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dFgzHOX84xQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dFgzHOX84xQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dFgzHOX84xQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Traversy Media",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-04-05T13:00:20Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "xkx0pyYMq7iSFm7MKSduUhN7XhA",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "0xMQfnTU6oo"
+    },
+    "snippet": {
+      "publishedAt": "2022-03-02T14:00:00Z",
+      "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+      "title": "CSS Grid Crash Course",
+      "description": "This crash course will teach you all of the fundamentals of CSS Grid ⭐ Sponsor: InMotion Hosting! https://bit.ly/35rBjYU Code: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0xMQfnTU6oo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0xMQfnTU6oo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0xMQfnTU6oo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Traversy Media",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-03-02T14:00:00Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "uVSHh-5IxeFHv-q7gRk47DOBRWE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "BQGxEn9oWxc"
+    },
+    "snippet": {
+      "publishedAt": "2018-11-23T13:15:18Z",
+      "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+      "title": "10 Bad Habits To Avoid As A Developer",
+      "description": "In this video we will look at 10 bad habits that I have had experience with and have seen over and over in web development.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BQGxEn9oWxc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BQGxEn9oWxc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BQGxEn9oWxc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Traversy Media",
+      "liveBroadcastContent": "none",
+      "publishTime": "2018-11-23T13:15:18Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "1dUcLFb2QDKIdMnorcMHgUq3y6Q",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "3dHNOWTI7H8"
+    },
+    "snippet": {
+      "publishedAt": "2021-05-06T15:40:03Z",
+      "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+      "title": "Angular Crash Course",
+      "description": "Learn the fundamentals of Angular in this project-based crash course Video Sponsor: https://www.hostinger.com/traversymedia ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3dHNOWTI7H8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3dHNOWTI7H8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3dHNOWTI7H8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Traversy Media",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-05-06T15:40:03Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "rezzyN1tp1rHUMAEwrcLXPzX9Q8",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "p0bGHP-PXD4"
+    },
+    "snippet": {
+      "publishedAt": "2020-10-23T13:44:49Z",
+      "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+      "title": "Build a Responsive Website | HTML, CSS Grid, Flexbox &amp; More",
+      "description": "In this project we will build a custom website using HTML5 and modern CSS techniques such as CSS Grid, Flexbox, psuedo ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/p0bGHP-PXD4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/p0bGHP-PXD4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/p0bGHP-PXD4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Traversy Media",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-10-23T13:44:49Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "b99jtDCAaZAWPZ4tJXAhdgtnumc",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "MYyJ4PuL4pY"
+    },
+    "snippet": {
+      "publishedAt": "2022-04-26T13:00:19Z",
+      "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+      "title": "Laravel From Scratch | 4+ Hour Course",
+      "description": "Learn the Laravel PHP framework from scratch by building a job listings application with Laravel and MySQL. ⭐ Sponsor: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/MYyJ4PuL4pY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/MYyJ4PuL4pY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/MYyJ4PuL4pY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Traversy Media",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-04-26T13:00:19Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "70Yx_MA1RzFaW3c0aJ0mMR6-esQ",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "4sosXZsdy-s"
+    },
+    "snippet": {
+      "publishedAt": "2021-06-09T13:28:51Z",
+      "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+      "title": "Bootstrap 5 Crash Course | Website Build &amp; Deploy",
+      "description": "Beginner-friendly website project using Bootstrap 5 Hostinger: https://www.hostinger.com/traversymedia - Use the code ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4sosXZsdy-s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4sosXZsdy-s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4sosXZsdy-s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Traversy Media",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-06-09T13:28:51Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "q2zpEzIRF03-wfr-KvUh7zAWooI",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "BCg4U1FzODs"
+    },
+    "snippet": {
+      "publishedAt": "2021-08-18T13:13:38Z",
+      "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+      "title": "TypeScript Crash Course",
+      "description": "Learn the basics of TypeScript in this beginner-friendly crash course Visit Our Sponsor: Stream https://getstream.io/traversy ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BCg4U1FzODs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BCg4U1FzODs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BCg4U1FzODs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Traversy Media",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-08-18T13:13:38Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "pyFo6zhwEuqrDTq2V6wH9Jz5J0E",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "J6rVaFzOEP8"
+    },
+    "snippet": {
+      "publishedAt": "2020-03-10T13:27:24Z",
+      "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+      "title": "Guide To Becoming A Self-Taught Software Developer",
+      "description": "In this video I will go through my 9 suggested steps for becoming a software developer of any type without going to college or ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/J6rVaFzOEP8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/J6rVaFzOEP8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/J6rVaFzOEP8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Traversy Media",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-03-10T13:27:24Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "0W_ONbiz4jkzVQPMW8yqQ69nMks",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "VeNfHj6MhgA"
+    },
+    "snippet": {
+      "publishedAt": "2024-07-01T14:00:32Z",
+      "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+      "title": "Vue.js Crash Course",
+      "description": "3 Hour crash course of the Vue.js framework. You will learn all the fundamentals including components, directives, lifecycle, ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VeNfHj6MhgA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VeNfHj6MhgA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VeNfHj6MhgA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Traversy Media",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-07-01T14:00:32Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "ohCZ7m8qCPQDKjfyVDm32jGrgm0",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Evd_7kubWOk"
+    },
+    "snippet": {
+      "publishedAt": "2024-12-23T14:47:15Z",
+      "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+      "title": "New 22+ Hour Course - Build an Ecommerce Platform with Next.js, TypeScript, PostgreSQL &amp; Prisma",
+      "description": "Coupon: NEXT2025 https://www.traversymedia.com/nextjs-ecommerce UDEMY: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Evd_7kubWOk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Evd_7kubWOk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Evd_7kubWOk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Traversy Media",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-12-23T14:47:15Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "3yJ9pMhdXivh-fMRRFtyuxHRqyQ",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "xkGhNqVa1Vs"
+    },
+    "snippet": {
+      "publishedAt": "2024-02-06T14:00:42Z",
+      "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+      "title": "Stop Worrying About AI!",
+      "description": "In this quick video, I will share my opinion on AI and how it will affect software development. Check out my premium courses: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xkGhNqVa1Vs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xkGhNqVa1Vs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xkGhNqVa1Vs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Traversy Media",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-02-06T14:00:42Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "ZrFWf0_QuvYcL6kZtocFn7mt30w",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "PyaSnpXssks"
+    },
+    "snippet": {
+      "publishedAt": "2025-01-07T15:00:33Z",
+      "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+      "title": "React Admin Crash Course 2025",
+      "description": "Learn how to create a full-featured admin panel for your APIs while writing very little code using React Admin. We will create a ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PyaSnpXssks/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PyaSnpXssks/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PyaSnpXssks/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Traversy Media",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-01-07T15:00:33Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "r2d4-QAqCGNorCR9m7m7pDtCM0A",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "UBOj6rqRUME"
+    },
+    "snippet": {
+      "publishedAt": "2019-07-24T16:02:07Z",
+      "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+      "title": "Tailwind CSS Crash Course",
+      "description": "Updated 2022 Crash Course - https://youtu.be/dFgzHOX84xQ In this video we will look at the TailwindCSS utility framework ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UBOj6rqRUME/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UBOj6rqRUME/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UBOj6rqRUME/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Traversy Media",
+      "liveBroadcastContent": "none",
+      "publishTime": "2019-07-24T16:02:07Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "pMtYt1PJa06h9ccNsaKYJT_THwo",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "9ylj9NR0Lcg"
+    },
+    "snippet": {
+      "publishedAt": "2019-04-22T20:51:55Z",
+      "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+      "title": "MySQL Crash Course | Learn SQL",
+      "description": "In this video we will look at installing mysql, creating users, writing SQL queries via the shell and Workbench and even ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9ylj9NR0Lcg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9ylj9NR0Lcg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9ylj9NR0Lcg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Traversy Media",
+      "liveBroadcastContent": "none",
+      "publishTime": "2019-04-22T20:51:55Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "aJF4kJD7rblg1esm2e6DVvelqh0",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "vi8GrSp4Y6w"
+    },
+    "snippet": {
+      "publishedAt": "2024-09-24T16:01:35Z",
+      "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+      "title": "Course Announcement - Laravel From Scratch",
+      "description": "PROMO - LARAVEL2024 https://www.traversymedia.com/laravel-from-scratch UDEMY: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vi8GrSp4Y6w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vi8GrSp4Y6w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vi8GrSp4Y6w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Traversy Media",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-09-24T16:01:35Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "VptreVFhizpRKHBRzg4CAamakrE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "R4AhvYORZRY"
+    },
+    "snippet": {
+      "publishedAt": "2023-05-15T14:02:25Z",
+      "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+      "title": "MERN Crash Course | JWT Authentication, Redux Toolkit, Deployment &amp; More",
+      "description": "In this project, we will create a MERN stack app with a React SPA frontend. The main focus is authentication, but you will learn ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/R4AhvYORZRY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/R4AhvYORZRY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/R4AhvYORZRY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Traversy Media",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-05-15T14:02:25Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "c8XQ96JzLn5iikLRPUmGuRb25_o",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "askbjJx-BQg"
+    },
+    "snippet": {
+      "publishedAt": "2018-05-08T12:55:52Z",
+      "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+      "title": "Learning &amp; Memorizing In Programming",
+      "description": "In this video I will briefly talk about learning strategies and how you should memorize coding concepts not necessarily the actual ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/askbjJx-BQg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/askbjJx-BQg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/askbjJx-BQg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Traversy Media",
+      "liveBroadcastContent": "none",
+      "publishTime": "2018-05-08T12:55:52Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "i55KrC3E-uvqY19d-9SLUifMCdw",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "UX36flnDv-0"
+    },
+    "snippet": {
+      "publishedAt": "2019-01-25T11:42:14Z",
+      "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+      "title": "Start Building Your Empire As A Developer",
+      "description": "In this video I will discuss the mindset to be able to build your own business from the ground up and unlocking your potential as an ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UX36flnDv-0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UX36flnDv-0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UX36flnDv-0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Traversy Media",
+      "liveBroadcastContent": "none",
+      "publishTime": "2019-01-25T11:42:14Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "4rQOEmYtUFU9hI-wekP6sUOIR6g",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Wm6CUkswsNw"
+    },
+    "snippet": {
+      "publishedAt": "2016-12-25T16:11:06Z",
+      "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+      "title": "Build An HTML5 Website With A Responsive Layout",
+      "description": "In this video we will build a clean coded responsive mobile friendly HTML5 website for a fictional web design company. We will go ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Wm6CUkswsNw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Wm6CUkswsNw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Wm6CUkswsNw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Traversy Media",
+      "liveBroadcastContent": "none",
+      "publishTime": "2016-12-25T16:11:06Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "8-guTygzxN-ShXIascONPPDqlt8",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "-0exw-9YJBo"
+    },
+    "snippet": {
+      "publishedAt": "2022-02-07T14:00:00Z",
+      "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+      "title": "Learn The MERN Stack - Express &amp; MongoDB Rest API",
+      "description": "In this video, we will create a RESTful API from scratch with Node.js, Express, MongoDB and Mongoose. Code: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-0exw-9YJBo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-0exw-9YJBo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-0exw-9YJBo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Traversy Media",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-02-07T14:00:00Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "_siJqPic0M7Ci-Q2MDuytuuEfIk",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "0ik6X4DJKCc"
+    },
+    "snippet": {
+      "publishedAt": "2017-09-12T14:38:01Z",
+      "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+      "title": "JavaScript DOM Crash Course - Part 1",
+      "description": "This crash course focuses on the DOM WITHOUT JQUERY. In this part we will talk about what the JavaScript DOM (Document ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0ik6X4DJKCc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0ik6X4DJKCc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0ik6X4DJKCc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Traversy Media",
+      "liveBroadcastContent": "none",
+      "publishTime": "2017-09-12T14:38:01Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "ylYrZbrr5XnFbVlrKwW8PydJn74",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "w7ejDZ8SWv8"
+    },
+    "snippet": {
+      "publishedAt": "2021-01-18T19:01:11Z",
+      "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+      "title": "React JS Crash Course",
+      "description": "Check out the latest version - https://www.youtube.com/watch?v=LDB4uaJ87e0 Get started with React in this crash course.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/w7ejDZ8SWv8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/w7ejDZ8SWv8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/w7ejDZ8SWv8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Traversy Media",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-01-18T19:01:11Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "7KkF5NPtl-FEH5FCSQG6jtMpalA",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "LwbhBz9jx-M"
+    },
+    "snippet": {
+      "publishedAt": "2019-06-03T13:04:11Z",
+      "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+      "title": "Stop Comparing Yourself To Other Developers",
+      "description": "In this video we will talk a little bit about Imposter Syndrome and comparing yourself to other developers. Become a Patron: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LwbhBz9jx-M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LwbhBz9jx-M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LwbhBz9jx-M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Traversy Media",
+      "liveBroadcastContent": "none",
+      "publishTime": "2019-06-03T13:04:11Z"
+    }
+  }
+]
