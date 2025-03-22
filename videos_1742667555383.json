@@ -1,0 +1,1702 @@
+[
+  {
+    "kind": "youtube#searchResult",
+    "etag": "yTfzbTrWM4k0i7OwVq-5kTyXmY0",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "116elYvjJ1M"
+    },
+    "snippet": {
+      "publishedAt": "2025-03-19T15:19:02Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "Most Detailed DevOps Roadmap | Weekly Breakdown",
+      "description": "Download Study Guide + DevOps Roadmap PDF Bundle here: https://bit.ly/3Pp8xM9 ▭▭ A clear, actionable DevOps Roadmap ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/116elYvjJ1M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/116elYvjJ1M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/116elYvjJ1M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-03-19T15:19:02Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "e9DOO40AXtrciQQ8IzMk6MMlV7U",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "QkdkLdMBuL0"
+    },
+    "snippet": {
+      "publishedAt": "2025-02-19T14:10:45Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "Kafka Tutorial for Beginners | Everything you need to get started",
+      "description": "Step by Step DevOps Roadmap PDF: https://bit.ly/4jv2qDH Apache Kafka Tutorial | Everything you need to know: What is Kafka, ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QkdkLdMBuL0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QkdkLdMBuL0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QkdkLdMBuL0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-02-19T14:10:45Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "FsKYe5tml9aQf93SNVam80S-3XU",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "1J2YOV6LcwY"
+    },
+    "snippet": {
+      "publishedAt": "2024-12-17T15:04:18Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "Complete DevOps Roadmap 2025 - Master these 4 Levels!",
+      "description": "Master the 4 Stages of Learning DevOps to become a Pro | DevOps Roadmap to go from Zero to DevOps Expert in 2025 ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1J2YOV6LcwY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1J2YOV6LcwY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1J2YOV6LcwY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-12-17T15:04:18Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "IvhmlK7pATJaigLxIIoCABIBm0Y",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "t8pPdKYpowI"
+    },
+    "snippet": {
+      "publishedAt": "2021-03-05T14:10:17Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "Python Tutorial for Beginners - Learn Python in 5 Hours [FULL COURSE]",
+      "description": "Python Tutorial for Beginners | Full Python Course | Learn Python in 2023 The Ultimate IT Beginner's Course: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/t8pPdKYpowI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/t8pPdKYpowI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/t8pPdKYpowI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-03-05T14:10:17Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "V2CHGhqjmezlsKnGwWEReBOIaus",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Cthla7KqU04"
+    },
+    "snippet": {
+      "publishedAt": "2022-04-06T13:59:09Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "How I learn new technologies as a DevOps Engineer (without being overwhelmed)",
+      "description": "Talking about how to learn and stay up to date as a DevOps Engineer ▭▭▭▭▭▭ ⬇️ Resources to learn DevOps ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Cthla7KqU04/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Cthla7KqU04/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Cthla7KqU04/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-04-06T13:59:09Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "MKJe4AyLjh9mYEO6VUY27BROn5E",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "l5k1ai_GBDE"
+    },
+    "snippet": {
+      "publishedAt": "2020-07-04T14:26:54Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "Terraform explained in 15 mins | Terraform Tutorial for Beginners",
+      "description": "Terraform explained for Beginners | Terraform Tutorial for Beginners | Terraform Architecture explained Understand what ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/l5k1ai_GBDE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/l5k1ai_GBDE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/l5k1ai_GBDE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-07-04T14:26:54Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "N4kiDRUsNhHObHC3Pr6RjXuPfK8",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "X48VuDVv0do"
+    },
+    "snippet": {
+      "publishedAt": "2020-11-06T15:41:47Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]",
+      "description": "Full Kubernetes Tutorial | Kubernetes Course | Hands-on course with a lot of demos Become a Kubernetes Administrator ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/X48VuDVv0do/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/X48VuDVv0do/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/X48VuDVv0do/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-11-06T15:41:47Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "ZrmyYZ9SdqGhOFn1jx3cml6lqjk",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "3c-iBn73dDE"
+    },
+    "snippet": {
+      "publishedAt": "2020-10-21T19:26:53Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "Docker Tutorial for Beginners [FULL COURSE in 3 Hours]",
+      "description": "Full Docker Tutorial | Complete Docker Course | Hands-on course with a lot of demos and explaining the concepts behind, so that ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3c-iBn73dDE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3c-iBn73dDE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3c-iBn73dDE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-10-21T19:26:53Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "0SgaHaGdp5Tvwl7tcDgE9f3wSj8",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "yVUmwOdGkh0"
+    },
+    "snippet": {
+      "publishedAt": "2025-03-20T13:00:21Z",
+      "channelId": "UCPd0c-gcxq5E2_tUUA9eEBA",
+      "title": "🎉✨️Python கத்துக்க Best Udemy Courses &amp; YouTube Channels 🎉✨️ | Sri Balaji",
+      "description": "We will be discussing about Python courses out there currently and the best ones to choose from various platforms to give the ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/yVUmwOdGkh0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/yVUmwOdGkh0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/yVUmwOdGkh0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Tamil Cloud ",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-03-20T13:00:21Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "MWIL88lTMCWSrdYLTIUK4WHU87s",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "s_o8dwzRlu4"
+    },
+    "snippet": {
+      "publishedAt": "2021-09-30T14:14:10Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "Kubernetes Crash Course for Absolute Beginners [NEW]",
+      "description": "Hands-On Kubernetes Tutorial | Learn Kubernetes in 1 Hour - Kubernetes Course for Beginners Become a Kubernetes ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/s_o8dwzRlu4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/s_o8dwzRlu4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/s_o8dwzRlu4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-09-30T14:14:10Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "qjo-gSdce93j975Og59Cm1DNqHw",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "xo5V9g9joFs"
+    },
+    "snippet": {
+      "publishedAt": "2024-09-10T14:06:02Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "Proxy vs Reverse Proxy vs Load Balancer | Simply Explained",
+      "description": "Understand the difference of Forward Proxy vs Reverse Proxy and Load Balancer with examples Whether you are an engineer or ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xo5V9g9joFs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xo5V9g9joFs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xo5V9g9joFs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-09-10T14:06:02Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "wsSYhgH2T8s8Jl5yXzixO-PZdyk",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "9pZ2xmsSDdo"
+    },
+    "snippet": {
+      "publishedAt": "2021-01-17T16:21:12Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "DevOps Roadmap 2024 - How to become a DevOps Engineer? What is DevOps?",
+      "description": "DevOps Roadmap 2024 | How to become a DevOps Engineer in 2024 | What is DevOps | DevOps Tutorial for Beginners ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9pZ2xmsSDdo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9pZ2xmsSDdo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9pZ2xmsSDdo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-01-17T16:21:12Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "tGKMgmY-28To84fV8oVJQQCdrc0",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "yyUHQIec83I"
+    },
+    "snippet": {
+      "publishedAt": "2021-12-20T15:05:11Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "Golang Tutorial for Beginners | Full Go Course",
+      "description": "Full Golang Tutorial to learn the Go Programming Language while building a simple CLI application In this full Golang course you ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/yyUHQIec83I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/yyUHQIec83I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/yyUHQIec83I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-12-20T15:05:11Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "4cRvyCH4wGOAxcZ-KjEUB-GaJ8Q",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "f5EpcWp0THw"
+    },
+    "snippet": {
+      "publishedAt": "2021-06-14T14:12:27Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "What is GitOps, How GitOps works and Why it&#39;s so useful",
+      "description": "What GitOps is, how GitOps works and the benefits of using GitOps in 10 minutes. ▻ FREE E-Book \"Kubernetes Backup ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/f5EpcWp0THw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/f5EpcWp0THw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/f5EpcWp0THw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-06-14T14:12:27Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "vnw1r0dDc5SEfY03ZFeT0IVpHHI",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "pg19Z8LL06w"
+    },
+    "snippet": {
+      "publishedAt": "2023-02-15T15:08:45Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "Docker Crash Course for Absolute Beginners [NEW]",
+      "description": "Docker Tutorial for Beginners that teaches you everything you need to get started Connect on Instagram ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/pg19Z8LL06w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/pg19Z8LL06w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/pg19Z8LL06w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-02-15T15:08:45Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "8lsn51ITmeMtHOmnrzAvXqmDhFk",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "G_nVMUtaqCk"
+    },
+    "snippet": {
+      "publishedAt": "2022-10-13T13:31:51Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "From Zero to DevOps Engineer - DevOps Roadmap for YOUR specific background",
+      "description": "DevOps Roadmaps for most common backgrounds like software engineer, sys admin, test automation engineer, network engineer ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/G_nVMUtaqCk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/G_nVMUtaqCk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/G_nVMUtaqCk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-10-13T13:31:51Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "NLDxgZi4Rz1QwRXpfDPg5l19BRs",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "q8OleYuqntY"
+    },
+    "snippet": {
+      "publishedAt": "2024-11-14T15:15:17Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "Full NGINX Tutorial - Demo Project with Node.js, Docker",
+      "description": "Full NGINX Tutorial for Beginners - Even if you've never used Nginx before, this crash course will get you up to speed with a ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/q8OleYuqntY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/q8OleYuqntY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/q8OleYuqntY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-11-14T15:15:17Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "ZZJxIiMGQK_gsH4GBaEKh9Zz6vo",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "XmWkcePhf84"
+    },
+    "snippet": {
+      "publishedAt": "2022-12-19T15:49:59Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "A Guide of how to get started in IT in 2024 - Top IT Career Paths",
+      "description": "A Ultimate Guide or Roadmap of how to get started in IT | Overview of different IT careers | Top IT career paths for beginners | Top ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XmWkcePhf84/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XmWkcePhf84/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XmWkcePhf84/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-12-19T15:49:59Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "G7CGJ0faap0-TRAC508hUHQAUSo",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "N1-mhvUghb0"
+    },
+    "snippet": {
+      "publishedAt": "2023-05-08T13:43:10Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "Cloud Engineer vs DevOps Engineer - Differences and Overlaps of tasks and responsibilities",
+      "description": "Differences and Overlaps of Cloud and DevOps Engineer Roles as well as deep dive of Cloud Engineer Tasks and ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/N1-mhvUghb0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/N1-mhvUghb0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/N1-mhvUghb0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-05-08T13:43:10Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "wmUSLlBBC6djveOYenmDfKNKA5w",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "rv4LlmLmVWk"
+    },
+    "snippet": {
+      "publishedAt": "2022-08-16T14:14:19Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "Microservices explained - the What, Why and How?",
+      "description": "What are Microservices | Monolithic to Microservices Architecture | Monorepo vs Polyrepo | How Microservices connect with each ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rv4LlmLmVWk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rv4LlmLmVWk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rv4LlmLmVWk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-08-16T14:14:19Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "RbnmPVESSnLs-leS5puhjUvnChk",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "XCZWyN9ZbEQ"
+    },
+    "snippet": {
+      "publishedAt": "2024-10-14T13:22:24Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "Full Golang Tutorial - Learn Go by Building a TodoList App",
+      "description": "A Complete Go Crash Course for Beginners to learn the core Go concepts by writing a simple TodoList Application ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XCZWyN9ZbEQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XCZWyN9ZbEQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XCZWyN9ZbEQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-10-14T13:22:24Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "fM1bIH3oDGC3IvBxK0ma8YorJ-E",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "S8eX0MxfnB4"
+    },
+    "snippet": {
+      "publishedAt": "2023-08-09T14:07:05Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "Kubernetes Roadmap - Complete Step-by-Step Learning Path",
+      "description": "Complete Kubernetes Roadmap for admins and developers to learn K8s the most efficient way - From Beginner to Advanced ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/S8eX0MxfnB4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/S8eX0MxfnB4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/S8eX0MxfnB4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-08-09T14:07:05Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "uxPDND8onMcadMg_v-6Eq-ZwXhI",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "0yWAtQ6wYNM"
+    },
+    "snippet": {
+      "publishedAt": "2022-01-18T15:12:05Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "What is DevOps? REALLY understand it | DevOps vs SRE",
+      "description": "What is DevOps? DevOps Tutorial for Beginners | Finally understand what DevOps really is and how it compares to SRE What ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0yWAtQ6wYNM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0yWAtQ6wYNM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0yWAtQ6wYNM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-01-18T15:12:05Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "JBJq6wKkTLirtIawZivBEqLdoS4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "5GanJdbHlAA"
+    },
+    "snippet": {
+      "publishedAt": "2019-11-04T14:40:32Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "Docker vs Virtual Machine | simply explained || Docker Tutorial 6",
+      "description": "In \"Docker vs Virtual Machine\" I simply explain what the main differences between Docker (Containerization) and Virtual Machine ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5GanJdbHlAA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5GanJdbHlAA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5GanJdbHlAA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2019-11-04T14:40:32Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "2TwzoPHdKqfKlpEFu4fe1DF-sNs",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "dtNeuZRcyB8"
+    },
+    "snippet": {
+      "publishedAt": "2024-01-15T20:18:09Z",
+      "channelId": "UCYHTwdOBne3eH1UFySCmtlQ",
+      "title": "@TechWorldwithNana How did you get started with #kubernetes",
+      "description": "Full Ep Here: https://youtu.be/Ki78jyF4FYM Dive into the world of tech community building with Nana Janashia on the Jon Myer ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dtNeuZRcyB8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dtNeuZRcyB8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dtNeuZRcyB8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Jon Myer Podcast Powered by Myer Media",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-01-15T20:18:09Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "2ZCSYCOl7ckg8zjcsfXyLTk1R5o",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "VnvRFRk_51k"
+    },
+    "snippet": {
+      "publishedAt": "2019-12-20T15:24:16Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "What is Kubernetes | Kubernetes explained in 15 mins",
+      "description": "What is Kubernetes and what problems Kubernetes solves? Become a Kubernetes Administrator - CKA: https://bit.ly/43lk9ER ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VnvRFRk_51k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VnvRFRk_51k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VnvRFRk_51k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2019-12-20T15:24:16Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "wIdELjr7KB0O9VWCYK9QheCHZRc",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "iInUBOVeBCc"
+    },
+    "snippet": {
+      "publishedAt": "2024-08-06T14:09:50Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "NGINX Explained - What is Nginx",
+      "description": "Learn what is Nginx, why do we need it, Nginx Use Cases as web server, reverse proxy and load balancer. As well as how to ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/iInUBOVeBCc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/iInUBOVeBCc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/iInUBOVeBCc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-08-06T14:09:50Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "Z5oy8stdDRy6Xqb9FcRUf1FJbmE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "FtaQSdrl7YA"
+    },
+    "snippet": {
+      "publishedAt": "2024-02-28T15:03:22Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "JavaScript Tutorial for Beginners [JS Crash Course 2024]",
+      "description": "JavaScript Tutorial for Beginners - Full JavaScript Course to learn JavaScript with Hands-On Examples and get the Complete ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/FtaQSdrl7YA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/FtaQSdrl7YA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/FtaQSdrl7YA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-02-28T15:03:22Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "AS2UQDuBLBYoueXNBGqJWV_aGpQ",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "boEB2fMUZnU"
+    },
+    "snippet": {
+      "publishedAt": "2024-07-03T13:38:57Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "Top 4 AI Tools for Engineers that are ACTUALLY useful",
+      "description": "Learn about useful AI tools in DevOps and Cloud to speed up coding, optimize cloud costs or drastically improve your monitoring ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/boEB2fMUZnU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/boEB2fMUZnU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/boEB2fMUZnU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-07-03T13:38:57Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "ju22JNJafDFp03ufNGnXY9xRMXc",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "-ykwb1d0DXU"
+    },
+    "snippet": {
+      "publishedAt": "2020-03-21T14:57:22Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "What is Helm in Kubernetes? Helm and Helm Charts explained  | Kubernetes Tutorial 23",
+      "description": "What is Helm and Helm Charts? When to use Helm and how to use it. Using Helm in practice ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-ykwb1d0DXU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-ykwb1d0DXU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-ykwb1d0DXU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-03-21T14:57:22Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "dMd6SCqEk6lM2kmsQkSAFF0uegw",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "1id6ERvfozo"
+    },
+    "snippet": {
+      "publishedAt": "2020-04-12T11:42:38Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "What is Ansible | Ansible Playbook explained | Ansible Tutorial for Beginners",
+      "description": "In this Ansible Tutorial I explain what is Ansible, how Ansible works and why to use Ansible for automating IT tasks. ▻ Become a ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1id6ERvfozo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1id6ERvfozo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1id6ERvfozo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-04-12T11:42:38Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "f2IMi_o7wTnypkXJVxVdHgd7EAY",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Iyfntbj2jWU"
+    },
+    "snippet": {
+      "publishedAt": "2022-11-30T15:24:11Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "Ultimate IT Fundamentals Course - From Zero to Engineer [22 Hours Released]",
+      "description": "Course for complete IT Beginners | Learning the complete Software Development Life Cycle by taking up all key roles (software ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Iyfntbj2jWU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Iyfntbj2jWU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Iyfntbj2jWU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-11-30T15:24:11Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "8PG4NWV1r8U5vFJ45ltduYOEg90",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "ghzsBm8vOms"
+    },
+    "snippet": {
+      "publishedAt": "2023-06-07T14:04:33Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "What is Platform Engineering and how it fits into DevOps and Cloud world",
+      "description": "Platform Engineering - What it is, how it works and how it fits into DevOps and Cloud world Also how to approach implementing an ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ghzsBm8vOms/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ghzsBm8vOms/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ghzsBm8vOms/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-06-07T14:04:33Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "yERbyWvxAChDa3YG9LjvuKJ6ZZE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "6KmVzP201bA"
+    },
+    "snippet": {
+      "publishedAt": "2024-01-01T17:27:20Z",
+      "channelId": "UCYHTwdOBne3eH1UFySCmtlQ",
+      "title": "TechWorld with Nana on becoming a YouTuber and Influencer",
+      "description": "Don't forget to Like, Subscribe, and hit the notification ✓ Subscribe: https://www.youtube.com/jonmyer/?sub_confirmation=1 ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6KmVzP201bA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6KmVzP201bA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6KmVzP201bA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Jon Myer Podcast Powered by Myer Media",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-01-01T17:27:20Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "f3cKJOX1khwsTh9zZg5XESdf9CU",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "UMQGyeAnfFE"
+    },
+    "snippet": {
+      "publishedAt": "2023-07-10T14:03:37Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "10 DevOps Tools you need to know - The Complete Guide",
+      "description": "10 DevOps Tools explained in 10 minutes - A short but comprehensive overview of the core DevOps tools that you need to build ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UMQGyeAnfFE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UMQGyeAnfFE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UMQGyeAnfFE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-07-10T14:03:37Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "TcMc5IEuKC4LIqWHU9oQkQdUHjI",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "qP8kir2GUgo"
+    },
+    "snippet": {
+      "publishedAt": "2022-06-09T14:17:27Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "GitLab CI CD Tutorial for Beginners [Crash Course]",
+      "description": "Learn GitLab CI/CD by building a complete CICD pipeline for a python demo project | with Docker GitLab Course with ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qP8kir2GUgo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qP8kir2GUgo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qP8kir2GUgo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-06-09T14:17:27Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "TO8jXgoLdAUcj8SYTUpFjPQN6wQ",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "jPdIRX6q4jA"
+    },
+    "snippet": {
+      "publishedAt": "2019-10-11T13:01:36Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "What is Docker? Docker container concept explained || Docker Tutorial 1",
+      "description": "What is Docker? What is a Docker container? Understand why Docker is used and what problems do containers solve for the ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jPdIRX6q4jA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jPdIRX6q4jA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jPdIRX6q4jA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2019-10-11T13:01:36Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "-dEpnzY9xvjZbuY5CjrJR6jEc_0",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "drTDBBrfqSE"
+    },
+    "snippet": {
+      "publishedAt": "2023-04-06T14:00:48Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "How I became a DevOps Engineer - Minidoc by @Honeypotio ​",
+      "description": "A \"day in the life\" kind of video talking about how I became a software engineer and DevOps engineer, university vs self-taught, ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/drTDBBrfqSE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/drTDBBrfqSE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/drTDBBrfqSE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-04-06T14:00:48Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "b-HfTV8eSRM4jYSWrPb6FRus2WI",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "klyAhaklGNU"
+    },
+    "snippet": {
+      "publishedAt": "2025-01-16T15:51:03Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "HashiCorp Vault Tutorial for Beginners - What, Why and How",
+      "description": "Full HashiCorp Vault Tutorial explaining What is HashiCorp Vault, How Vault works, Vault Architecture ▻ Download ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/klyAhaklGNU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/klyAhaklGNU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/klyAhaklGNU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-01-16T15:51:03Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "OZAEGUeV0_Xa8da82Plsb_a2MKY",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "16fgzklcF7Y"
+    },
+    "snippet": {
+      "publishedAt": "2021-01-01T14:29:15Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "Istio &amp; Service Mesh - simply explained in 15 mins",
+      "description": "Istio Service Mesh explained | Learn what Service Mesh and Istio is and how it works ▻ Step by Step Guide to setup Istio in K8s ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/16fgzklcF7Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/16fgzklcF7Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/16fgzklcF7Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-01-01T14:29:15Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "UXlE45Qy1NJ-KoUHfwLqdFaYTEw",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "pPQKAR1pA9U"
+    },
+    "snippet": {
+      "publishedAt": "2020-06-06T15:18:23Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "Kubernetes StatefulSet simply explained | Deployment vs StatefulSet",
+      "description": "StatefulSet Kubernetes | Understand what StatefulSet in Kubernetes is and how it works Using StatefulSet in practice ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/pPQKAR1pA9U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/pPQKAR1pA9U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/pPQKAR1pA9U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-06-06T15:18:23Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "R3_-elL22wO6Zf4ByBo2PTBmdtI",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "SXwC9fSwct8"
+    },
+    "snippet": {
+      "publishedAt": "2024-01-11T15:10:59Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "Ultimate Docker Compose Tutorial",
+      "description": "Learn Docker Compose - From Zero to Hero in 1 Hour 6-month DevOps Bootcamp: https://bit.ly/3tKPIvA GitLab Course with ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SXwC9fSwct8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SXwC9fSwct8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SXwC9fSwct8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-01-11T15:10:59Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "JmYfsw2-lAnxG6uAiokYrnjGTYM",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "gLJdrXPn0ns"
+    },
+    "snippet": {
+      "publishedAt": "2023-12-07T15:01:28Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "DevSecOps Tutorial for Beginners | CI Pipeline with GitHub Actions and Docker Scout",
+      "description": "DevSecOps Project | DevSecOps Pipeline for Python project with GitHub Actions - SAST Scan & Container Image Scanning ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gLJdrXPn0ns/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gLJdrXPn0ns/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gLJdrXPn0ns/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-12-07T15:01:28Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "BS72kMQzwnqrCTzdxcU3K8oyGTA",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Ms_jTcERvMY"
+    },
+    "snippet": {
+      "publishedAt": "2022-11-15T15:06:24Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "Is DevOps right for you? 13 points to consider",
+      "description": "Answering the question if DevOps profession is right for you and generally what it takes to be a DevOps engineer Follow me on ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Ms_jTcERvMY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Ms_jTcERvMY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Ms_jTcERvMY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-11-15T15:06:24Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "hSnCzJL87AkJUnwnHVLjJugQ7hw",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "4BibQ69MD8c"
+    },
+    "snippet": {
+      "publishedAt": "2022-07-19T14:23:14Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "Azure DevOps Tutorial for Beginners | CI/CD with Azure Pipelines",
+      "description": "Azure DevOps Tutorial | CI/CD with Azure DevOps Pipelines, Azure Repos, Azure Test Plans, Azure Boards Follow me on IG ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4BibQ69MD8c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4BibQ69MD8c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4BibQ69MD8c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-07-19T14:23:14Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "dYZ6nBrFtbX950uVW9OhhuJEbsY",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "9_s3h_GVzZc"
+    },
+    "snippet": {
+      "publishedAt": "2019-12-15T18:24:40Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "Docker vs Kubernetes vs Docker Swarm | Comparison in 5 mins",
+      "description": "What is the difference between Docker and Kubernetes? And Kubernetes or Docker Swarm? In my video \"Docker vs Kubernetes ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9_s3h_GVzZc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9_s3h_GVzZc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9_s3h_GVzZc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2019-12-15T18:24:40Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "cpR1WmC_LfVBsidrHGwu53scSD4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "T4Z7visMM4E"
+    },
+    "snippet": {
+      "publishedAt": "2020-10-28T15:29:41Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "Kubernetes Services explained | ClusterIP vs NodePort vs LoadBalancer vs Headless Service",
+      "description": "Complete Overview of Kubernetes Services | Kubernetes Services Types explained: ClusterIP vs NodePort vs LoadBalancer vs ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/T4Z7visMM4E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/T4Z7visMM4E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/T4Z7visMM4E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-10-28T15:29:41Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "9pEO1k4S0dDJ_O46v4HYB1FI8eE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "9JGONx_X4ho"
+    },
+    "snippet": {
+      "publishedAt": "2024-03-27T14:58:21Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "GitHub Copilot Tutorial | How useful is it for Cloud and DevOps?",
+      "description": "Does GitHub Copilot make you faster as a Cloud or DevOps engineer? The what, why and how of GitHub Copilot - Writing ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9JGONx_X4ho/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9JGONx_X4ho/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9JGONx_X4ho/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-03-27T14:58:21Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "-KneMdqyUwQAty84MfaqBUo6AUo",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "mQP0wqNT_DI"
+    },
+    "snippet": {
+      "publishedAt": "2021-08-05T13:45:38Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "Virtual Machines explained in 15 Mins",
+      "description": "What is a Virtual Machine? What is Virtualization? Why Virtualization is so useful? Virtual machines and the virtualization concept ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mQP0wqNT_DI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mQP0wqNT_DI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mQP0wqNT_DI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-08-05T13:45:38Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "TdUUxVDn4KSYvj0XqeEpkbfmhB4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "h4Sl21AKiDg"
+    },
+    "snippet": {
+      "publishedAt": "2020-04-24T16:11:40Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "How Prometheus Monitoring works | Prometheus Architecture explained",
+      "description": "Part of the DevOps Bootcamp More infos here: https://bit.ly/41Wc1cM Fully understand how Prometheus Monitoring works ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/h4Sl21AKiDg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/h4Sl21AKiDg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/h4Sl21AKiDg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-04-24T16:11:40Z"
+    }
+  }
+]
