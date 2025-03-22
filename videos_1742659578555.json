@@ -1,0 +1,342 @@
+[
+  {
+    "kind": "youtube#searchResult",
+    "etag": "AgTIFF__8YC_Vg0v0lyGKiQfA9E",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "KKr5_o4WA_Q"
+    },
+    "snippet": {
+      "publishedAt": "2023-11-30T15:31:06Z",
+      "channelId": "UCruRBI2b_5r9T6mcvIA_5BA",
+      "title": "কেন জাভাস্ক্রিপ্ট শিখবেন? Why to learn JavaScript 🔥",
+      "description": "This comprehensive JavaScript course, designed for absolute beginners, takes you from the basics of syntax to building ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KKr5_o4WA_Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KKr5_o4WA_Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KKr5_o4WA_Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Procoder BD",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-11-30T15:31:06Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "990j0BOqX1eVGICtHfH8parXRio",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "lkIFF4maKMU"
+    },
+    "snippet": {
+      "publishedAt": "2022-11-22T15:04:57Z",
+      "channelId": "UCsBjURrPoezykLs9EqgamOA",
+      "title": "100+ JavaScript Concepts you Need to Know",
+      "description": "The ultimate 10 minute JavaScript course that quickly breaks down over 100 key concepts every web developer should know.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lkIFF4maKMU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lkIFF4maKMU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lkIFF4maKMU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Fireship",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-11-22T15:04:57Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "2b0sy8HRDYZCAYnB-AtC7SwmEsk",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "y2OHIr_CZ4s"
+    },
+    "snippet": {
+      "publishedAt": "2023-05-25T03:10:04Z",
+      "channelId": "UCJaX72yu95GttcLP2u92Oew",
+      "title": "Pikachu | HTML CSS JavaScript",
+      "description": "shorts #html #css #javascript #tutorials #trending Source code: https://learning-axis.com/snippets/ Sound effects from Pixabay.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/y2OHIr_CZ4s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/y2OHIr_CZ4s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/y2OHIr_CZ4s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learning Axis",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-05-25T03:10:04Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "IiIol-6Z0htjX03WpWWSSczbZsg",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "W6NZfCO5SIk"
+    },
+    "snippet": {
+      "publishedAt": "2018-04-24T02:37:33Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "JavaScript Course for Beginners – Your First Step to Web Development",
+      "description": "Learn JavaScript basics with this quick, beginner-friendly course! ⚡ Perfect for new coders ready to build real skills and start ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/W6NZfCO5SIk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/W6NZfCO5SIk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/W6NZfCO5SIk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2018-04-24T02:37:33Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "UBqyBX4tNxPrW3_Cor7Gssykb_s",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "PkZNo7MFNFg"
+    },
+    "snippet": {
+      "publishedAt": "2018-12-10T14:13:40Z",
+      "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "title": "Learn JavaScript - Full Course for Beginners",
+      "description": "This complete 134-part JavaScript tutorial for beginners will teach you everything you need to know to get started with the ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PkZNo7MFNFg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PkZNo7MFNFg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "freeCodeCamp.org",
+      "liveBroadcastContent": "none",
+      "publishTime": "2018-12-10T14:13:40Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "by3sitB1KMdh5Xdpymk2ysQLnT8",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "xKpED7UCLv8"
+    },
+    "snippet": {
+      "publishedAt": "2024-03-22T13:01:03Z",
+      "channelId": "UCruRBI2b_5r9T6mcvIA_5BA",
+      "title": "এক ভিডিও তে JavaScript শিখুন | JavaScript for Absolute Beginner",
+      "description": "This comprehensive JavaScript course, designed for absolute beginners, takes you from the basics of syntax to building ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xKpED7UCLv8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xKpED7UCLv8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xKpED7UCLv8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Procoder BD",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-03-22T13:01:03Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "seTUnIdhvuFIZSd7zEsHf_KITQY",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "jNgppRzIaMc"
+    },
+    "snippet": {
+      "publishedAt": "2024-07-21T10:35:16Z",
+      "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+      "title": "How to master javascript",
+      "description": "How to master javascript.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jNgppRzIaMc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jNgppRzIaMc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jNgppRzIaMc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Chai aur Code",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-07-21T10:35:16Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "WdwGD6wv8YMbMWtQZqtAGMpkA1M",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "I5_Gx3JNho8"
+    },
+    "snippet": {
+      "publishedAt": "2024-05-29T19:37:45Z",
+      "channelId": "UC8ENHE5xdFSwx71u3fDH5Xw",
+      "title": "How To Master JavaScript",
+      "description": "Twitch Everything is built live on twitch Twitch : https://bit.ly/3xhFO3E Discord: discord.gg/ThePrimeagen Spotify DevHour: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/I5_Gx3JNho8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/I5_Gx3JNho8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/I5_Gx3JNho8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ThePrimeagen",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-05-29T19:37:45Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "6ToluBaOQvngHn7hzIugUJTvft4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "tFZyWS_8BGs"
+    },
+    "snippet": {
+      "publishedAt": "2025-03-20T05:30:29Z",
+      "channelId": "UChR_K42Pwp-ssMlKENjU6ug",
+      "title": "🔥 Build an E-Commerce Website with Bootstrap &amp; JavaScript for Beginners | Full Tutorial 👗🛒",
+      "description": "Want to build a stylish and fully responsive Fashion E-Commerce Website? In this step-by-step tutorial, you'll learn how to create a ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tFZyWS_8BGs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tFZyWS_8BGs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tFZyWS_8BGs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "K2infocom",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-03-20T05:30:29Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "L7GMBnQvmgRIJfElqQPzYzGi09A",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "EerdGm-ehJQ"
+    },
+    "snippet": {
+      "publishedAt": "2024-05-09T07:28:14Z",
+      "channelId": "UCB6dvaWu0N8uVq2yKsZ5s5g",
+      "title": "JavaScript Tutorial Full Course - Beginner to Pro",
+      "description": "Certificates are now available! https://courses.supersimple.dev/courses/javascript Enroll to get a Certificate of Completion and ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EerdGm-ehJQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/EerdGm-ehJQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/EerdGm-ehJQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "SuperSimpleDev",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-05-09T07:28:14Z"
+    }
+  }
+]
