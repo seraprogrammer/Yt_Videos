@@ -1,0 +1,1702 @@
+[
+  {
+    "kind": "youtube#searchResult",
+    "etag": "6R5213FCcVMrE7vx51X8IxOC58s",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "SL0az0RBXCA"
+    },
+    "snippet": {
+      "publishedAt": "2025-03-22T13:00:39Z",
+      "channelId": "UCZ34f0PHL-TC8vD31hVPZuw",
+      "title": "জীবনের টার্নিং পয়েন্ট! | বিয়ে, বাচ্চা, কোর্স আর জব পাওয়া | Real Life Success",
+      "description": "আজকের ভিডিওতে জানবো একজন প্রোগ্রামিং হিরো স্টুডেন্টের রিয়েল ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SL0az0RBXCA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SL0az0RBXCA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SL0az0RBXCA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming Hero Community",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-03-22T13:00:39Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "oTrC1uoB_FPhUqesKgc_x4cXE0I",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "ElAqHJk0-2Q"
+    },
+    "snippet": {
+      "publishedAt": "2023-12-10T16:15:00Z",
+      "channelId": "UCZ34f0PHL-TC8vD31hVPZuw",
+      "title": "প্রোগ্রামিং হিরোর কোর্স কী Full Stack Development?",
+      "description": "প্রোগ্রামিং হিরোর কোর্স কী Full Stack Development?   এই প্রশ্নটা বারবার ই ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ElAqHJk0-2Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ElAqHJk0-2Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ElAqHJk0-2Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming Hero Community",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-12-10T16:15:00Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "719rFzUhpgzZRRMNbdC7vQjQUeM",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Sat3AgVTeoY"
+    },
+    "snippet": {
+      "publishedAt": "2025-03-14T09:17:25Z",
+      "channelId": "UCZ34f0PHL-TC8vD31hVPZuw",
+      "title": "একজন মুসলমানের ক্যারিয়ার, বিয়ে ও আখিরাতের প্রস্তুতি:Dr.Shamsul Arefin Shakti",
+      "description": "একজন মুসলমানের ক্যারিয়ার, বিয়ে ও আখিরাতের প্রস্তুতি:Dr.Shamsul Arefin ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Sat3AgVTeoY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Sat3AgVTeoY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Sat3AgVTeoY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming Hero Community",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-03-14T09:17:25Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "prbevXf-J37pIUd-tKoV9u3JMFg",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "RxfuQQYGuVU"
+    },
+    "snippet": {
+      "publishedAt": "2024-08-15T15:00:25Z",
+      "channelId": "UCZ34f0PHL-TC8vD31hVPZuw",
+      "title": "কতটুকু English না জানলে Programming শিখতে পারবেন না || Programming Hero",
+      "description": "কতটুকু English না জানলে Programming শিখতে পারবেন না || How Much English Do You Really Need to ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/RxfuQQYGuVU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/RxfuQQYGuVU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/RxfuQQYGuVU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming Hero Community",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-08-15T15:00:25Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "NjABr428V7Ou6aLB4oC48yOZmik",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "-EE_0qtBXps"
+    },
+    "snippet": {
+      "publishedAt": "2024-10-12T14:00:00Z",
+      "channelId": "UCZ34f0PHL-TC8vD31hVPZuw",
+      "title": "সফলতার মূলমন্ত্র এই এক ভিডিওতেই - Secret of Success: Sharif Abu Hayat (Opu)",
+      "description": "সফলতার মূলমন্ত্র এই এক ভিডিওতেই - Secret of Success: Sharif Abu Hayat (Opu) আমরা ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-EE_0qtBXps/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-EE_0qtBXps/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-EE_0qtBXps/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming Hero Community",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-10-12T14:00:00Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "GkUeZGXBkhp9x8IC1NxoVFmpxzA",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "X_gYXXGMSHQ"
+    },
+    "snippet": {
+      "publishedAt": "2024-12-13T13:00:42Z",
+      "channelId": "UCZ34f0PHL-TC8vD31hVPZuw",
+      "title": "প্রোগ্রামিং হিরোর ওয়েব কোর্সে  কিভাবে এনরোল করবেন? How to enroll programming hero web course.",
+      "description": "Complete Web Development Batch 11 By Programming Hero ✓এনরোলমেন্ট শেষ: ডিসেম্বর ২৪, ২০২৪ ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/X_gYXXGMSHQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/X_gYXXGMSHQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/X_gYXXGMSHQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming Hero Community",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-12-13T13:00:42Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "KYYzSBrBwR5ixnQnGeyK4IoA_U8",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "DyxxZ_WgBFw"
+    },
+    "snippet": {
+      "publishedAt": "2024-05-18T15:00:19Z",
+      "channelId": "UCZ34f0PHL-TC8vD31hVPZuw",
+      "title": "টেক ক্যারিয়ারে Grow করতে হলে এই ব্যাসিক বিষয়গুলো জানতেই হবে:Shah Ali Newaj Topu | Programming Hero",
+      "description": "টেক ক্যারিয়ারে Grow করতে হলে এই ব্যাসিক বিষয়গুলো জানতেই হবে:Shah Ali ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DyxxZ_WgBFw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DyxxZ_WgBFw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DyxxZ_WgBFw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming Hero Community",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-05-18T15:00:19Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "KCX_JpyXAi5IRxk6iN_jGKbf-SE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "U9dnJZwKZSQ"
+    },
+    "snippet": {
+      "publishedAt": "2024-12-31T13:30:29Z",
+      "channelId": "UCZ34f0PHL-TC8vD31hVPZuw",
+      "title": "এই কাজ গুলো করা ছাড়া ইংলিশ বলতে পারবেন না || ইংলিশ স্পিকিং এর A to Z: Saiful Islam@EnglishTherapybd",
+      "description": "আমাদের অনেকের টেকনিক্যাল স্কিল অসাধারণ, হার্ডস্কিলেও দারুণ ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/U9dnJZwKZSQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/U9dnJZwKZSQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/U9dnJZwKZSQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming Hero Community",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-12-31T13:30:29Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "kp25Nx-K_ePSl1XaTy0STvVBnrg",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "AgW9SZjwBNM"
+    },
+    "snippet": {
+      "publishedAt": "2023-12-13T16:45:00Z",
+      "channelId": "UCZ34f0PHL-TC8vD31hVPZuw",
+      "title": "Job Holder, Full Time Students কী দিনে ৭-৮ ঘন্টা এই কোর্সে দেয়া পসিবল?",
+      "description": "Job Holder, Full Time Students কী দিনে ৭-৮ ঘন্টা এই কোর্সে দেয়া পসিবল? ‍   আমাদের ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/AgW9SZjwBNM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/AgW9SZjwBNM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/AgW9SZjwBNM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming Hero Community",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-12-13T16:45:00Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "kiHy1ze_HfliBJhERSOl_K5uJcw",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "SH8VxZcY04g"
+    },
+    "snippet": {
+      "publishedAt": "2025-02-15T13:30:25Z",
+      "channelId": "UCZ34f0PHL-TC8vD31hVPZuw",
+      "title": "আমি Arts নিয়ে পড়েছি কিন্তু মাইন্ডসেট ছিলো IT তে Career গড়বো || Non CSE To Web Developer",
+      "description": "SSC এর পর থেকেই ক্যারিয়ারে কিছু একটা করতে হবে—এই চিন্তা মাথায় ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SH8VxZcY04g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SH8VxZcY04g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SH8VxZcY04g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming Hero Community",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-02-15T13:30:25Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "0-QmBbLS5FPJCUOCs4kvgwKCXVs",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "PvSQU22oxkg"
+    },
+    "snippet": {
+      "publishedAt": "2025-01-12T13:50:09Z",
+      "channelId": "UCZ34f0PHL-TC8vD31hVPZuw",
+      "title": "জব সেক্টরে কেন ভারতীয়দের সাথে পেরে উঠি না? Hasnaeen Rizvi - CEO @AsthaIT",
+      "description": "আজকের এপিসোডে আমাদের সাথে আছেন ASTHA-IT-এর Founder & CEO, Hasneen Rizvi Rahman।",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PvSQU22oxkg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PvSQU22oxkg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PvSQU22oxkg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming Hero Community",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-01-12T13:50:09Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "2sgUGPSCkQnKhnp6WBUJ1Bmgc48",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "bTMOlhVSDYQ"
+    },
+    "snippet": {
+      "publishedAt": "2024-09-28T14:30:16Z",
+      "channelId": "UCZ34f0PHL-TC8vD31hVPZuw",
+      "title": "Multitasking যেভাবে আপনার ক্যারিয়ার ধ্বংস করছে:@IamDr.Kushal || Programming Hero",
+      "description": "Multitasking যেভাবে আপনার ক্যারিয়ার ধ্বংস করছে:‎@IamDr.Kushal || Programming Hero. আমরা ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bTMOlhVSDYQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bTMOlhVSDYQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bTMOlhVSDYQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming Hero Community",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-09-28T14:30:16Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "4c5eAN5nAU6taVyCRSoRRbWe0h4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "QFc75-AIyE4"
+    },
+    "snippet": {
+      "publishedAt": "2024-11-10T14:00:18Z",
+      "channelId": "UCZ34f0PHL-TC8vD31hVPZuw",
+      "title": "Gen-z গভীর চিন্তা করতে অক্ষম - Education System in Bangladesh: Fahad Sir",
+      "description": "Gen-Z কি আসলেই গভীর চিন্তা করতে অক্ষম? আজকাল প্রযুক্তির অবিরাম ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QFc75-AIyE4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QFc75-AIyE4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QFc75-AIyE4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming Hero Community",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-11-10T14:00:18Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "c2OrFG7jBLTIyw4WNnIdzg4m8g0",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "4A5vQoHerU8"
+    },
+    "snippet": {
+      "publishedAt": "2022-05-11T06:10:21Z",
+      "channelId": "UCZ34f0PHL-TC8vD31hVPZuw",
+      "title": "Front-End Developer হতে কোন স্কিলগুলো শিখতেই হবে | Essential skill for frontend developer-Sumit Saha",
+      "description": "Front-End Developer হতে কোন স্কিলগুলো শিখতেই হবে || Sumit Saha Website: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4A5vQoHerU8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4A5vQoHerU8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4A5vQoHerU8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming Hero Community",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-05-11T06:10:21Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "tpJbg4UPSESr4aJUpNJ87uj9d1k",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "JEAYNvLs5nQ"
+    },
+    "snippet": {
+      "publishedAt": "2024-07-05T15:00:14Z",
+      "channelId": "UCZ34f0PHL-TC8vD31hVPZuw",
+      "title": "পরিবারের চাওয়া ছিলো BCS Cadre কিন্তু আমি হলাম Developer || Bangla Literature to Web Developer",
+      "description": "পরিবারের চাওয়া ছিলো BCS Cadre কিন্তু আমি হলাম Developer || Bangla Literature to Web ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JEAYNvLs5nQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JEAYNvLs5nQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JEAYNvLs5nQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming Hero Community",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-07-05T15:00:14Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "YB8zXs7xIcOlteWuCxKBDHEN7Gw",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "BjXGV0X6c0k"
+    },
+    "snippet": {
+      "publishedAt": "2025-02-04T14:02:33Z",
+      "channelId": "UCZ34f0PHL-TC8vD31hVPZuw",
+      "title": "বাংলাদেশ ও ইন্ডিয়ান আর্মি : Technology তে কে এগিয়ে? | Army Training | Brain Drain : @delhkhan",
+      "description": "আমাদের দেশেও একসময় উদ্ভাবনী মাইন্ডসেট ছিল। কিন্তু সময়ের সঙ্গে ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BjXGV0X6c0k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BjXGV0X6c0k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BjXGV0X6c0k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming Hero Community",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-02-04T14:02:33Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "AJ3NUGHNvhCVNQ3lYMX4maISpjo",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "SKr-1DkO8qw"
+    },
+    "snippet": {
+      "publishedAt": "2024-06-10T13:51:57Z",
+      "channelId": "UCZ34f0PHL-TC8vD31hVPZuw",
+      "title": "&quot;তোমাকে সফল করতে প্রস্তুত প্রোগ্রামিং হিরোর ১০০+ টিম মেম্বার&quot; || Complete Web Development Batch 10",
+      "description": "একটা কোর্সের সব লেভেলে সাপোর্ট নিশ্চিত করতে ১০০+ জনের কঠিন ভূমিকা ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SKr-1DkO8qw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SKr-1DkO8qw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SKr-1DkO8qw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming Hero Community",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-06-10T13:51:57Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "FfST7HSmUvw0Lh-5cEKa-jzW9A4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "XUh1nfx1ty0"
+    },
+    "snippet": {
+      "publishedAt": "2025-02-12T08:07:40Z",
+      "channelId": "UCZ34f0PHL-TC8vD31hVPZuw",
+      "title": "WebXtreme Hackathon @ North South University X Programming Hero",
+      "description": "WebXtreme Hackathon @ North South University X Programming Hero.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XUh1nfx1ty0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XUh1nfx1ty0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XUh1nfx1ty0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming Hero Community",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-02-12T08:07:40Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "pR9oNqciEOB3USOrAZF3VThRodU",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "YIFNQ3LOuMo"
+    },
+    "snippet": {
+      "publishedAt": "2024-07-12T15:04:55Z",
+      "channelId": "UCZ34f0PHL-TC8vD31hVPZuw",
+      "title": "যাদের Hard Work করার মানসিকতা নেই তারা Programming ফিল্ড থেকে হারিয়ে যাবে ⏳ #shorts #ai #programming",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YIFNQ3LOuMo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YIFNQ3LOuMo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YIFNQ3LOuMo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming Hero Community",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-07-12T15:04:55Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "VzIdzpeg68qrmreMqvlAwroqDe4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "F9jaoQxkWaA"
+    },
+    "snippet": {
+      "publishedAt": "2024-10-16T14:00:11Z",
+      "channelId": "UCZ34f0PHL-TC8vD31hVPZuw",
+      "title": "৩ টি জিনিস না থাকলে Career goal অর্জন করা সম্ভব নয়:Habibur | Programming Hero",
+      "description": "৩ টি জিনিস না থাকলে Career goal অর্জন করা সম্ভব নয়:Habibur | Programming Hero ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/F9jaoQxkWaA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/F9jaoQxkWaA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/F9jaoQxkWaA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming Hero Community",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-10-16T14:00:11Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "fpEZun-hhMYpayRHJH4Gm6A-lCg",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "-pUYbz0v70c"
+    },
+    "snippet": {
+      "publishedAt": "2025-01-17T13:30:00Z",
+      "channelId": "UCZ34f0PHL-TC8vD31hVPZuw",
+      "title": "একটাই লক্ষ্য ছিল জীবনে কিছু একটা করতে হবে:Humayun Kabir || Programming Hero",
+      "description": "একটা মানুষ নিজের অবস্থান পরিবর্তনের জন্য এবং নিজের কাজের প্রতি ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-pUYbz0v70c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-pUYbz0v70c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-pUYbz0v70c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming Hero Community",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-01-17T13:30:00Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "t1tOg5WIRn1g_Nsts_R0hkHv-7o",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "XoolMwAP868"
+    },
+    "snippet": {
+      "publishedAt": "2024-11-01T14:30:18Z",
+      "channelId": "UCZ34f0PHL-TC8vD31hVPZuw",
+      "title": "AI, ML &amp; Data Science এর যুগে আপনার ক্যারিয়ারের সুযোগ কোথায়? Mohammad Oli Ahad",
+      "description": "\"It's a mind-blowing podcast!\" 🎙️   আপনি ক্যারিয়ারের যেই স্টেজে ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XoolMwAP868/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XoolMwAP868/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XoolMwAP868/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming Hero Community",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-11-01T14:30:18Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "zKTbrkJ-_wGLJ--bzsWOkZY3oZQ",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "YicpcicZRYg"
+    },
+    "snippet": {
+      "publishedAt": "2024-06-28T15:00:38Z",
+      "channelId": "UCZ34f0PHL-TC8vD31hVPZuw",
+      "title": "Big Tech কোম্পানিতে চাকরির জন্য এই কাজ গুলো করতেই হবে:M Manjur Mahmud @datasoftabib",
+      "description": "Big Tech কোম্পানিতে চাকরির জন্য এই কাজ গুলো করতেই হবে:M Manjur Mahmd@datasoftabib ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YicpcicZRYg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YicpcicZRYg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YicpcicZRYg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming Hero Community",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-06-28T15:00:38Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "jXg7uOdhBs_F82kr6aOHmD0XqV4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "SK1PLjOY3lg"
+    },
+    "snippet": {
+      "publishedAt": "2025-02-28T13:48:54Z",
+      "channelId": "UCZ34f0PHL-TC8vD31hVPZuw",
+      "title": "৯৯% মানুষ এই সিক্রেট গুলো জানে না 😔 | Personal Branding | Content Creation @sazzadahsan",
+      "description": "অনেকের একটা স্বপ্ন থাকে—নিজের একটা ব্র্যান্ড হবে, অনেক মানুষ আমাকে ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SK1PLjOY3lg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SK1PLjOY3lg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SK1PLjOY3lg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming Hero Community",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-02-28T13:48:54Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "3CBiomXkQLzS7Zc6c3dJrzPLINU",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "8U0n_-Bekks"
+    },
+    "snippet": {
+      "publishedAt": "2024-11-15T14:00:08Z",
+      "channelId": "UCZ34f0PHL-TC8vD31hVPZuw",
+      "title": "২০৩০ এর পর কি ইউনিভার্সিটিগুলোতে CSE ডিপার্টমেন্ট বন্ধ হয়ে যাবে? 🤔",
+      "description": "বাংলাদেশে অসংখ্য বিশ্ববিদ্যালয়ে সিএসই (কম্পিউটার সায়েন্স ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8U0n_-Bekks/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8U0n_-Bekks/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8U0n_-Bekks/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming Hero Community",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-11-15T14:00:08Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "_m4qp9MlhqMr0s0bImCuUWoNINo",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "w8sEMXekRBg"
+    },
+    "snippet": {
+      "publishedAt": "2023-10-29T13:30:22Z",
+      "channelId": "UCZ34f0PHL-TC8vD31hVPZuw",
+      "title": "Continious Learning Habit For Developers",
+      "description": "Please visit our Website: 1. https://web.programming-hero.com 2. https://phitron.io/ Programming Hero Blog: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/w8sEMXekRBg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/w8sEMXekRBg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/w8sEMXekRBg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming Hero Community",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-10-29T13:30:22Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "gfDzmcptxoShoT2MePCg9vyUjgc",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Fowv2UMF2_s"
+    },
+    "snippet": {
+      "publishedAt": "2024-12-14T14:30:09Z",
+      "channelId": "UCZ34f0PHL-TC8vD31hVPZuw",
+      "title": "ফেসবুকের চাকরি কেন ছেড়ে দিলেন? টাকা কী জীবনের সব:Omar AL Zabir (Ex-Eng Mgr at Meta)",
+      "description": "বাংলাদেশের টেক ইন্ডাস্ট্রি তে কয়েকজন অসামান্য মেধাবী মানুষের ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Fowv2UMF2_s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Fowv2UMF2_s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Fowv2UMF2_s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming Hero Community",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-12-14T14:30:09Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "1tnNVVdE7sn5I6D595eSz3TMIyw",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Jddp3YUIb3Y"
+    },
+    "snippet": {
+      "publishedAt": "2022-11-09T05:15:48Z",
+      "channelId": "UCZ34f0PHL-TC8vD31hVPZuw",
+      "title": "Programming Hero এপ এ ১১.১১ এর বিশাল অফার",
+      "description": "Programming Hero App (Android Version) Link: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Jddp3YUIb3Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Jddp3YUIb3Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Jddp3YUIb3Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming Hero Community",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-11-09T05:15:48Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "8e-e8HdW9845j5FzbASuIqIqXdo",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "oF3-2vxj8XU"
+    },
+    "snippet": {
+      "publishedAt": "2024-06-08T15:00:48Z",
+      "channelId": "UCZ34f0PHL-TC8vD31hVPZuw",
+      "title": "পাশ করে Graduate হবেন নাকি Experienced Graduate? : Raisul Kabir @Brainstation-23| Programming Hero",
+      "description": "পাশ করে Graduate হবেন নাকি এক্সপেরিয়েন্সড Graduate?: Raisul Kabir || Programming Hero ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/oF3-2vxj8XU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/oF3-2vxj8XU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/oF3-2vxj8XU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming Hero Community",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-06-08T15:00:48Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "xpxv2r-jTLBAldEr48r8WRiCv74",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "m5PImsmFa9c"
+    },
+    "snippet": {
+      "publishedAt": "2024-11-19T13:45:04Z",
+      "channelId": "UCZ34f0PHL-TC8vD31hVPZuw",
+      "title": "পরিবারের চাওয়া ছিলো Doctor হবো কিন্তু আমি হলাম Developer || Botany to Web Developer",
+      "description": "পরিবারের চাওয়া ছিলো Doctor হবো কিন্তু আমি হলাম Developer || Botany to Web Developer ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/m5PImsmFa9c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/m5PImsmFa9c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/m5PImsmFa9c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming Hero Community",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-11-19T13:45:04Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "O8gDXkxSTEO2oz2BV9B6paKB180",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "dDmcxnVipzg"
+    },
+    "snippet": {
+      "publishedAt": "2025-01-24T14:02:31Z",
+      "channelId": "UCZ34f0PHL-TC8vD31hVPZuw",
+      "title": "বাচ্চা জন্ম দিলেই মানুষ হয় না: Nazar E Zilani",
+      "description": "কেন আমাদের শিক্ষা ব্যবস্থা বড় পজিশনে ভালো করার পথ তৈরি করতে ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dDmcxnVipzg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dDmcxnVipzg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dDmcxnVipzg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming Hero Community",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-01-24T14:02:31Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "MJPsEIDOrOGlLJJZAr6TcHx5a7g",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "xN2goGLPDOQ"
+    },
+    "snippet": {
+      "publishedAt": "2024-06-05T04:21:19Z",
+      "channelId": "UCZ34f0PHL-TC8vD31hVPZuw",
+      "title": "Cracking The Career Code - Web Development || Web Development Guideline || Programming Hero",
+      "description": "ব্যাচ- ৮ এর জবপ্লেসমেন্ট থেকে হায়ার্ড হয়েছেন এমন ৩ জন সাকসেসফুলি ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xN2goGLPDOQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xN2goGLPDOQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xN2goGLPDOQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming Hero Community",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-06-05T04:21:19Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "DDnyMvB8qFstvz35bsWmvFzSa-g",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "AbICyCVQUtU"
+    },
+    "snippet": {
+      "publishedAt": "2024-10-25T14:00:11Z",
+      "channelId": "UCZ34f0PHL-TC8vD31hVPZuw",
+      "title": "নতুন বাংলাদেশের ভবিষ্যৎ কী? | Future of Bangladesh 2.0: Minhaz khan",
+      "description": "Career Crackerz এর আজকের এপিসোডে আমাদের অতিথি এমন একজন মানুষ, যিনি ১ যুগের ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/AbICyCVQUtU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/AbICyCVQUtU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/AbICyCVQUtU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming Hero Community",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-10-25T14:00:11Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "3Sm2Y9h9UXx_4s2W4JDe2i3NFKY",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "gm_AgWVBTCE"
+    },
+    "snippet": {
+      "publishedAt": "2024-12-18T09:30:13Z",
+      "channelId": "UCZ34f0PHL-TC8vD31hVPZuw",
+      "title": "2025 এ ওয়েব ডেভেলপমেন্ট ক্যারিয়ারে কীভাবে Stand Out করবে ||Stand Out in Web Development: 2025",
+      "description": "টেক দুনিয়ায় দিন দিন বাড়ছে এআই-এর আধিপত্য, স্যালারি ক্রাইসিস এবং ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gm_AgWVBTCE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gm_AgWVBTCE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gm_AgWVBTCE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming Hero Community",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-12-18T09:30:13Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "7XdI92qepMBRHxYOUqqItKqT_fc",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "En0qJ_3xR8s"
+    },
+    "snippet": {
+      "publishedAt": "2024-06-21T04:28:32Z",
+      "channelId": "UCZ34f0PHL-TC8vD31hVPZuw",
+      "title": "ওয়েব ডেভেলপমেন্ট কী আপনার জন্য? Is web development for you?",
+      "description": "ওয়েব ডেভেলপমেন্ট শিখতে চাই আমার জন্য শেখা উচিত হবে কিনা? আমি পারবো ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/En0qJ_3xR8s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/En0qJ_3xR8s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/En0qJ_3xR8s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming Hero Community",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-06-21T04:28:32Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "XWApiof7xwrw0D2sLOn1bifciDc",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "d8bP2XsJ5mg"
+    },
+    "snippet": {
+      "publishedAt": "2024-06-13T13:15:03Z",
+      "channelId": "UCZ34f0PHL-TC8vD31hVPZuw",
+      "title": "Programming Hero: Unique Content Release Plan for Effective Learning || Explained by Raisul Kabir",
+      "description": "Programming Hero: Unique Content Release Plan for Effective Learning || Explained by Raisul Kabir ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/d8bP2XsJ5mg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/d8bP2XsJ5mg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/d8bP2XsJ5mg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming Hero Community",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-06-13T13:15:03Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "C-RCd6XPPpfcMt4dZVa4Rk8QysM",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "TLEXKbXbNxM"
+    },
+    "snippet": {
+      "publishedAt": "2025-02-12T09:11:26Z",
+      "channelId": "UCZ34f0PHL-TC8vD31hVPZuw",
+      "title": "WebXtreme Hackathon @ North South University X Programming Hero",
+      "description": "WebXtreme Hackathon @ North South University X Programming Hero.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TLEXKbXbNxM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TLEXKbXbNxM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TLEXKbXbNxM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming Hero Community",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-02-12T09:11:26Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "LT9uM3y5LIgVd66aKHzdzq8VTRY",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "ICIrX7IzvWk"
+    },
+    "snippet": {
+      "publishedAt": "2023-06-20T14:03:54Z",
+      "channelId": "UCZ34f0PHL-TC8vD31hVPZuw",
+      "title": "SCIC কী ?",
+      "description": "Complete HTML Crash Course - Programming Hero Complete Web Development With Programming Hero ৮ম ব্যাচের ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ICIrX7IzvWk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ICIrX7IzvWk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ICIrX7IzvWk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming Hero Community",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-06-20T14:03:54Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "VITi-Gw8ZqWxq2UmqaiuY5uo4I4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "PvAlFzsmfJ0"
+    },
+    "snippet": {
+      "publishedAt": "2022-07-16T05:00:12Z",
+      "channelId": "UCZ34f0PHL-TC8vD31hVPZuw",
+      "title": "একজন ওয়েব ডেভেলপার রিমোট জবের ক্ষেত্রে ইন্টারভিউতে কত স্যালারী চাইবে?",
+      "description": "Website: https://web.programming-hero.com https://phitron.io/ Programming Hero Community Facebook group: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PvAlFzsmfJ0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PvAlFzsmfJ0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PvAlFzsmfJ0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming Hero Community",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-07-16T05:00:12Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "afSEVj3Lmd4rAwFNnxkbZAZaRc4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "ip-OsiFLsrE"
+    },
+    "snippet": {
+      "publishedAt": "2024-10-07T15:47:50Z",
+      "channelId": "UCZ34f0PHL-TC8vD31hVPZuw",
+      "title": "শেষ পর্যন্ত কী হয়, আমি সেটা দেখবো: How to Get Your Dream Job | Programming Hero",
+      "description": "শেষ পর্যন্ত কী হয়, আমি সেটা দেখবো: How to Get Your Dream Job | Programming Hero ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ip-OsiFLsrE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ip-OsiFLsrE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ip-OsiFLsrE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming Hero Community",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-10-07T15:47:50Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "TQY41EeWfzEgVTl6aHN7HRsI_So",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "RVC8nkGP-XY"
+    },
+    "snippet": {
+      "publishedAt": "2024-06-20T12:00:32Z",
+      "channelId": "UCZ34f0PHL-TC8vD31hVPZuw",
+      "title": "প্রোগ্রামিং হিরো ওয়েব ডেভেলপমেন্ট কোর্সে কী কী প্রজেক্ট করানো হবে? Programming Hero web course",
+      "description": "প্রোগ্রামিং হিরো ওয়েব ডেভেলপমেন্ট কোর্সে কী কী প্রজেক্ট করানো ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/RVC8nkGP-XY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/RVC8nkGP-XY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/RVC8nkGP-XY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming Hero Community",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-06-20T12:00:32Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "d9jEU6M_p4iqZM3Jy2ltzmbcTT0",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "TBvz-SfKtek"
+    },
+    "snippet": {
+      "publishedAt": "2023-03-14T17:30:43Z",
+      "channelId": "UCZ34f0PHL-TC8vD31hVPZuw",
+      "title": "Celebrate Pi Day with Programming Hero! 🔥",
+      "description": "Please visit our Website: 1. https://web.programming-hero.com 2. https://phitron.io/ Programming Hero Blog: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TBvz-SfKtek/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TBvz-SfKtek/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TBvz-SfKtek/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming Hero Community",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-03-14T17:30:43Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "nPn_4m2A7dU9fL5RHS6pUkrt4a4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "ZtufUJhJzao"
+    },
+    "snippet": {
+      "publishedAt": "2024-06-01T15:00:25Z",
+      "channelId": "UCZ34f0PHL-TC8vD31hVPZuw",
+      "title": "ক্যারিয়ারে সফল হতে Hard Work এর চেয়ে বেশি Focus আর Vision দরকার : S M Asad Rahman | Programming Hero",
+      "description": "ক্যারিয়ারে সফল হতে Hard Work এর চেয়ে বেশি Focus আর Vision দরকার : S M Asad Rahman ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZtufUJhJzao/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZtufUJhJzao/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZtufUJhJzao/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming Hero Community",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-06-01T15:00:25Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "VbYMZJIN5_oig-43_18t-BgMFLM",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "QV5rtzZ6smU"
+    },
+    "snippet": {
+      "publishedAt": "2024-04-27T14:19:37Z",
+      "channelId": "UCZ34f0PHL-TC8vD31hVPZuw",
+      "title": "As a beginner avoid these 3 mistakes #programming #shorts #coding",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QV5rtzZ6smU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QV5rtzZ6smU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QV5rtzZ6smU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming Hero Community",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-04-27T14:19:37Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "EcBm2pZSWeIT_AMfnvnjB9CxuHM",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "oGdDRevSPls"
+    },
+    "snippet": {
+      "publishedAt": "2024-09-25T14:40:00Z",
+      "channelId": "UCZ34f0PHL-TC8vD31hVPZuw",
+      "title": "EEE ব্যাকগ্রাউন্ড থেকে SEO তারপর WordPress ছেড়ে Full Stack Developer কেন হলাম?",
+      "description": "EEE ব্যাকগ্রাউন্ড থেকে SEO তারপর WordPress ছেড়ে Full Stack Developer কেন হলাম?",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/oGdDRevSPls/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/oGdDRevSPls/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/oGdDRevSPls/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming Hero Community",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-09-25T14:40:00Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "DhbjBT5Jh91Md6QzbrHZyW5Tdf0",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "F0BSJOctmPc"
+    },
+    "snippet": {
+      "publishedAt": "2024-09-03T14:02:24Z",
+      "channelId": "UCZ34f0PHL-TC8vD31hVPZuw",
+      "title": "দেশের অগ্রগতির জন্য Gen-Z&#39;র এনার্জি ও উদ্যম কীভাবে সবচেয়ে কার্যকর হবে?  #shorts #podcast #genz",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/F0BSJOctmPc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/F0BSJOctmPc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/F0BSJOctmPc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming Hero Community",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-09-03T14:02:24Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "H_CJ4k9xTvzSSgvvyBBpSV0mojo",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "_xcMWATt4Pc"
+    },
+    "snippet": {
+      "publishedAt": "2025-01-07T13:30:19Z",
+      "channelId": "UCZ34f0PHL-TC8vD31hVPZuw",
+      "title": "ইউনিভার্সিটি তোমাকে জব দিতে পারবে না:Liton || Programming Hero",
+      "description": "ইউনিভার্সিটি শেষ, কিন্তু নিজের বলার মতো কোনো স্কিল নেই। তারপর ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_xcMWATt4Pc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_xcMWATt4Pc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_xcMWATt4Pc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming Hero Community",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-01-07T13:30:19Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "d7jgMGZSuoUycU3x0jWyLn4n26c",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "d3gXll1ytd0"
+    },
+    "snippet": {
+      "publishedAt": "2024-07-11T13:30:17Z",
+      "channelId": "UCZ34f0PHL-TC8vD31hVPZuw",
+      "title": "10X Your Productivity Instantly with ChatGPT #AIHacks #shorts",
+      "description": "Unlock the secret to skyrocketing your productivity with ChatGPT! In this video, we'll dive deep into how you can leverage the ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/d3gXll1ytd0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/d3gXll1ytd0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/d3gXll1ytd0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming Hero Community",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-07-11T13:30:17Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "TTiu0DBzvyBdNebHh5h3jC41EAE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "cUYICC7oJlk"
+    },
+    "snippet": {
+      "publishedAt": "2024-12-22T17:22:37Z",
+      "channelId": "UCZ34f0PHL-TC8vD31hVPZuw",
+      "title": "ক্যারিয়ার নিয়ে যতো প্রশ্ন - Jhankar Mahbub",
+      "description": "ক্যারিয়ার নিয়ে যতো প্রশ্ন - Jhankar Mahbub.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cUYICC7oJlk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cUYICC7oJlk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cUYICC7oJlk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming Hero Community",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-12-22T17:22:37Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "4sbYIIfkIntaT-k0gzpk8wf4gvA",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "K8y3LyPLnVw"
+    },
+    "snippet": {
+      "publishedAt": "2024-10-21T13:45:01Z",
+      "channelId": "UCZ34f0PHL-TC8vD31hVPZuw",
+      "title": "একজন মুসলিমের ক্যারিয়ার প্লান কেমন হওয়া উচিত: Sharif Abu Hayat (Opu)",
+      "description": "ইন্টারনেটে ডার্কার জিনিস পত্র অনেক বেশি, যা একজন মুসলিম হিসেবে ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/K8y3LyPLnVw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/K8y3LyPLnVw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/K8y3LyPLnVw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming Hero Community",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-10-21T13:45:01Z"
+    }
+  }
+]
