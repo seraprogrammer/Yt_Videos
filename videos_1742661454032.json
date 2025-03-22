@@ -1,0 +1,1702 @@
+[
+  {
+    "kind": "youtube#searchResult",
+    "etag": "l6G1hF3HI_xL2JUWH-XxjPyThlY",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "N-O4w6PynGY"
+    },
+    "snippet": {
+      "publishedAt": "2023-12-10T15:00:37Z",
+      "channelId": "UC1XBh-m27kkgwLAwu_SRJBg",
+      "title": "Lecture 11 : Classes &amp; Objects | JavaScript Full Course",
+      "description": "Instagram : https://www.instagram.com/shradhakhapra/ ⭐️ LinkedIn : https://www.linkedin.com/in/shradha-khapra/ Notes ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/N-O4w6PynGY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/N-O4w6PynGY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/N-O4w6PynGY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Shradha Khapra",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-12-10T15:00:37Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "OAuKuz7B0B1Oka05AuFgZMuzVHc",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "2ZphE5HcQPQ"
+    },
+    "snippet": {
+      "publishedAt": "2018-10-09T13:43:03Z",
+      "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "title": "JavaScript Classes Tutorial",
+      "description": "In JavaScript you can use the OOP (Object-Oriented-Programming) feature of \"classes\" to construct objects which are then useful ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2ZphE5HcQPQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2ZphE5HcQPQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2ZphE5HcQPQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "freeCodeCamp.org",
+      "liveBroadcastContent": "none",
+      "publishTime": "2018-10-09T13:43:03Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "LDU4xz5f0P9ASuesTqcLQlFmcXc",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "FeBbjzVOeRU"
+    },
+    "snippet": {
+      "publishedAt": "2023-12-21T05:30:02Z",
+      "channelId": "UCeVMnSShP_Iviwkknt83cww",
+      "title": "Classes &amp; Objects - Object Oriented Programming in Js | Sigma Web Development Course - Tutorial #80",
+      "description": "Access the Sigma web development course playlist: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/FeBbjzVOeRU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/FeBbjzVOeRU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/FeBbjzVOeRU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "CodeWithHarry",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-12-21T05:30:02Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "TM9HGs8ceWO90yeUxrx6XN5Rn7s",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "U2vxAEiaVRY"
+    },
+    "snippet": {
+      "publishedAt": "2023-11-17T17:38:25Z",
+      "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+      "title": "Learn JavaScript CLASSES in 6 minutes! 🏭",
+      "description": "class = (ES6 feature) provides a more structured and cleaner way to // work with objects compared to traditional constructor ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/U2vxAEiaVRY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/U2vxAEiaVRY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/U2vxAEiaVRY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Bro Code",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-11-17T17:38:25Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "kD-4nHn9oXsas4ln_dydNi7Aa-s",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "7RpdfkSyJfU"
+    },
+    "snippet": {
+      "publishedAt": "2022-10-19T13:13:20Z",
+      "channelId": "UCeVMnSShP_Iviwkknt83cww",
+      "title": "Classes and Objects in JavaScript | JavaScript Tutorial in Hindi #76",
+      "description": "Link to the Repl - https://replit.com/@codewithharry/76classesandobjects Join Replit - https://join.replit.com/CodeWithHarry ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7RpdfkSyJfU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7RpdfkSyJfU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7RpdfkSyJfU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "CodeWithHarry",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-10-19T13:13:20Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "1FESY8F7dOtwRSUg0gGaZg8s0-E",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "fg1E7IHP5bE"
+    },
+    "snippet": {
+      "publishedAt": "2021-09-15T08:00:20Z",
+      "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+      "title": "#53 JavaScript Bangla Tutorial | JavaScript Classes",
+      "description": "In this Part 53 video of JavaScript Bangla Tutorial Series for Beginners, I have explained about JavaScript Classes. ❒ Complete ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fg1E7IHP5bE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fg1E7IHP5bE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fg1E7IHP5bE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-09-15T08:00:20Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "ECj1AhDlDOhzrP39QWuGr2hD21Y",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "IUqKuGNasdM"
+    },
+    "snippet": {
+      "publishedAt": "2020-12-13T18:46:10Z",
+      "channelId": "UCsLo154Krjwhoz8W00N8ItA",
+      "title": "Java Classes &amp; Objects",
+      "description": "Discord: https://discord.gg/ypFyyWq Instagram: https://www.instagram.com/keep_on_coding My Gear: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/IUqKuGNasdM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/IUqKuGNasdM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/IUqKuGNasdM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Keep On Coding",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-12-13T18:46:10Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "UBqyBX4tNxPrW3_Cor7Gssykb_s",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "PkZNo7MFNFg"
+    },
+    "snippet": {
+      "publishedAt": "2018-12-10T14:13:40Z",
+      "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "title": "Learn JavaScript - Full Course for Beginners",
+      "description": "This complete 134-part JavaScript tutorial for beginners will teach you everything you need to know to get started with the ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PkZNo7MFNFg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PkZNo7MFNFg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "freeCodeCamp.org",
+      "liveBroadcastContent": "none",
+      "publishTime": "2018-12-10T14:13:40Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "nchAKZWuzf8uuGFPqgMWIr60BZA",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "er5Zhyu4Cd0"
+    },
+    "snippet": {
+      "publishedAt": "2025-03-21T13:30:06Z",
+      "channelId": "UCqCGL2oiIC4sLi1A1n6xHiA",
+      "title": "Day - 16 : Python Full Course In Telugu | Object-Oriented Programming (OOP) - Part 1 | Ashok IT",
+      "description": "pythontutorial #pythonintelugu #ashokit Welcome to our Object-Oriented Programming (OOP) tutorial! In this video, we'll cover ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/er5Zhyu4Cd0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/er5Zhyu4Cd0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/er5Zhyu4Cd0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Ashok IT",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-03-21T13:30:06Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "9R-NKsCxG2qsO6fGwDuRORjNiio",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "8yjkWGRlUmY"
+    },
+    "snippet": {
+      "publishedAt": "2018-03-27T04:46:07Z",
+      "channelId": "UCxX9wt5FWQUAAz4UrysqK9A",
+      "title": "Introduction to Classes and Objects - Part 1 (Data Structures &amp; Algorithms #3)",
+      "description": "Object oriented programming tutorial! Java & Python sample code available below. Check out Brilliant.org ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8yjkWGRlUmY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8yjkWGRlUmY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8yjkWGRlUmY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "CS Dojo",
+      "liveBroadcastContent": "none",
+      "publishTime": "2018-03-27T04:46:07Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "bO7fFa-Ez2Kj3kDIRxK_loJyPzY",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "6JZHGFvYUmw"
+    },
+    "snippet": {
+      "publishedAt": "2023-04-12T15:04:43Z",
+      "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+      "title": "Objects and Classes in Java",
+      "description": "java #telusko #javadeveloper #objectandclasses.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6JZHGFvYUmw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6JZHGFvYUmw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6JZHGFvYUmw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Telusko",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-04-12T15:04:43Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "cyNQsJc2AKTPVJNotqR4oXl3YfQ",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "BSVKUk58K6U"
+    },
+    "snippet": {
+      "publishedAt": "2021-11-05T06:15:56Z",
+      "channelId": "UCBGOUQHNNtNGcGzVq5rIXjw",
+      "title": "OOP 1 | Introduction &amp; Concepts - Classes, Objects, Constructors, Keywords",
+      "description": "The first video of the complete object oriented programming (#OOP) course in Java. Covering an introduction, important concepts ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BSVKUk58K6U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BSVKUk58K6U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BSVKUk58K6U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Kunal Kushwaha",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-11-05T06:15:56Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "A7WMvF8GfO1vWTOzNy-Dslib6gA",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "i48vzZazjYU"
+    },
+    "snippet": {
+      "publishedAt": "2023-06-02T13:30:13Z",
+      "channelId": "UCWu_xJfwUuP_JV6RFq2EcXw",
+      "title": "Do You Know How Classes Actually Work (JavaScript Prototypes)",
+      "description": "Do you know how classes are actually working in JavaScript? Object-oriented programming (OOP) exists in JavaScript, but using ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/i48vzZazjYU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/i48vzZazjYU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/i48vzZazjYU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Conner Ardman",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-06-02T13:30:13Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "4VyznTWL1exmJGLikWkaiF1L00s",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "yYALsys-P_w"
+    },
+    "snippet": {
+      "publishedAt": "2023-10-26T04:14:50Z",
+      "channelId": "UCTrAO0TDCldnYUN3BkLmGcw",
+      "title": "Python Classes in 1 Minute!",
+      "description": "Join my Patreon: https://www.patreon.com/b001io Discord: https://discord.gg/jA8SShU8zJ Follow me on Twitter: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/yYALsys-P_w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/yYALsys-P_w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/yYALsys-P_w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "b001",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-10-26T04:14:50Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "_-yfRGoy-aPAogGtAUUagiDIGbU",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "W-D71ZeMixQ"
+    },
+    "snippet": {
+      "publishedAt": "2020-06-07T13:30:02Z",
+      "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+      "title": "Introduction to Classes and Objects (Part 1)",
+      "description": "Java Programming: Introduction to Classes and Objects in Java Topics Discussed: 1. Object-Oriented Programming (OOP) and ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/W-D71ZeMixQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/W-D71ZeMixQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/W-D71ZeMixQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Neso Academy",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-06-07T13:30:02Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "43i7DkxUImcgOBigxyiWQkN1Nuk",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "SslpdF_HlFc"
+    },
+    "snippet": {
+      "publishedAt": "2024-04-18T17:38:53Z",
+      "channelId": "UCldyi11QYNXYXiLjVbyw5dA",
+      "title": "Classes &amp;&amp; Default Parameters in Functions || JavaScript Series 2024",
+      "description": "SUPREME 3.0 : https://www.codehelp.in/course/dsa-supreme-3.0 Find Your Code here: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SslpdF_HlFc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SslpdF_HlFc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SslpdF_HlFc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "CodeHelp - by Babbar",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-04-18T17:38:53Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "6GMexaEPU5EaNlDjrrpldhl4akI",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "rJzjDszODTI"
+    },
+    "snippet": {
+      "publishedAt": "2019-07-19T13:00:11Z",
+      "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+      "title": "Learn Classes in Python in 4 Minutes",
+      "description": "Learn Classes in Python in 4 Minutes Learn how to code: https://futureskill.com/courses/6316f6f8186bf02b52bb108c?c=kh2 I ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rJzjDszODTI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rJzjDszODTI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rJzjDszODTI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Hallden",
+      "liveBroadcastContent": "none",
+      "publishTime": "2019-07-19T13:00:11Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "rUMhPgUraVDMit2U6H3yuug5wQs",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "d0GkjcBGVbc"
+    },
+    "snippet": {
+      "publishedAt": "2025-03-20T20:11:58Z",
+      "channelId": "UCCktnahuRFYIBtNnKT5IYyg",
+      "title": "Full Stack Web Development Course 2025 | Complete Full Stack Developer Course | Intellipaat",
+      "description": "Enroll for Intellipaat's Full Stack Web Developer Course: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/d0GkjcBGVbc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/d0GkjcBGVbc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/d0GkjcBGVbc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Intellipaat",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-03-20T20:11:58Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "iMW5HQyFQGWR-3I0dw8CcV5rqtU",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Mm06BuD3PlY"
+    },
+    "snippet": {
+      "publishedAt": "2017-10-22T02:46:05Z",
+      "channelId": "UCvmINlrza7JHB1zkIOuXEbw",
+      "title": "Classes &amp; Objects | Java | Tutorial 26",
+      "description": "Source Code - http://www.giraffeacademy.com/programming-languages/java/ This video is one in a series of videos where we'll ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Mm06BuD3PlY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Mm06BuD3PlY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Mm06BuD3PlY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Giraffe Academy",
+      "liveBroadcastContent": "none",
+      "publishTime": "2017-10-22T02:46:05Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "uVICuusRfSPQkKJdeRRCn_8-GFk",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "pgBk8HC7jbU"
+    },
+    "snippet": {
+      "publishedAt": "2021-09-27T14:00:32Z",
+      "channelId": "UC42pOSNg804f1wCcj7qL0mA",
+      "title": "Java Constructors - Full Tutorial",
+      "description": "All about Constructors in Java - Full tutorial with concrete examples. In Java, constructors are used to create new objects.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/pgBk8HC7jbU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/pgBk8HC7jbU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/pgBk8HC7jbU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Coding with John",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-09-27T14:00:32Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "LNXx7mUb1fQ19A_oZBST8hfAV5M",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "20KdjOR9ZtM"
+    },
+    "snippet": {
+      "publishedAt": "2023-04-08T18:46:24Z",
+      "channelId": "UCbDWhtql3wIiI8fIKur9DjA",
+      "title": "How To Easily Style Html Buttons With Only 2 Classes Using Bootstrap",
+      "description": "shorts How you can easily style your buttons with just 2 classes using bootstrap.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/20KdjOR9ZtM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/20KdjOR9ZtM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/20KdjOR9ZtM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Web Dev With Ron",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-04-08T18:46:24Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "sjqzwZ3rTpHHFulazbWZKjlgWTw",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "xI0yBzTsqsI"
+    },
+    "snippet": {
+      "publishedAt": "2023-02-19T14:30:15Z",
+      "channelId": "UCWu_xJfwUuP_JV6RFq2EcXw",
+      "title": "Why JavaScript Classes Are Actually Functions | Prototypal Inheritance Explained",
+      "description": "While JavaScript fully supports object oriented programming, it doesn't work how you might be used to. Classes are simply ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xI0yBzTsqsI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xI0yBzTsqsI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xI0yBzTsqsI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Conner Ardman",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-02-19T14:30:15Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "NQSzm4oTN71epzqwGtebAmsVNIA",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "J1a9413zd5g"
+    },
+    "snippet": {
+      "publishedAt": "2023-07-19T04:00:14Z",
+      "channelId": "UCuudpdbKmQWq2PPzYgVCWlA",
+      "title": "I Didn&#39;t Know THIS Was Possible With Classes In Python",
+      "description": "I didn't know this was possible with classes in Python. #code #python #programming.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/J1a9413zd5g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/J1a9413zd5g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/J1a9413zd5g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Indently",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-07-19T04:00:14Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "MxFEhCT4N6vv679GuI1OqD3YjME",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Xgto1B3KxJA"
+    },
+    "snippet": {
+      "publishedAt": "2023-02-18T16:45:12Z",
+      "channelId": "UCbK5xfFYH99Hu2pl4CBarNg",
+      "title": "Classes in JavaScript Explained in Depth | The Complete JavaScript Course | Ep.82",
+      "description": "Starter Code: https://github.com/procodrr/javascript-course/tree/main/ep-82_classes-in-javascript/starter-code Final Code: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Xgto1B3KxJA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Xgto1B3KxJA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Xgto1B3KxJA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Anurag Singh ProCodrr",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-02-18T16:45:12Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "Ac84Ld2ma-zmIgc7P7sNJsbyPok",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "G3e-cpL7ofc"
+    },
+    "snippet": {
+      "publishedAt": "2022-02-05T16:41:52Z",
+      "channelId": "UCB6dvaWu0N8uVq2yKsZ5s5g",
+      "title": "HTML &amp; CSS Full Course - Beginner to Pro",
+      "description": "Certificates are now available! https://courses.supersimple.dev/courses/html-css Enroll to get a Certificate of Completion and an ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/G3e-cpL7ofc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/G3e-cpL7ofc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/G3e-cpL7ofc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "SuperSimpleDev",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-02-05T16:41:52Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "HiKnU3IGfLJP4wAO2z-qfHP7zds",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "gyMwXuJrbJQ"
+    },
+    "snippet": {
+      "publishedAt": "2022-05-26T18:59:22Z",
+      "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "title": "Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course",
+      "description": "This course will give you a full introduction into all of the core concepts related to blockchain, smart contracts, Solidity, ERC20s, ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gyMwXuJrbJQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gyMwXuJrbJQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gyMwXuJrbJQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "freeCodeCamp.org",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-05-26T18:59:22Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "TVZOd1sBRZ1fmPWbr9LVb53tnpQ",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "dCKQRZ_bmf8"
+    },
+    "snippet": {
+      "publishedAt": "2022-08-14T19:45:23Z",
+      "channelId": "UCsBxreLp0PwWQ_ZSwEjEQmA",
+      "title": "JavaScript Classes",
+      "description": "javascript #javascriptclasses Hello there! The topic is classes. This is a tutorial about how we declare classes. First we use class ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dCKQRZ_bmf8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dCKQRZ_bmf8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dCKQRZ_bmf8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "One Minute Coder",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-08-14T19:45:23Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "F0aaZIkqr0kzEHh1lKp7G-SKPfk",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "nZ1DMMsyVyI"
+    },
+    "snippet": {
+      "publishedAt": "2018-05-14T17:29:35Z",
+      "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "title": "JavaScript ES6, ES7, ES8: Learn to Code on the Bleeding Edge (Full Course)",
+      "description": "This course will teach you the most modern features of JavaScript, also known as ES6+. You can also take the interactive version ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/nZ1DMMsyVyI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/nZ1DMMsyVyI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/nZ1DMMsyVyI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "freeCodeCamp.org",
+      "liveBroadcastContent": "none",
+      "publishTime": "2018-05-14T17:29:35Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "v2blamq9xgx3fgAnjndV0C0kwOE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "txRTzljmV0Q"
+    },
+    "snippet": {
+      "publishedAt": "2023-04-28T15:00:42Z",
+      "channelId": "UCVhQ2NnY5Rskt6UjCUkJ_DA",
+      "title": "Functions vs Classes: When to Use Which and Why?",
+      "description": "Review code better and faster with my 3-Factor Framework: https://arjan.codes/diagnosis. Functions vs. Classes?! Are you trying ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/txRTzljmV0Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/txRTzljmV0Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/txRTzljmV0Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ArjanCodes",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-04-28T15:00:42Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "O-0o6qnaV9fq31N5fbBZ6LW3skk",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "5fb2aPlgoys"
+    },
+    "snippet": {
+      "publishedAt": "2022-07-07T13:04:56Z",
+      "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "title": "JavaScript DOM Manipulation – Full Course for Beginners",
+      "description": "Learn about JavaScript DOM manipulation in this beginner's tutorial. This is when you use JavaScript to add, remove, and modify ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5fb2aPlgoys/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5fb2aPlgoys/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5fb2aPlgoys/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "freeCodeCamp.org",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-07-07T13:04:56Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "W1KYWDQJrtw_aHf6TF1H1Z4nXRs",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "wik23D_gyCo"
+    },
+    "snippet": {
+      "publishedAt": "2018-05-30T09:14:38Z",
+      "channelId": "UCjX0FtIZBBVD3YoCcxnDC4g",
+      "title": "JavaScript Classes #1: The Basics - JavaScript OOP Tutorial",
+      "description": "In JavaScript you can use the OOP (Object-Oriented-Programming) feature of \"classes\" to construct objects which are then useful ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wik23D_gyCo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wik23D_gyCo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wik23D_gyCo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "dcode",
+      "liveBroadcastContent": "none",
+      "publishTime": "2018-05-30T09:14:38Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "wp08guduawDgYWRLz-1Pv_-1Y-M",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "q6pC6StB88U"
+    },
+    "snippet": {
+      "publishedAt": "2024-03-04T11:30:21Z",
+      "channelId": "UC_Fh8kvtkVPkeihBs42jGcA",
+      "title": "Access Tailwind Classes/Colors From JavaScript #tailwindcss #javascript #webdevelopment #reactjs",
+      "description": "How to get the value of a Tailwind class in your JavaScript code. ⭐ Get my full-stack Next.js with Express & TypeScript course: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/q6pC6StB88U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/q6pC6StB88U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/q6pC6StB88U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Coding in Flow",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-03-04T11:30:21Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "c7_lLk9DjEEt2OQ7nbTHCAUwRxg",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "M0s00bI6Aoo"
+    },
+    "snippet": {
+      "publishedAt": "2023-07-13T05:50:04Z",
+      "channelId": "UCuudpdbKmQWq2PPzYgVCWlA",
+      "title": "THIS Makes Your Python Classes More READABLE",
+      "description": "This makes your Python classes more readable. #code #python #programming.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/M0s00bI6Aoo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/M0s00bI6Aoo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/M0s00bI6Aoo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Indently",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-07-13T05:50:04Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "IIvzFQ4Rc9R8bA6nObzdN3Yr6xY",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "9V5B3dNoVIA"
+    },
+    "snippet": {
+      "publishedAt": "2021-07-03T14:03:17Z",
+      "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+      "title": "C# classes 📦",
+      "description": "C# classes tutorial example explained #C# #class #classes using System; namespace MyFirstProgram { class Program { static ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9V5B3dNoVIA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9V5B3dNoVIA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9V5B3dNoVIA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Bro Code",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-07-03T14:03:17Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "eqcNK0n4_WDblJ_bOma7_m3KW-w",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "ZDa-Z5JzLYM"
+    },
+    "snippet": {
+      "publishedAt": "2016-06-20T17:00:03Z",
+      "channelId": "UCCezIgC97PvUuR4_gbFUs5g",
+      "title": "Python OOP Tutorial 1: Classes and Instances",
+      "description": "In this Python Object-Oriented Tutorial, we will begin our series by learning how to create and use classes within Python. Classes ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZDa-Z5JzLYM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZDa-Z5JzLYM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZDa-Z5JzLYM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Corey Schafer",
+      "liveBroadcastContent": "none",
+      "publishTime": "2016-06-20T17:00:03Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "9HzZnom6sGbCzOx3rkoGlKnI4Zk",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "rRfFBFpgwu0"
+    },
+    "snippet": {
+      "publishedAt": "2023-01-26T14:35:28Z",
+      "channelId": "UCPcmW5NwvMPk1FEqSRKV1Dw",
+      "title": ".NET - What are classes and objects?",
+      "description": "1. Full .NET Interview Course (with PDF Book) C# / ASP.NET Core / MVC / API - Top 500 Interview Questions ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rRfFBFpgwu0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rRfFBFpgwu0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rRfFBFpgwu0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Interview Happy",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-01-26T14:35:28Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "l7BtXbPTl0_bmkPKnhRvLoTW4iE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "x8T0eSPeydA"
+    },
+    "snippet": {
+      "publishedAt": "2024-08-01T14:03:35Z",
+      "channelId": "UCM-yUTYGmrNvKOCcAl21g3w",
+      "title": "Classes and Objects in C++ | OOP Concepts | C++ Programming Course for Beginners | Lecture78",
+      "description": "Jennys Lectures DSA with Java Course Enrollment link: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/x8T0eSPeydA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/x8T0eSPeydA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/x8T0eSPeydA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Jenny's Lectures CS IT",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-08-01T14:03:35Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "5x_0pyIMxlDMTncIHnyKatEgEXs",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "DBWde9iWBLw"
+    },
+    "snippet": {
+      "publishedAt": "2023-10-07T05:31:06Z",
+      "channelId": "UCJihyK0A38SZ6SdJirEdIOw",
+      "title": "Lec-53: Classes &amp; Objects in Python 🐍 | Object Oriented Programming in Python 🐍",
+      "description": "00:00 – Introduction 00:30 – example of class 03:36 – Create Object 04:35 – Execution In Python, classes are blueprints for ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DBWde9iWBLw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DBWde9iWBLw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DBWde9iWBLw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Gate Smashers",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-10-07T05:31:06Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "c6p5_O4MiU6nvDorY5SHkV9s3uU",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "5AWRivBk0Gw"
+    },
+    "snippet": {
+      "publishedAt": "2019-06-04T16:00:00Z",
+      "channelId": "UCFbNIlppjAuEX4znoulh0Cw",
+      "title": "What are Classes, Objects, and Constructors?",
+      "description": "Object Oriented Programming is one of the most common programming patterns, but it can be incredibly confusing with all the ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5AWRivBk0Gw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5AWRivBk0Gw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5AWRivBk0Gw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Web Dev Simplified",
+      "liveBroadcastContent": "none",
+      "publishTime": "2019-06-04T16:00:00Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "eoFBgwMFqCJW5zmwgLVNQezgoao",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "kERbRVIeCek"
+    },
+    "snippet": {
+      "publishedAt": "2021-01-05T12:22:33Z",
+      "channelId": "UCetyodKOWGk5H6FoKoFnkZw",
+      "title": "JavaScript Complete Course - Classes Explained - Part 26",
+      "description": "Hey Coders, In this tutorial, I am explaining what classes are and how they could be used as templates for objects around you.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kERbRVIeCek/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kERbRVIeCek/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kERbRVIeCek/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "CuriousDrive: Solve Coding Problems & Win Prizes!",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-01-05T12:22:33Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "rXS560S7y3e3CB9YhMw3_Npitsc",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "f0TrMH9s-VE"
+    },
+    "snippet": {
+      "publishedAt": "2021-07-16T15:00:12Z",
+      "channelId": "UCKQdc0-Targ4nDIAUrlfKiA",
+      "title": "Python Classes and Objects - OOP for Beginners",
+      "description": "In this tutorial, we will learn about Python Classes & Objects in great detail! I've been promising this for a while now, but we're ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/f0TrMH9s-VE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/f0TrMH9s-VE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/f0TrMH9s-VE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Python Simplified",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-07-16T15:00:12Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "WAbooDR0V5sfDNHP5C6WtSHGQhs",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "ZqDtPFrUonQ"
+    },
+    "snippet": {
+      "publishedAt": "2017-11-08T18:49:27Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "C# Classes Tutorial | Mosh",
+      "description": "Learn and understand classes in C# Get the COMPLETE Course: http://bit.ly/2LhL39u SUBSCRIBE FOR MORE VIDEOS!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZqDtPFrUonQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZqDtPFrUonQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZqDtPFrUonQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2017-11-08T18:49:27Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "tUiNZfu9zd-YnR-hQZVA71mi_tE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "6-dHkHgP2LE"
+    },
+    "snippet": {
+      "publishedAt": "2023-09-08T16:00:03Z",
+      "channelId": "UCUyeluBRhGPCW4rPe_UvBZQ",
+      "title": "STOP Using Classes In JavaScript | Prime Reacts",
+      "description": "Recorded live on twitch, GET IN https://twitch.tv/ThePrimeagen Reviewed article: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6-dHkHgP2LE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6-dHkHgP2LE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6-dHkHgP2LE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ThePrimeTime",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-09-08T16:00:03Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "1TVM7FWRAkaz9oHyO7-2E-RPH-I",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "bq_jZY6Skto"
+    },
+    "snippet": {
+      "publishedAt": "2017-03-16T16:56:37Z",
+      "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "title": "Classes - Beau teaches JavaScript",
+      "description": "Classes in JavaScript ES6 (ECMAScript 6)! Learn about class expressions, class declarations, and inheritance / extending.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bq_jZY6Skto/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bq_jZY6Skto/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bq_jZY6Skto/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "freeCodeCamp.org",
+      "liveBroadcastContent": "none",
+      "publishTime": "2017-03-16T16:56:37Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "YJLadQtiLQDHA1IkMP0K0KvfVEQ",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "ABRP_5RYhqU"
+    },
+    "snippet": {
+      "publishedAt": "2011-04-07T00:56:42Z",
+      "channelId": "UCJbPGzawDH1njbqV-D5HqKw",
+      "title": "Buckys C++ Programming Tutorials - 12 - Introduction to Classes and Objects",
+      "description": "Source Code: https://github.com/thenewboston-developers Core Deployment Guide (AWS): ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ABRP_5RYhqU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ABRP_5RYhqU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ABRP_5RYhqU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "thenewboston",
+      "liveBroadcastContent": "none",
+      "publishTime": "2011-04-07T00:56:42Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "mqIG0g0-G3leLpYJQLcDDvAM2To",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "HeW-D6KpDwY"
+    },
+    "snippet": {
+      "publishedAt": "2024-02-09T16:17:57Z",
+      "channelId": "UC1XBh-m27kkgwLAwu_SRJBg",
+      "title": "Lecture 8 : OOPS in Python | Object Oriented Programming | Classes &amp; Objects | Python Full Course",
+      "description": "This lecture was made with a lot of love❤️ Notes ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HeW-D6KpDwY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HeW-D6KpDwY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HeW-D6KpDwY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Shradha Khapra",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-02-09T16:17:57Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "5kpIMrH3sO0KrPCZ-m0Rm1_eGeg",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "gJmbVMW4hnA"
+    },
+    "snippet": {
+      "publishedAt": "2019-11-25T22:18:44Z",
+      "channelId": "UCbrXRQHV4TOU4Pqzw325Z1A",
+      "title": "JavaScript Skills: JavaScript Objects, Prototypes, and Classes Course Preview",
+      "description": "View full course here: https://www.pluralsight.com/courses/scaling-scikit-learn-solutions Join Pluralsight author Jim Cooper as he ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gJmbVMW4hnA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gJmbVMW4hnA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gJmbVMW4hnA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Pluralsight",
+      "liveBroadcastContent": "none",
+      "publishTime": "2019-11-25T22:18:44Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "iGotDT7bHfn0F3QAaLzqneqxnqM",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "R9I85RhI7Cg"
+    },
+    "snippet": {
+      "publishedAt": "2022-02-13T06:00:10Z",
+      "channelId": "UC80PWRj_ZU8Zu0HSMNVwKWw",
+      "title": "Advanced JavaScript Crash Course",
+      "description": "Courses - https://learn.codevolution.dev/ Support UPI - https://support.codevolution.dev/ Support PayPal ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/R9I85RhI7Cg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/R9I85RhI7Cg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/R9I85RhI7Cg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Codevolution",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-02-13T06:00:10Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "GdjYtTVnqQ3Dx00CQTiJUuUVa-E",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "a7baAGCBA9U"
+    },
+    "snippet": {
+      "publishedAt": "2023-01-23T11:30:00Z",
+      "channelId": "UCeVMnSShP_Iviwkknt83cww",
+      "title": "Classes and Objects in Python | Python Tutorial - Day #57",
+      "description": "Access the Playlist: https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg Link to the Repl: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/a7baAGCBA9U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/a7baAGCBA9U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/a7baAGCBA9U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "CodeWithHarry",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-01-23T11:30:00Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "LFDh2pG2Ie82G_7xGjA1_5jyKGY",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Kh5jZMM8h7Y"
+    },
+    "snippet": {
+      "publishedAt": "2022-01-22T05:00:17Z",
+      "channelId": "UCdhWNfnBWZ2KZqwTHA-Z4Hg",
+      "title": "Python CLASSES in 50 Seconds! 🔥👨‍💻 #shorts",
+      "description": "Did you know this? python tutorial,python tutorial for beginners,python,python programming tutorial,learn python,python ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Kh5jZMM8h7Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Kh5jZMM8h7Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Kh5jZMM8h7Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "truthybyte",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-01-22T05:00:17Z"
+    }
+  }
+]
