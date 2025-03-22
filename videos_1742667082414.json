@@ -1,0 +1,1702 @@
+[
+  {
+    "kind": "youtube#searchResult",
+    "etag": "T3qXB58fsqn201dCgCAJmxymSTI",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "ix9cRaBkVe0"
+    },
+    "snippet": {
+      "publishedAt": "2024-08-20T13:00:54Z",
+      "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+      "title": "Python Full Course for free 🐍 (2024)",
+      "description": "python #tutorial #beginners Python tutorial for beginners' full course 2024 *Learn Python in 1 HOUR* ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ix9cRaBkVe0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ix9cRaBkVe0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ix9cRaBkVe0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Bro Code",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-08-20T13:00:54Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "PEPKEA3K0vSFSgYDDvqYHjrqpVg",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "mNVT8mMLthU"
+    },
+    "snippet": {
+      "publishedAt": "2019-06-11T17:30:04Z",
+      "channelId": "UCEr55381WIqO1w_IzgcI5DQ",
+      "title": "Girl Code vs. Bro Code (Part 2) | Anwar Jibawi",
+      "description": "WATCH MORE ▻ https://youtube.com/playlist?list=PLbNDd5uPifopbYqGU2CX7_DNdQFutazzb SUBSCRIBE ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mNVT8mMLthU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mNVT8mMLthU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mNVT8mMLthU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Anwar Jibawi",
+      "liveBroadcastContent": "none",
+      "publishTime": "2019-06-11T17:30:04Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "0rMUboHr6C5FpfOm1yI6AJsvCb8",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "NdY8EXxzef4"
+    },
+    "snippet": {
+      "publishedAt": "2023-01-05T17:00:09Z",
+      "channelId": "UCEr55381WIqO1w_IzgcI5DQ",
+      "title": "BRO CODE SERIES (Pt 1, 2, 3, &amp; 4) | Anwar Jibawi",
+      "description": "WATCH MORE ▻ https://youtube.com/playlist?list=PLbNDd5uPifopbYqGU2CX7_DNdQFutazzb SUBSCRIBE ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NdY8EXxzef4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NdY8EXxzef4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NdY8EXxzef4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Anwar Jibawi",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-01-05T17:00:09Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "CtYoE52iu5W6rehgI7a9rnx2psk",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "E-E2nogpQHg"
+    },
+    "snippet": {
+      "publishedAt": "2021-12-30T17:00:34Z",
+      "channelId": "UCEr55381WIqO1w_IzgcI5DQ",
+      "title": "BRO CODE 4 LIFE (Part 4) | Anwar Jibawi",
+      "description": "WATCH MORE ▻ https://youtube.com/playlist?list=PLbNDd5uPifopbYqGU2CX7_DNdQFutazzb SUBSCRIBE ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/E-E2nogpQHg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/E-E2nogpQHg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/E-E2nogpQHg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Anwar Jibawi",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-12-30T17:00:34Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "7kTj8jpxoqc09fhVQLLr6nM6sAw",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "5OdVJbNCSso"
+    },
+    "snippet": {
+      "publishedAt": "2023-01-02T15:00:02Z",
+      "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+      "title": "MySQL Full Course for free 🐬",
+      "description": "MySQL #SQL #tutorial MySQL SQL tutorial for beginners ⭐ TIME STAMPS ⭐ #1 00:00:00 MySQL intro + installation 00:02:22 ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5OdVJbNCSso/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5OdVJbNCSso/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5OdVJbNCSso/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Bro Code",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-01-02T15:00:02Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "X4nJticIUPi1Ii0FC_f0HYizJSE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "S7KmEuTmxBc"
+    },
+    "snippet": {
+      "publishedAt": "2018-04-12T18:30:08Z",
+      "channelId": "UCEr55381WIqO1w_IzgcI5DQ",
+      "title": "Bro Code (Part 1) | Anwar Jibawi",
+      "description": "WATCH MORE ▻ https://youtube.com/playlist?list=PLbNDd5uPifopbYqGU2CX7_DNdQFutazzb SUBSCRIBE ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/S7KmEuTmxBc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/S7KmEuTmxBc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/S7KmEuTmxBc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Anwar Jibawi",
+      "liveBroadcastContent": "none",
+      "publishTime": "2018-04-12T18:30:08Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "XKZsQcPHXijkVF29xiZHVf3VEoY",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "HdM8x5xadC4"
+    },
+    "snippet": {
+      "publishedAt": "2018-06-12T08:22:03Z",
+      "channelId": "UC40bqYyA4pM_A4F13Sf_gPQ",
+      "title": "Bro Code",
+      "description": "Provided to YouTube by Universal Music Group Bro Code · Brantley Gilbert The Devil Don't Sleep ℗ 2017 Big Machine Label ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HdM8x5xadC4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HdM8x5xadC4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HdM8x5xadC4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Brantley Gilbert - Topic",
+      "liveBroadcastContent": "none",
+      "publishTime": "2018-06-12T08:22:03Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "Tm5ckY-_boRDp4pkrZqssfmb8Ik",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "87SH2Cn0s9A"
+    },
+    "snippet": {
+      "publishedAt": "2021-10-07T14:00:10Z",
+      "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+      "title": "C Programming Full Course for free ⚙️",
+      "description": "C tutorial for beginners full course #C #tutorial #beginners ⭐️Time Stamps⭐️ #1 (00:00:00) C tutorial for beginners ⚙️ #2 ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/87SH2Cn0s9A/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/87SH2Cn0s9A/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/87SH2Cn0s9A/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Bro Code",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-10-07T14:00:10Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "ZOtXsWB2SGY8hmFTHPMSBPN1iqs",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "HGTJBPNC-Gw"
+    },
+    "snippet": {
+      "publishedAt": "2023-05-31T14:00:57Z",
+      "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+      "title": "HTML &amp; CSS Full Course for free 🌎",
+      "description": "HTML #CSS #course ⭐ TIME STAMPS ⭐ #1 00:00:00 Introduction to HTML 00:01:56 VSCode download 00:02:38 project ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HGTJBPNC-Gw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HGTJBPNC-Gw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HGTJBPNC-Gw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Bro Code",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-05-31T14:00:57Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "maW2d9HOOQmzR5PRVHk3Ebq0oCw",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "5uIc-TUbMGk"
+    },
+    "snippet": {
+      "publishedAt": "2020-07-01T16:00:33Z",
+      "channelId": "UCEr55381WIqO1w_IzgcI5DQ",
+      "title": "The Ultimate Bro Code (Part 1, 2 &amp; 3) | Anwar Jibawi",
+      "description": "WATCH MORE ▻ https://youtube.com/playlist?list=PLbNDd5uPifopbYqGU2CX7_DNdQFutazzb SUBSCRIBE ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5uIc-TUbMGk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5uIc-TUbMGk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5uIc-TUbMGk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Anwar Jibawi",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-07-01T16:00:33Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "NLqGGZhobapKf721ahAyaCEWFRc",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "yh57qxvM8d8"
+    },
+    "snippet": {
+      "publishedAt": "2020-01-28T17:29:44Z",
+      "channelId": "UCEr55381WIqO1w_IzgcI5DQ",
+      "title": "Bro Code (Part 3) | Anwar Jibawi",
+      "description": "WATCH MORE ▻ https://youtube.com/playlist?list=PLbNDd5uPifopbYqGU2CX7_DNdQFutazzb SUBSCRIBE ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/yh57qxvM8d8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/yh57qxvM8d8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/yh57qxvM8d8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Anwar Jibawi",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-01-28T17:29:44Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "2CJ6-sp1aHojRBDpAGf3-upstZM",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "xTtL8E4LzTQ"
+    },
+    "snippet": {
+      "publishedAt": "2025-01-02T15:06:40Z",
+      "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+      "title": "Java Full Course for free ☕ (2025)",
+      "description": "java #javatutorial #javacourse Java tutorial for beginners full course 2025 *My original Java 12 Hour course* ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xTtL8E4LzTQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xTtL8E4LzTQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xTtL8E4LzTQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Bro Code",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-01-02T15:06:40Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "_4CgVMzU20hzJs7jJ7gdoxi6mpg",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "-TkoO8Z07hI"
+    },
+    "snippet": {
+      "publishedAt": "2022-06-28T23:47:32Z",
+      "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+      "title": "C++ Full Course for free ⚡️",
+      "description": "This video is a beginner's introduction to C++ that assumes you have no coding experience. C++ is a vast and complex language.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-TkoO8Z07hI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-TkoO8Z07hI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-TkoO8Z07hI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Bro Code",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-06-28T23:47:32Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "cHXGlNSmI8NqiKdqhu-xwbPPafI",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "XKHEtdqhLK8"
+    },
+    "snippet": {
+      "publishedAt": "2021-02-15T15:00:12Z",
+      "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+      "title": "Python Full Course for free 🐍",
+      "description": "python #tutorial #beginners Python tutorial for beginners full course Python 12 Hour Full Course for free (2024): ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XKHEtdqhLK8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XKHEtdqhLK8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XKHEtdqhLK8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Bro Code",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-02-15T15:00:12Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "x0v5NUtXqzMqd3HPxO2427QGw9E",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "xkOUyAW3oYA"
+    },
+    "snippet": {
+      "publishedAt": "2021-12-24T05:06:34Z",
+      "channelId": "UCVlaJdpaJiT3Tpr8JZI-DnA",
+      "title": "Big Boogie - Bro Code (Official Audio)",
+      "description": "Stream Big Boogie's new project, 'Underrated': https://BigBoogie.lnk.to/UnderRated Follow Big Boogie: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xkOUyAW3oYA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xkOUyAW3oYA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xkOUyAW3oYA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG BOOGIE MUSIC",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-12-24T05:06:34Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "__2MXRoGj9B-YzQyyH2VFOM6S20",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "lfmg-EJ8gm4"
+    },
+    "snippet": {
+      "publishedAt": "2024-01-01T14:30:18Z",
+      "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+      "title": "JavaScript Full Course for free 🌐 (2024)",
+      "description": "javascript #tutorial #course ⭐Time Stamps⭐ #1 00:00:00 JavaScript tutorial for beginners #2 00:12:32 Variables #3 ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lfmg-EJ8gm4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lfmg-EJ8gm4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lfmg-EJ8gm4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Bro Code",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-01-01T14:30:18Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "6vYiwM3x1Jw6hz2HWzD35kK48Zc",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "0Cz5X2-TdVg"
+    },
+    "snippet": {
+      "publishedAt": "2024-11-09T15:30:00Z",
+      "channelId": "UC7tQxAzdstcn9p1zlxw39nA",
+      "title": "Bro Code Supreme #shorts",
+      "description": "Join me in this 7 days series where we try 5 HIGH ABV drinks, popularly known as strong beers but are not beers. These drinks ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0Cz5X2-TdVg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0Cz5X2-TdVg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0Cz5X2-TdVg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Mix it up with Mendi",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-11-09T15:30:00Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "CyNEXGVpSH-np3twq2_d0Y3LzI4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "KYB-G_Kyk78"
+    },
+    "snippet": {
+      "publishedAt": "2022-10-04T14:20:52Z",
+      "channelId": "UCZpmEAfTrOUdUuknTeuqqLg",
+      "title": "bro code",
+      "description": "brocode #relatablecomedy #relationshipcomedy this video is about : jab apki girlfriend ko apke baare mai pata chal jaye k ap ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KYB-G_Kyk78/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KYB-G_Kyk78/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KYB-G_Kyk78/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Neetesh Praliya Videos",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-10-04T14:20:52Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "66pxnd3irBBacM_XldWSGFrbffA",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "odA_vbNifuc"
+    },
+    "snippet": {
+      "publishedAt": "2024-11-02T11:01:03Z",
+      "channelId": "UC72_FRBE63kbHDYeKgc5HDg",
+      "title": "Bankzitters - Bro Code",
+      "description": "\"Bro Code\" – Bankzitters Stream ''Bro Code'' nu op Spotify: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/odA_vbNifuc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/odA_vbNifuc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/odA_vbNifuc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Bankzitters",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-11-02T11:01:03Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "7g8W4NAvYwGVQ1Hd773T-lFDyls",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "cENOBBH0wCw"
+    },
+    "snippet": {
+      "publishedAt": "2022-02-26T21:00:10Z",
+      "channelId": "UCmZ5FTiSrdiBIUqYqqi1ZvQ",
+      "title": "The Bro Code",
+      "description": "Hey Rad Fam! Thanks for watching!! Drop a like if you enjoyed Agree? Don't forget to subscribe for more rad content and a part ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cENOBBH0wCw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cENOBBH0wCw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cENOBBH0wCw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Brad Martin",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-02-26T21:00:10Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "-yWccOpfxXp863P2SMu7jSCGYAY",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "CgkZ7MvWUAA"
+    },
+    "snippet": {
+      "publishedAt": "2024-01-16T15:55:09Z",
+      "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+      "title": "React Full Course for free ⚛️ (2024)",
+      "description": "reactjs #course #tutorial This is a beginners React JS course that should be enough to get you started using the React Library.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CgkZ7MvWUAA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CgkZ7MvWUAA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CgkZ7MvWUAA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Bro Code",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-01-16T15:55:09Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "CHjzGzotJ2G9KobRLKOaYzzKMxY",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "8KCuHHeC_M0"
+    },
+    "snippet": {
+      "publishedAt": "2024-08-18T14:00:05Z",
+      "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+      "title": "Learn Python in 1 hour! 🐍 (2024)",
+      "description": "python #pythontutorial #pythoncourse This is a quick introduction to the Python programming language. If you would like to learn ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8KCuHHeC_M0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8KCuHHeC_M0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8KCuHHeC_M0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Bro Code",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-08-18T14:00:05Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "jBKYRnwmI4qEUX3fFG0hYuNG144",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "zZ6vybT1HQs"
+    },
+    "snippet": {
+      "publishedAt": "2023-03-29T12:16:11Z",
+      "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+      "title": "PHP Full Course for non-haters 🐘",
+      "description": "php #course #tutorial PHP tutorial for beginners full course This video will give you and introduction PHP in 4 hours. Afterwords I ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zZ6vybT1HQs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zZ6vybT1HQs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zZ6vybT1HQs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Bro Code",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-03-29T12:16:11Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "eHjT3Ka8qUqe9R7LYmrUpItX_w8",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "wRNinF7YQqQ"
+    },
+    "snippet": {
+      "publishedAt": "2021-09-08T14:00:20Z",
+      "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+      "title": "Learn CSS in 1 hour 🎨",
+      "description": "CSS #tutorial #beginners ⭐️Time Stamps⭐️ #1 (00:00:00) CSS tutorial for beginners #2 (00:11:00) fonts #3 (00:14:20) ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wRNinF7YQqQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wRNinF7YQqQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wRNinF7YQqQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Bro Code",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-09-08T14:00:20Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "ZEtOW-hYEJqJNm8O8HIELnXVUE8",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "HD13eq_Pmp8"
+    },
+    "snippet": {
+      "publishedAt": "2021-09-01T14:02:11Z",
+      "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+      "title": "Learn HTML in 1 hour 🌎",
+      "description": "HTML full course tutorial for beginners #HTML #course #tutorial ⭐️Time Stamps⭐️ #1 (00:00:00)​ HTML tutorial for beginners ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HD13eq_Pmp8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HD13eq_Pmp8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HD13eq_Pmp8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Bro Code",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-09-01T14:02:11Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "CMq59BsauwL-xJRberXYMflKx7o",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "rQFC5JatVX0"
+    },
+    "snippet": {
+      "publishedAt": "2024-06-28T19:00:37Z",
+      "channelId": "UCZGNLDywn8hgzqrC9Mlz_Pw",
+      "title": "How the bro code saved me from Heartbreak",
+      "description": "How the bro code saved me from Heartbreak.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rQFC5JatVX0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rQFC5JatVX0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rQFC5JatVX0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Tai Lopez",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-06-28T19:00:37Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "MgVMqSnKFalqjTNul0dSQtWs4yc",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "xk4_1vDrzzo"
+    },
+    "snippet": {
+      "publishedAt": "2020-11-09T15:02:50Z",
+      "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+      "title": "Java Full Course for free ☕",
+      "description": "Java tutorial for beginners full course #Java #tutorial #beginners ⭐️Time Stamps⭐️ #1 (00:00:00) Java tutorial for beginners ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xk4_1vDrzzo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xk4_1vDrzzo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xk4_1vDrzzo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Bro Code",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-11-09T15:02:50Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "HSUo4kveoG1R7DaQ0cyh3Nt3nLw",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "oNk8yhJfJaw"
+    },
+    "snippet": {
+      "publishedAt": "2019-11-28T20:30:10Z",
+      "channelId": "UCqTwKvjbTENZDGbz2si47ag",
+      "title": "Stardom - Bro Code [Music Video] | GRM Daily",
+      "description": "SUBSCRIBE: http://bit.ly/GRMsubscribe FOLLOW: @grmdaily VISIT: http://grmdaily.com/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/oNk8yhJfJaw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/oNk8yhJfJaw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/oNk8yhJfJaw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "GRM Daily",
+      "liveBroadcastContent": "none",
+      "publishTime": "2019-11-28T20:30:10Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "HJ1j6QmQso_CSfJ2291cz5HIbEE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "NHamj4MPtJ4"
+    },
+    "snippet": {
+      "publishedAt": "2018-05-03T15:01:38Z",
+      "channelId": "UC3nzFvADzctm2hdQYrSurgg",
+      "title": "BRO CODE 2 | Karachi Vynz Official",
+      "description": "BRO CODE 2 | Karachi Vynz Official Written By | Aamir Malik Sponsored By | Rayaan Beach Paradise Restaurant & Guest House ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NHamj4MPtJ4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NHamj4MPtJ4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NHamj4MPtJ4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Karachi Vynz Official",
+      "liveBroadcastContent": "none",
+      "publishTime": "2018-05-03T15:01:38Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "TipmP1uoWnziqgOhUbLewokcx1c",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "2oCN2q1x3c4"
+    },
+    "snippet": {
+      "publishedAt": "2023-09-21T16:39:31Z",
+      "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+      "title": "HTML tutorial for beginners (2023) 🌎",
+      "description": "HTML #course #tutorial ⭐TIME STAMPS ⭐ 00:00:00 introduction 00:01:56 VSCode download 00:02:38 project folder setup ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2oCN2q1x3c4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2oCN2q1x3c4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2oCN2q1x3c4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Bro Code",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-09-21T16:39:31Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "KVAz3OeTtjG_Tw46V92eWDSZ4Lo",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "2p24vYyS5_U"
+    },
+    "snippet": {
+      "publishedAt": "2023-06-12T15:45:00Z",
+      "channelId": "UC_XBBRBWCyuKKNuaIHrV0Rw",
+      "title": "Bro code 🔥🔥 #shorts #whisky",
+      "description": "CheersIndia-Official Bro code spring wine #shorts #whisky.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2p24vYyS5_U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2p24vYyS5_U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2p24vYyS5_U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Cheers India",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-06-12T15:45:00Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "xY4WmHvGrgaUtMrFbJ-WRxEOEeQ",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "wxznTygnRfQ"
+    },
+    "snippet": {
+      "publishedAt": "2021-07-05T14:00:31Z",
+      "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+      "title": "C# Full Course for free 🚀",
+      "description": "C# tutorial beginners full course (C# for Unity) #C# #tutorial #Unity ⭐️Time Stamps⭐️ #1 (00:00:00) C# tutorial for beginners ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wxznTygnRfQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wxznTygnRfQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wxznTygnRfQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Bro Code",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-07-05T14:00:31Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "TENzrlWRVpUYQDppLcJ0xt-JQdA",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "8SNNojwjWjI"
+    },
+    "snippet": {
+      "publishedAt": "2017-02-16T03:28:10Z",
+      "channelId": "UC9s30qx5JGWaAfQWcK0JDKg",
+      "title": "Brantley Gilbert -  Bro Code",
+      "description": "Brantley Gilbert - Bro Code Brantley Gilbert - Bro Code Brantley Gilbert - Bro Code Brantley Gilbert - Bro Code Brantley Gilbert ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8SNNojwjWjI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8SNNojwjWjI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8SNNojwjWjI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Chicago Music Festivals",
+      "liveBroadcastContent": "none",
+      "publishTime": "2017-02-16T03:28:10Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "KaqlmqocjpaN21vFRKba5swq9WQ",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "89cGQjB5R4M"
+    },
+    "snippet": {
+      "publishedAt": "2022-11-26T15:00:05Z",
+      "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+      "title": "Functions in Python are easy 📞",
+      "description": "python #tutorial #course 00:00:00 functions 00:01:49 arguments 00:04:28 exercise #1 00:06:12 return 00:08:27 exercise #2 ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/89cGQjB5R4M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/89cGQjB5R4M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/89cGQjB5R4M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Bro Code",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-11-26T15:00:05Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "f4h4ASS8R7twPTLeyTAx3vXhJ6Y",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "CBYHwZcbD-s"
+    },
+    "snippet": {
+      "publishedAt": "2021-11-11T14:01:18Z",
+      "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+      "title": "Learn Data Structures and Algorithms for free 📈",
+      "description": "Data Structures and Algorithms full course tutorial java #data #structures #algorithms ⭐️Time Stamps⭐️ #1 (00:00:00) What ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CBYHwZcbD-s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CBYHwZcbD-s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CBYHwZcbD-s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Bro Code",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-11-11T14:01:18Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "oi69Fl16W4fD7_P22eu6MBbqyWM",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "qQSaA9wgU-U"
+    },
+    "snippet": {
+      "publishedAt": "2019-06-06T10:45:01Z",
+      "channelId": "UCLbokhmCdAsK4adO1fRCgFQ",
+      "title": "Bro Code",
+      "description": "Provided to YouTube by Ditto Music Bro Code · Einár Första Klass ℗ Einár Released on: 2019-06-07 Auto-generated by ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qQSaA9wgU-U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qQSaA9wgU-U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qQSaA9wgU-U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Einár - Topic",
+      "liveBroadcastContent": "none",
+      "publishTime": "2019-06-06T10:45:01Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "60RdRC9IugbvwQqM0Hhnw2El-xs",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "MT99MTd0luY"
+    },
+    "snippet": {
+      "publishedAt": "2020-07-17T08:32:36Z",
+      "channelId": "UCgM1AQcoM5TRlzsm1e66vrQ",
+      "title": "Brocode Vs Girlfriend (PART 1) Ft. Pataakha | Twarita Nagar, Abhishek Kapoor",
+      "description": "Play your favourite games and win here: https://bit.ly/3e7sbao When you're cheating on your girlfriend and you call your best ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/MT99MTd0luY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/MT99MTd0luY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/MT99MTd0luY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Hasley India",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-07-17T08:32:36Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "OlkKZxbSUn9gTfQoQYUECUHrT7c",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "A36pfuw33oQ"
+    },
+    "snippet": {
+      "publishedAt": "2025-03-21T17:14:12Z",
+      "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+      "title": "Learn nested loops in 9 minutes! ➿",
+      "description": "coding #programming #cprogramming Nested loop = a loop inside another loop.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/A36pfuw33oQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/A36pfuw33oQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/A36pfuw33oQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Bro Code",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-03-21T17:14:12Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "KsKCIqBZhL2Sh5jTFhHYX9dXhDg",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Ip2ZGkX_9HM"
+    },
+    "snippet": {
+      "publishedAt": "2024-10-26T11:34:00Z",
+      "channelId": "UCvaL9Gb_RGglaZq9st7BGRQ",
+      "title": "Bankzitters - Bro Code (Lyrics)",
+      "description": "Bankzitters- Bro Code (Lyrics) Tags: #lyrics #russo #bankzitters #bankzittersbrocode #brocode.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Ip2ZGkX_9HM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Ip2ZGkX_9HM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Ip2ZGkX_9HM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "SolidMusic",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-10-26T11:34:00Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "r6wmydDkbFDgvqqVUq4BZcEkVOY",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "A_jcCNYwId8"
+    },
+    "snippet": {
+      "publishedAt": "2024-02-05T12:00:39Z",
+      "channelId": "UCG5Z5RnXd2FJkyQCDjNkOcA",
+      "title": "bro code  is not beer  see the price in Karnataka #music #subscribe#brocode #viral #alcohol #foryou",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/A_jcCNYwId8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/A_jcCNYwId8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/A_jcCNYwId8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Gold drops hubballi",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-02-05T12:00:39Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "4Y5mkFr1gbb3vq62DumjgBQjst8",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "ACH9bO612fM"
+    },
+    "snippet": {
+      "publishedAt": "2024-11-29T05:00:06Z",
+      "channelId": "UCX0id4BBs4lMRPBxNc94rDw",
+      "title": "Jab King x Hunter - Bro Code (Official Music Video) | Prod. Litleboy",
+      "description": "Official Music Video for “Bro Code” by Hunter and Jab King. Written by: Hunter Simpson & David Connell Produced by: litleboy ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ACH9bO612fM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ACH9bO612fM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ACH9bO612fM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "JAB KING OFFICIAL",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-11-29T05:00:06Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "71QZhfZ3uI-6T1RqY6i-68mjVUc",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "_NjL190Wh7A"
+    },
+    "snippet": {
+      "publishedAt": "2024-11-18T15:30:21Z",
+      "channelId": "UCoBLyV017zKpDjYP4Xv7WHw",
+      "title": "Bro code is not a beer 🍾#ytshorts  #asmrvideo",
+      "description": "Bro code ASMR.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_NjL190Wh7A/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_NjL190Wh7A/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_NjL190Wh7A/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "The Drinking Lord",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-11-18T15:30:21Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "vMdIi4jiB1w2MbMAh8GvGr8c5-4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Hg1ftL2Plek"
+    },
+    "snippet": {
+      "publishedAt": "2023-11-22T18:56:05Z",
+      "channelId": "UC41DEqCZsmGCwyDQSrvFR7A",
+      "title": "Bro Code 😂 #shorts #family",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Hg1ftL2Plek/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Hg1ftL2Plek/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Hg1ftL2Plek/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Krys & Kareem FAM",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-11-22T18:56:05Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "czHiNahfpm90yy0GaV0OckiG7LE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "rTQ0fpXS2sI"
+    },
+    "snippet": {
+      "publishedAt": "2024-09-12T16:11:01Z",
+      "channelId": "UCaamhxAHz15A-Lfe9TO91-g",
+      "title": "Bro code? 🤣",
+      "description": "funny #shorts Disclaimer: If you recognize your content in this video, please comment below. I'll give you credit by replying to your ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rTQ0fpXS2sI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rTQ0fpXS2sI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rTQ0fpXS2sI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "T.Ollyvar",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-09-12T16:11:01Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "Q6vGD-h_gLljEqP0gK7TAYPEi9A",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "AgNJSNALfns"
+    },
+    "snippet": {
+      "publishedAt": "2023-11-03T21:34:32Z",
+      "channelId": "UCGRryxFxjXbVAtBPE9EbyMg",
+      "title": "What Is The Unspoken Bro Code??",
+      "description": "OG Vid: https://www.youtube.com/watch?v=HipdY8pWJ2k ☆Socials: ➥ Gaming Channel: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/AgNJSNALfns/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/AgNJSNALfns/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/AgNJSNALfns/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Joe Bartolozzi",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-11-03T21:34:32Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "L0uicC4mgSxB8Utn6kIOScn2WXk",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "i8uwjNJUxXY"
+    },
+    "snippet": {
+      "publishedAt": "2022-07-11T03:02:23Z",
+      "channelId": "UCa3GFKXgVnH5wQxZWRQRnSA",
+      "title": "The Bro Code!",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/i8uwjNJUxXY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/i8uwjNJUxXY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/i8uwjNJUxXY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "abdoulupnext",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-07-11T03:02:23Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "2fAJImx06bDA5b1lwml6xtmHrsE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Rc7voLTFY0w"
+    },
+    "snippet": {
+      "publishedAt": "2018-02-06T09:00:02Z",
+      "channelId": "UC3nzFvADzctm2hdQYrSurgg",
+      "title": "THE BROTHER CODE | Karachi Vynz Official",
+      "description": "THE BROTHER CODE | Karachi Vynz Official Sponsored By | Filli Tea n Talk Written By | Aamir Malik ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Rc7voLTFY0w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Rc7voLTFY0w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Rc7voLTFY0w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Karachi Vynz Official",
+      "liveBroadcastContent": "none",
+      "publishTime": "2018-02-06T09:00:02Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "qnMbv0mYzwVfMRY2eiqwm2oqpTM",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "I5kj-YsmWjM"
+    },
+    "snippet": {
+      "publishedAt": "2023-12-01T11:03:00Z",
+      "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+      "title": "Build this JS calculator in 15 minutes! 🖩",
+      "description": "JavaScript #tutorial #course IMPORTANT NOTE: eval() allows you to execute a string of code as if it were actual JavaScript code.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/I5kj-YsmWjM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/I5kj-YsmWjM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/I5kj-YsmWjM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Bro Code",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-12-01T11:03:00Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "f0_OLjjZmqiD5UdOigAopqxiFQA",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "yDrWz-qjacU"
+    },
+    "snippet": {
+      "publishedAt": "2023-10-29T16:52:23Z",
+      "channelId": "UCX6CUGFMsBWbQ4ga27trD2A",
+      "title": "my Reaction on Tasting Brocode brut Beer 😂 #brocode #beertasting #beer #reactionvideo #brocodebrut",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/yDrWz-qjacU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/yDrWz-qjacU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/yDrWz-qjacU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Galij Pilla",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-10-29T16:52:23Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "Aj7AT6Bptl3ZxdPfxAyqEVWPac8",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "_64p7S8iRhQ"
+    },
+    "snippet": {
+      "publishedAt": "2020-03-20T06:32:49Z",
+      "channelId": "UCQPTbtadNWcPYuoS3JqkpYw",
+      "title": "School Bunk Caught By Mom l Bro Code l BMB",
+      "description": "Follow us on: Instagram : https://www.instagram.com/baccha_mat_bolna Facebook : https://www.facebook.com/bacchamatbolna/ ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_64p7S8iRhQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_64p7S8iRhQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_64p7S8iRhQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Baccha Mat Bolna",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-03-20T06:32:49Z"
+    }
+  }
+]
