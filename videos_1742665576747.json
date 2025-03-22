@@ -1,0 +1,1702 @@
+[
+  {
+    "kind": "youtube#searchResult",
+    "etag": "BQHkz2dTID_kJllp7LxRRtrNz8I",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "JqOTf1wuF7E"
+    },
+    "snippet": {
+      "publishedAt": "2024-11-27T14:51:41Z",
+      "channelId": "UCf6AGqO98eGk11nfazociVQ",
+      "title": "Choosing a WordPress Hosting Provider in 2025: Step-By-Step Guide",
+      "description": "SiteGround great BF deal: https://www.siteground.com/index.htm?afcode=37ab2d75d84a9cf3245293a3d3553b88 (paid ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JqOTf1wuF7E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JqOTf1wuF7E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JqOTf1wuF7E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ByteGrad",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-11-27T14:51:41Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "IN0mhPMooJdb7hs8GLBVE84OQaA",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "wnSArmbI6qw"
+    },
+    "snippet": {
+      "publishedAt": "2025-03-13T07:00:43Z",
+      "channelId": "UCf6AGqO98eGk11nfazociVQ",
+      "title": "Handle Permissions Like A Pro - Every Developer Should Know This",
+      "description": "Critical things to understand about permissions (authorization) Permit (including a forever free tier): ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wnSArmbI6qw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wnSArmbI6qw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wnSArmbI6qw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ByteGrad",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-03-13T07:00:43Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "p2DL54Xx-7cTxq0vEm5UdlwiRI0",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "-yIsQPp31L0"
+    },
+    "snippet": {
+      "publishedAt": "2023-08-21T10:00:00Z",
+      "channelId": "UCf6AGqO98eGk11nfazociVQ",
+      "title": "All 12 useState &amp; useEffect Mistakes Junior React Developers Still Make in 2025",
+      "description": "NEW React & Next.js Course: https://bytegrad.com/courses/professional-react-nextjs Hi, I'm Wesley. I'm a brand ambassador for ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-yIsQPp31L0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-yIsQPp31L0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-yIsQPp31L0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ByteGrad",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-08-21T10:00:00Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "8GJAhDIElgO14y76bcWkCtcJKLA",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "EzTxYQmU8OE"
+    },
+    "snippet": {
+      "publishedAt": "2024-03-05T07:53:38Z",
+      "channelId": "UCf6AGqO98eGk11nfazociVQ",
+      "title": "Web Developer Roadmap (2025) - Everything is Changing",
+      "description": "NEW React & Next.js Course: https://bytegrad.com/courses/professional-react-nextjs Video sponsor AppMySite: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EzTxYQmU8OE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/EzTxYQmU8OE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/EzTxYQmU8OE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ByteGrad",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-03-05T07:53:38Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "S5L0k9LVuc-eoDSb2ua4rBbCSTU",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "vwSlYG7hFk0"
+    },
+    "snippet": {
+      "publishedAt": "2023-11-15T14:10:17Z",
+      "channelId": "UCf6AGqO98eGk11nfazociVQ",
+      "title": "NextJS Tutorial - All 12 Concepts You Need to Know",
+      "description": "NEW React & Next.js Course: https://bytegrad.com/courses/professional-react-nextjs Also check out Hostinger's Black Friday deal ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vwSlYG7hFk0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vwSlYG7hFk0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vwSlYG7hFk0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ByteGrad",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-11-15T14:10:17Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "JGxZnLOI39aM9eTDprDIYdMwcTU",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Yl7ULiRhhdU"
+    },
+    "snippet": {
+      "publishedAt": "2023-03-18T20:50:24Z",
+      "channelId": "UCf6AGqO98eGk11nfazociVQ",
+      "title": "JavaScript Full Course (2024) - Beginner to Pro",
+      "description": "NEW React & Next.js Course: https://bytegrad.com/courses/professional-react-nextjs HTML code: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Yl7ULiRhhdU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Yl7ULiRhhdU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Yl7ULiRhhdU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ByteGrad",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-03-18T20:50:24Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "EACEPvtCyPL5zZ5KDmOryR36GJ8",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "5r25Y9Vg2P4"
+    },
+    "snippet": {
+      "publishedAt": "2024-08-01T18:56:19Z",
+      "channelId": "UCf6AGqO98eGk11nfazociVQ",
+      "title": "All 17 React Best Practices (IMPORTANT!)",
+      "description": "Check out Semaphor: https://semaphor.cloud (paid sponsorship). Disclaimer: this is a sponsored video (paid). It's your ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5r25Y9Vg2P4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5r25Y9Vg2P4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5r25Y9Vg2P4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ByteGrad",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-08-01T18:56:19Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "rF97OUyn2GjudnnONsAJ4jUaGO4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "ERGkwdyjtcM"
+    },
+    "snippet": {
+      "publishedAt": "2025-01-28T10:04:56Z",
+      "channelId": "UCf6AGqO98eGk11nfazociVQ",
+      "title": "Build A Next.js SaaS From Scratch (Step-By-Step)",
+      "description": "Let Posthog know ByteGrad sent you in signup :) LINK: https://posthog.com/bytegrad (sponsored) Kinde authentication: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ERGkwdyjtcM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ERGkwdyjtcM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ERGkwdyjtcM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ByteGrad",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-01-28T10:04:56Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "Kn_E_M8TJRUPgoHGjAv1UeLfrRU",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Rr5AqASIyxw"
+    },
+    "snippet": {
+      "publishedAt": "2023-07-31T10:00:17Z",
+      "channelId": "UCf6AGqO98eGk11nfazociVQ",
+      "title": "Stop Conditional Rendering in React Without Knowing This (&amp;&amp; vs Ternary Operator)",
+      "description": "NEW React & Next.js Course: https://bytegrad.com/courses/professional-react-nextjs Hi, I'm Wesley. I'm a brand ambassador for ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Rr5AqASIyxw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Rr5AqASIyxw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Rr5AqASIyxw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ByteGrad",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-07-31T10:00:17Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "cmAciKIIkm_-19pipKAtGr0lyBs",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "5QP0mvrJkiY"
+    },
+    "snippet": {
+      "publishedAt": "2024-05-01T13:30:35Z",
+      "channelId": "UCf6AGqO98eGk11nfazociVQ",
+      "title": "All 29 Next.js Mistakes Beginners Make",
+      "description": "Check out Semaphor for analytics here: https://semaphor.cloud/home (paid sponsorship). Disclaimer: this is a sponsored video ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5QP0mvrJkiY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5QP0mvrJkiY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5QP0mvrJkiY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ByteGrad",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-05-01T13:30:35Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "_DJ_oVia4lq1ozFPbHDERdsb_a4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "sUKptmUVIBM"
+    },
+    "snippet": {
+      "publishedAt": "2023-07-21T09:01:07Z",
+      "channelId": "UCf6AGqO98eGk11nfazociVQ",
+      "title": "Fresh React Portfolio Website (Next.js App, Framer Motion, TypeScript, Tailwind CSS, Email)",
+      "description": "NEW React & Next.js Course: https://bytegrad.com/courses/professional-react-nextjs Final code: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/sUKptmUVIBM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/sUKptmUVIBM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/sUKptmUVIBM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ByteGrad",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-07-21T09:01:07Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "t6gdfz-aw7_1Zuy5uRUMZ8K5HJM",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "TPACABQTHvM"
+    },
+    "snippet": {
+      "publishedAt": "2023-09-04T10:00:28Z",
+      "channelId": "UCf6AGqO98eGk11nfazociVQ",
+      "title": "TypeScript in React - COMPLETE Tutorial (Crash Course)",
+      "description": "NEW React & Next.js Course: https://bytegrad.com/courses/professional-react-nextjs Hi, I'm Wesley. I'm a brand ambassador for ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TPACABQTHvM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TPACABQTHvM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TPACABQTHvM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ByteGrad",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-09-04T10:00:28Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "MGiwiW5cDKqCVaPIQ5B40pnmCxs",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "-ilAEL7vfTs"
+    },
+    "snippet": {
+      "publishedAt": "2025-02-04T00:42:13Z",
+      "channelId": "UCf6AGqO98eGk11nfazociVQ",
+      "title": "Python Tutorial - All 25 Concepts You Need To Know",
+      "description": "DataCamp Python Track (sponsored): https://datacamp.pxf.io/19bXoD (ByteGrad gets commission) DataCamp Certification ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-ilAEL7vfTs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-ilAEL7vfTs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-ilAEL7vfTs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ByteGrad",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-02-04T00:42:13Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "HE4saPJPGOJof_EAiDLTeohwG2E",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "QXxy8Uv1LnQ"
+    },
+    "snippet": {
+      "publishedAt": "2024-06-06T06:00:10Z",
+      "channelId": "UCf6AGqO98eGk11nfazociVQ",
+      "title": "Prisma in Next.js - My Fav Way to Work with Databases (CRUD, Dev/Prod Workflow, Relations, Indexes)",
+      "description": "Check out Prisma: https://www.prisma.io/?via=bytegrad (paid sponsorship & I get commission from your purchases) Disclaimer: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QXxy8Uv1LnQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QXxy8Uv1LnQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QXxy8Uv1LnQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ByteGrad",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-06-06T06:00:10Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "A-eridQ23CQTrwVvmjz_-THzwG4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "qDiUSS3T3So"
+    },
+    "snippet": {
+      "publishedAt": "2025-02-13T17:01:59Z",
+      "channelId": "UCf6AGqO98eGk11nfazociVQ",
+      "title": "SQL Tutorial - All 38 Concepts You Need To Know",
+      "description": "Everything you need to know about SQL - Datacamp's SQL Fundamentals Course (sponsored): https://datacamp.pxf.io/vP2513 ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qDiUSS3T3So/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qDiUSS3T3So/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qDiUSS3T3So/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ByteGrad",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-02-13T17:01:59Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "3KrHG_L59MqJNBQRtLk0uUuQw9s",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "kyBwlWC3w8k"
+    },
+    "snippet": {
+      "publishedAt": "2025-03-03T13:07:01Z",
+      "channelId": "UCf6AGqO98eGk11nfazociVQ",
+      "title": "Build A Beautiful Website With AI &amp; Host Anywhere",
+      "description": "Building sites is so much faster with AI... Cloudways good deal: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kyBwlWC3w8k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kyBwlWC3w8k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kyBwlWC3w8k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ByteGrad",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-03-03T13:07:01Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "gOpBiTGNUVdomnPOWWp0WUYAWVw",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "lwpCppqHCXs"
+    },
+    "snippet": {
+      "publishedAt": "2023-03-18T20:24:12Z",
+      "channelId": "UCf6AGqO98eGk11nfazociVQ",
+      "title": "HTML &amp; CSS Project for Beginners (2024)",
+      "description": "NEW React & Next.js Course: https://bytegrad.com/courses/professional-react-nextjs Hi, I'm Wesley. I'm a brand ambassador for ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lwpCppqHCXs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lwpCppqHCXs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lwpCppqHCXs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ByteGrad",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-03-18T20:24:12Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "6af-gMWNCrm2KXjPdgV9VmLxYfQ",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "y7JCnfbETPs"
+    },
+    "snippet": {
+      "publishedAt": "2024-05-22T05:00:37Z",
+      "channelId": "UCf6AGqO98eGk11nfazociVQ",
+      "title": "Your first full-stack Next.js project (Server Components, Server Actions, Suspense, Kinde)",
+      "description": "IMPORTANT: create the Kinde account here: https://bit.ly/3QOe1Bh (paid sponsorship). Disclaimer: this is a sponsored video ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/y7JCnfbETPs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/y7JCnfbETPs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/y7JCnfbETPs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ByteGrad",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-05-22T05:00:37Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "0UVOjsJTBKWmChn7QATQzlX8fXk",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "KnkEiVkayhA"
+    },
+    "snippet": {
+      "publishedAt": "2024-11-12T07:00:10Z",
+      "channelId": "UCf6AGqO98eGk11nfazociVQ",
+      "title": "Why I Don&#39;t Use Margin in React Components",
+      "description": "The first 500 people to use my link will get a 1 month free trial of Skillshare: https://skl.sh/bytegrad10241 (paid sponsorship).",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KnkEiVkayhA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KnkEiVkayhA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KnkEiVkayhA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ByteGrad",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-11-12T07:00:10Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "xeqgeEQoQGh_wdYIpptoTTRtpNU",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "J3aFEqouK44"
+    },
+    "snippet": {
+      "publishedAt": "2024-07-08T06:00:07Z",
+      "channelId": "UCf6AGqO98eGk11nfazociVQ",
+      "title": "React Project Tutorial for Beginners (Hooks, Context API, Tailwind, TypeScript, Authentication)",
+      "description": "IMPORTANT: Sign up for Kinde authentication here: https://bit.ly/3QOe1Bh (paid sponsorship). Disclaimer: this is a sponsored ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/J3aFEqouK44/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/J3aFEqouK44/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/J3aFEqouK44/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ByteGrad",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-07-08T06:00:07Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "F-sk99ryweNb4oxW1C8ZcgqQWHc",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "m0G5_XO5AuI"
+    },
+    "snippet": {
+      "publishedAt": "2024-11-19T17:24:19Z",
+      "channelId": "UCf6AGqO98eGk11nfazociVQ",
+      "title": "Next.js 15 Top 8 Changes - I&#39;m Amazed At What They Changed",
+      "description": "NEW React & Next.js Course: https://bytegrad.com/courses/professional-react-nextjs Hi, I'm Wesley. I'm a brand ambassador for ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/m0G5_XO5AuI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/m0G5_XO5AuI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/m0G5_XO5AuI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ByteGrad",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-11-19T17:24:19Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "RvzrHxZ7s7GSv6wU4cha-Cfztvg",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "zVjAA6UxvtU"
+    },
+    "snippet": {
+      "publishedAt": "2022-09-22T19:29:56Z",
+      "channelId": "UCf6AGqO98eGk11nfazociVQ",
+      "title": "New Carousel Slider in Bootstrap 5",
+      "description": "Final code of this example: https://github.com/ByteGrad/bootstrap-5-carousel-slider Hi, I'm Wesley. I'm a brand ambassador for ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zVjAA6UxvtU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zVjAA6UxvtU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zVjAA6UxvtU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ByteGrad",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-09-22T19:29:56Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "g_s-SsQdnIn4zUIUSThUKSx9-rM",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "NSBFKBq56qc"
+    },
+    "snippet": {
+      "publishedAt": "2025-02-25T13:47:03Z",
+      "channelId": "UCf6AGqO98eGk11nfazociVQ",
+      "title": "AI Can Now Fix Bugs While You Sleep",
+      "description": "AI can now even help with fixing bugs FAST. Latta AI (sponsored): https://latta.ai NEW React & Next.js Course: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NSBFKBq56qc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NSBFKBq56qc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NSBFKBq56qc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ByteGrad",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-02-25T13:47:03Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "UsWE-KYJtaa_KR71ojdUuq1Zpb8",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "0Pz9g654OIc"
+    },
+    "snippet": {
+      "publishedAt": "2024-11-22T07:00:02Z",
+      "channelId": "UCf6AGqO98eGk11nfazociVQ",
+      "title": "Payload CMS - Next.js Will Never Be The Same After This",
+      "description": "npx create-payload-app@latest (paid sponsorship) https://payloadcms.com (paid sponsorship) ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0Pz9g654OIc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0Pz9g654OIc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0Pz9g654OIc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ByteGrad",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-11-22T07:00:02Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "gIKiFPVEuaYiYJmo1WXt3opK7ak",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "SjkGWyWEVjI"
+    },
+    "snippet": {
+      "publishedAt": "2024-10-31T08:00:30Z",
+      "channelId": "UCf6AGqO98eGk11nfazociVQ",
+      "title": "File &amp; Image Uploads in Next.js 15 Are Easy Now",
+      "description": "Check out Pinata here: https://pinata.cloud/ (paid sponsorship). Disclaimer: this is a sponsored video (paid). It's your responsibility ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SjkGWyWEVjI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SjkGWyWEVjI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SjkGWyWEVjI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ByteGrad",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-10-31T08:00:30Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "GpwdIIyQsWvBEnIEK_ploGLHbuo",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "cCdFepe_q5E"
+    },
+    "snippet": {
+      "publishedAt": "2025-02-02T07:00:27Z",
+      "channelId": "UCf6AGqO98eGk11nfazociVQ",
+      "title": "Upload Video In React &amp; Next.js Is Easy Now (+ Progress Bar, Custom Button, ImageKit)",
+      "description": "ImageKit's free plan (sponsored): https://bit.ly/40KsF1D Also view how to STREAM videos in React / Next.js: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cCdFepe_q5E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cCdFepe_q5E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cCdFepe_q5E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ByteGrad",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-02-02T07:00:27Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "nC1VPxrNhQToIoZ6UrIzABagCLo",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "bwRj1O30JWg"
+    },
+    "snippet": {
+      "publishedAt": "2025-01-20T14:27:13Z",
+      "channelId": "UCf6AGqO98eGk11nfazociVQ",
+      "title": "Next.js 15 Authentication COMPLETE Guide (+ Best Practices, Pitfalls)",
+      "description": "Kinde: https://bit.ly/3QOe1Bh (paid sponsorship) NEW React & Next.js Course: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bwRj1O30JWg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bwRj1O30JWg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bwRj1O30JWg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ByteGrad",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-01-20T14:27:13Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "jZqiKEgIURk1Oun7vS32eU-LqyI",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "RadgkoJrhu0"
+    },
+    "snippet": {
+      "publishedAt": "2023-07-22T10:50:51Z",
+      "channelId": "UCf6AGqO98eGk11nfazociVQ",
+      "title": "Next.js Server Actions (revalidatePath, useFormStatus &amp; useOptimistic)",
+      "description": "NEW React & Next.js Course: https://bytegrad.com/courses/professional-react-nextjs Hi, I'm Wesley. I'm a brand ambassador for ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/RadgkoJrhu0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/RadgkoJrhu0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/RadgkoJrhu0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ByteGrad",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-07-22T10:50:51Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "4Uzt6hrIllzjIGXWUtdPPpyASMs",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "b9g4_8nAsdA"
+    },
+    "snippet": {
+      "publishedAt": "2022-11-16T23:07:03Z",
+      "channelId": "UCf6AGqO98eGk11nfazociVQ",
+      "title": "Bootstrap 5 Full Course",
+      "description": "NEW React & Next.js Course: https://bytegrad.com/courses/professional-react-nextjs Hi, I'm Wesley. I'm a brand ambassador for ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/b9g4_8nAsdA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/b9g4_8nAsdA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/b9g4_8nAsdA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ByteGrad",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-11-16T23:07:03Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "AUQRWqfPZixjeQt7XjRO4MOMbnI",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "f7tafNh-QRY"
+    },
+    "snippet": {
+      "publishedAt": "2025-03-17T07:00:34Z",
+      "channelId": "UCf6AGqO98eGk11nfazociVQ",
+      "title": "This React Form Builder Is Amazing!",
+      "description": "Using this form backend makes it so much easier Basin: https://usebasin.com (sponsored) NEW React & Next.js Course: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/f7tafNh-QRY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/f7tafNh-QRY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/f7tafNh-QRY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ByteGrad",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-03-17T07:00:34Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "BOLvLLZQ-K4IEYciBxspm4YULNw",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Ks0Z_qP2WEk"
+    },
+    "snippet": {
+      "publishedAt": "2023-03-03T23:12:21Z",
+      "channelId": "UCf6AGqO98eGk11nfazociVQ",
+      "title": "Learn JavaScript (ES6+) in 30 Minutes",
+      "description": "NEW React & Next.js Course: https://bytegrad.com/courses/professional-react-nextjs Hi, I'm Wesley. I'm a brand ambassador for ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Ks0Z_qP2WEk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Ks0Z_qP2WEk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Ks0Z_qP2WEk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ByteGrad",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-03-03T23:12:21Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "557mUL8uDaiodIBYNndpj7eFtxs",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "u6PQ5xZAv7Q"
+    },
+    "snippet": {
+      "publishedAt": "2023-08-05T08:54:43Z",
+      "channelId": "UCf6AGqO98eGk11nfazociVQ",
+      "title": "React Hook Form (+ Zod) - Complete Tutorial",
+      "description": "NEW React & Next.js Course: https://bytegrad.com/courses/professional-react-nextjs Learn: 1) Traditional form (without React ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/u6PQ5xZAv7Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/u6PQ5xZAv7Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/u6PQ5xZAv7Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ByteGrad",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-08-05T08:54:43Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "16KQNv7p1qIrOeK6RnB15-VO5jU",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Qdkg_mrniLk"
+    },
+    "snippet": {
+      "publishedAt": "2023-07-20T15:50:26Z",
+      "channelId": "UCf6AGqO98eGk11nfazociVQ",
+      "title": "When &amp; Where to Add “use client” in React / Next.js (Client Components vs Server Components)",
+      "description": "NEW React & Next.js Course: https://bytegrad.com/courses/professional-react-nextjs Hi, I'm Wesley. I'm a brand ambassador for ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Qdkg_mrniLk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Qdkg_mrniLk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Qdkg_mrniLk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ByteGrad",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-07-20T15:50:26Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "JttnzU-nEASuQ8aK-9Y0GI-XPWQ",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "qWPInECvNRo"
+    },
+    "snippet": {
+      "publishedAt": "2024-12-08T14:33:22Z",
+      "channelId": "UCf6AGqO98eGk11nfazociVQ",
+      "title": "React 19 STABLE - I Can&#39;t Believe They Changed This",
+      "description": "React & Next.js Course: https://bytegrad.com/courses/professional-react-nextjs Hi, I'm Wesley. I'm a brand ambassador for Kinde ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qWPInECvNRo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qWPInECvNRo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qWPInECvNRo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ByteGrad",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-12-08T14:33:22Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "U0avmZu00jNlIofkgjVID0Do48A",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Idf0zh9f3qQ"
+    },
+    "snippet": {
+      "publishedAt": "2023-07-20T18:25:29Z",
+      "channelId": "UCf6AGqO98eGk11nfazociVQ",
+      "title": "Why use Type and not Interface in TypeScript",
+      "description": "NEW React & Next.js Course: https://bytegrad.com/courses/professional-react-nextjs Hi, I'm Wesley. I'm a brand ambassador for ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Idf0zh9f3qQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Idf0zh9f3qQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Idf0zh9f3qQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ByteGrad",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-07-20T18:25:29Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "5db1paO85xjhA8ppnuSjAAfAu2Y",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "8YCL_jzxkXQ"
+    },
+    "snippet": {
+      "publishedAt": "2025-01-14T10:42:50Z",
+      "channelId": "UCf6AGqO98eGk11nfazociVQ",
+      "title": "Protect Server Actions In Next.js The Right Way",
+      "description": "Arcjet for Shield + Rate Limiting + Email Validation & more (sponsored): https://launch.arcjet.com/5HAdauO Disclaimer: this video ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8YCL_jzxkXQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8YCL_jzxkXQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8YCL_jzxkXQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ByteGrad",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-01-14T10:42:50Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "w7JjjBEk02hYEpQt5565fE83xT4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "ukpgxEemXsk"
+    },
+    "snippet": {
+      "publishedAt": "2023-09-11T10:00:30Z",
+      "channelId": "UCf6AGqO98eGk11nfazociVQ",
+      "title": "STOP using useState, instead put state in URL (in React &amp; Next.js)",
+      "description": "NEW React & Next.js Course: https://bytegrad.com/courses/professional-react-nextjs Hi, I'm Wesley. I'm a brand ambassador for ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ukpgxEemXsk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ukpgxEemXsk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ukpgxEemXsk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ByteGrad",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-09-11T10:00:30Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "P45a3t8Jvw3OAFr8v6JB-WB9vBk",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "ymSRTXT-iK4"
+    },
+    "snippet": {
+      "publishedAt": "2023-09-18T10:03:59Z",
+      "channelId": "UCf6AGqO98eGk11nfazociVQ",
+      "title": "TypeScript Generics are EASY once you know this",
+      "description": "NEW React & Next.js Course: https://bytegrad.com/courses/professional-react-nextjs Hi, I'm Wesley. I'm a brand ambassador for ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ymSRTXT-iK4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ymSRTXT-iK4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ymSRTXT-iK4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ByteGrad",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-09-18T10:03:59Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "NKyAbDqRvtYk7D0cQmkozm_qtew",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "bqHLI0EV_14"
+    },
+    "snippet": {
+      "publishedAt": "2024-11-14T08:00:28Z",
+      "channelId": "UCf6AGqO98eGk11nfazociVQ",
+      "title": "Top 3 AI-Web-Scraping Techniques",
+      "description": "Web scraping with DataImpulse: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bqHLI0EV_14/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bqHLI0EV_14/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bqHLI0EV_14/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ByteGrad",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-11-14T08:00:28Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "vWbIIgfnapY8XfK_ZPeHRvX_I3E",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "397259iiZ6M"
+    },
+    "snippet": {
+      "publishedAt": "2024-02-13T19:27:24Z",
+      "channelId": "UCf6AGqO98eGk11nfazociVQ",
+      "title": "Custom Hooks in React - Every React Developer Should Know This",
+      "description": "NEW React & Next.js Course: https://bytegrad.com/courses/professional-react-nextjs Hi, I'm Wesley. I'm a brand ambassador for ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/397259iiZ6M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/397259iiZ6M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/397259iiZ6M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ByteGrad",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-02-13T19:27:24Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "jx_wf1grKFiSTFZ0xFO7RsJKy-w",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "ACgsF2mVEYM"
+    },
+    "snippet": {
+      "publishedAt": "2024-11-08T12:41:33Z",
+      "channelId": "UCf6AGqO98eGk11nfazociVQ",
+      "title": "Top 11 Security Mistakes in Next.js 15 to Avoid - Don&#39;t Leak User Data!",
+      "description": "Arcjet for Rate Limiting + Shield + Email Validation & more: https://launch.arcjet.com/O9o7cIo (paid sponsorship). Disclaimer: this ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ACgsF2mVEYM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ACgsF2mVEYM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ACgsF2mVEYM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ByteGrad",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-11-08T12:41:33Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "O0hZUrVhp7lkAmKsaSLltZih12I",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "XL3gth5Bmjw"
+    },
+    "snippet": {
+      "publishedAt": "2024-04-22T06:00:11Z",
+      "channelId": "UCf6AGqO98eGk11nfazociVQ",
+      "title": "Next.js Image - Never struggle again (+ ImageKit)",
+      "description": "Signup for ImageKit's free plan: https://bit.ly/49zmXkt (paid sponsorship) Learn more about ImageKit: https://bit.ly/3VXRK7u ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XL3gth5Bmjw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XL3gth5Bmjw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XL3gth5Bmjw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ByteGrad",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-04-22T06:00:11Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "ECt3zG-THbaoJUfF5aIEBM00X7c",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "L2tWhQYiun4"
+    },
+    "snippet": {
+      "publishedAt": "2025-01-13T07:00:10Z",
+      "channelId": "UCf6AGqO98eGk11nfazociVQ",
+      "title": "Prisma Postgres Is A Game Changer - Databases Are Changing Forever",
+      "description": "Prisma (sponsored): https://www.prisma.io/?via=bytegrad (ByteGrad gets commission from your purchases). React & Next.js ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/L2tWhQYiun4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/L2tWhQYiun4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/L2tWhQYiun4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ByteGrad",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-01-13T07:00:10Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "_dDjDf8CxKxs_tAS4M_RKwqptOk",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "4o2QimWwPZU"
+    },
+    "snippet": {
+      "publishedAt": "2022-07-09T14:21:43Z",
+      "channelId": "UCf6AGqO98eGk11nfazociVQ",
+      "title": "Promises in JavaScript (+ Async Await, Fetch API Example)",
+      "description": "Finally understand the most difficult concept in JS... Professional JavaScript Course: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4o2QimWwPZU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4o2QimWwPZU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4o2QimWwPZU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ByteGrad",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-07-09T14:21:43Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "SPPVxik96AJYTGx0h_AdvdDaRQ0",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "nMuwgcG-8xU"
+    },
+    "snippet": {
+      "publishedAt": "2023-01-16T14:52:47Z",
+      "channelId": "UCf6AGqO98eGk11nfazociVQ",
+      "title": "Simple Responsive Navbar with HTML &amp; CSS (Flexbox Layout)",
+      "description": "Professional CSS Course: https://bytegrad.com/professional-css?n=1475 Professional JavaScript Course: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/nMuwgcG-8xU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/nMuwgcG-8xU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/nMuwgcG-8xU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ByteGrad",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-01-16T14:52:47Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "mU2qXVoVvy1WxF-5VJkafvzAXck",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "DG_WT8Gwzho"
+    },
+    "snippet": {
+      "publishedAt": "2024-09-02T15:17:50Z",
+      "channelId": "UCf6AGqO98eGk11nfazociVQ",
+      "title": "Next.js Fetch Data the Right Way (with a Data Access Layer!) (Security, Auth, DTO)",
+      "description": "Sign up for Kinde here: https://bit.ly/3QOe1Bh (paid sponsorship). Disclaimer: this is a sponsored video (paid). It's your ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DG_WT8Gwzho/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DG_WT8Gwzho/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DG_WT8Gwzho/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ByteGrad",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-09-02T15:17:50Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "JyIfftA8OGYW-_nq6Ru-OorKmf0",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "51pf_nCJpwg"
+    },
+    "snippet": {
+      "publishedAt": "2024-02-12T15:41:51Z",
+      "channelId": "UCf6AGqO98eGk11nfazociVQ",
+      "title": "Why I don&#39;t use React-Query and tRPC in Next.js",
+      "description": "Hi, I'm Wesley. I'm a brand ambassador for Kinde (paid sponsorship). Add auth to your Next.js app fast: https://bit.ly/3QOe1Bh ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/51pf_nCJpwg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/51pf_nCJpwg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/51pf_nCJpwg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ByteGrad",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-02-12T15:41:51Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "W4hAhjYcWH7GUxt6xPOlSxXIJCw",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "3LOoscVT1fg"
+    },
+    "snippet": {
+      "publishedAt": "2023-01-16T14:36:01Z",
+      "channelId": "UCf6AGqO98eGk11nfazociVQ",
+      "title": "Responsive Dropdown (+ Submenu) in HTML &amp; CSS",
+      "description": "Professional CSS Course: https://bytegrad.com/professional-css?n=1473 Professional JavaScript Course: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3LOoscVT1fg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3LOoscVT1fg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3LOoscVT1fg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ByteGrad",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-01-16T14:36:01Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "D-7kTJEgfAmCEp3yFbVTae1chD8",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "I7dwJxGuGYQ"
+    },
+    "snippet": {
+      "publishedAt": "2023-08-08T10:00:22Z",
+      "channelId": "UCf6AGqO98eGk11nfazociVQ",
+      "title": "Why use a Custom Hook for React Context API instead of useContext (+ TypeScript)",
+      "description": "NEW React & Next.js Course: https://bytegrad.com/courses/professional-react-nextjs Hi, I'm Wesley. I'm a brand ambassador for ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/I7dwJxGuGYQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/I7dwJxGuGYQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/I7dwJxGuGYQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ByteGrad",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-08-08T10:00:22Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "-nCB4M2xoSHsyzviwmPcI7Jk8mA",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "IPxM7B3viPc"
+    },
+    "snippet": {
+      "publishedAt": "2022-08-22T20:13:22Z",
+      "channelId": "UCf6AGqO98eGk11nfazociVQ",
+      "title": "CSS Grid Crash Course - 8 Layout Examples",
+      "description": "Professional JavaScript Course: https://bytegrad.com/courses/professional-javascript Professional CSS Course: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/IPxM7B3viPc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/IPxM7B3viPc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/IPxM7B3viPc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ByteGrad",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-08-22T20:13:22Z"
+    }
+  }
+]
