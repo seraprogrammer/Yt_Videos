@@ -1,0 +1,1702 @@
+[
+  {
+    "kind": "youtube#searchResult",
+    "etag": "UBqyBX4tNxPrW3_Cor7Gssykb_s",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "PkZNo7MFNFg"
+    },
+    "snippet": {
+      "publishedAt": "2018-12-10T14:13:40Z",
+      "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "title": "Learn JavaScript - Full Course for Beginners",
+      "description": "This complete 134-part JavaScript tutorial for beginners will teach you everything you need to know to get started with the ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PkZNo7MFNFg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PkZNo7MFNFg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "freeCodeCamp.org",
+      "liveBroadcastContent": "none",
+      "publishTime": "2018-12-10T14:13:40Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "C_vgqDz-_xKZ6ZeZY_2SgbxqIss",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Zi-Q0t4gMC8"
+    },
+    "snippet": {
+      "publishedAt": "2024-05-13T13:48:55Z",
+      "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "title": "JavaScript Course for Beginners 2024",
+      "description": "Learn how to use the JavaScript programming language. This beginner's tutorial will teach you all the basics of JavaScript and ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Zi-Q0t4gMC8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Zi-Q0t4gMC8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Zi-Q0t4gMC8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "freeCodeCamp.org",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-05-13T13:48:55Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "ODA8Dy00WIfQb9V0isiYnBv0R0M",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "jS4aFq5-91M"
+    },
+    "snippet": {
+      "publishedAt": "2021-06-21T16:42:15Z",
+      "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "title": "JavaScript Programming - Full Course",
+      "description": "Learn JavaScript from scratch by solving over a hundred different coding challenges. Go here for the interactive browser version: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jS4aFq5-91M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jS4aFq5-91M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jS4aFq5-91M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "freeCodeCamp.org",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-06-21T16:42:15Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "SzzULGvakxK99Amio_V8F5Tdkvw",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "876aSEUA_8c"
+    },
+    "snippet": {
+      "publishedAt": "2025-03-12T18:06:03Z",
+      "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "title": "JavaScript Essentials Course",
+      "description": "Learn JavaScript essentials with this course that covers everything from object-oriented programming fundamentals to advanced ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/876aSEUA_8c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/876aSEUA_8c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/876aSEUA_8c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "freeCodeCamp.org",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-03-12T18:06:03Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "xDNTpBr5LsXve9SSqJJQQM5ZXWw",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "zJSY8tbf_ys"
+    },
+    "snippet": {
+      "publishedAt": "2022-08-24T13:07:36Z",
+      "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "title": "Frontend Web Development Bootcamp Course (JavaScript, HTML, CSS)",
+      "description": "Learn JavaScript, HTML, and CSS in this Frontend Web Development course. In this massive course, you will go from no coding ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zJSY8tbf_ys/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zJSY8tbf_ys/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zJSY8tbf_ys/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "freeCodeCamp.org",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-08-24T13:07:36Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "i0zMnr9LUOl_6Dx18HsOCzVs3V8",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "zQxMX2ZZ-hI"
+    },
+    "snippet": {
+      "publishedAt": "2024-07-04T19:00:26Z",
+      "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "title": "Spread Operator in JavaScript",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zQxMX2ZZ-hI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zQxMX2ZZ-hI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zQxMX2ZZ-hI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "freeCodeCamp.org",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-07-04T19:00:26Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "jZ_pvnIijMUFQVyOkeKQq8ClQRg",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "nu_pCVPKzTk"
+    },
+    "snippet": {
+      "publishedAt": "2022-11-01T16:39:15Z",
+      "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "title": "Full Stack Web Development for Beginners (Full Course on HTML, CSS, JavaScript, Node.js, MongoDB)",
+      "description": "Learn full-stack web development in this full course for beginners. First, you will learn the basics of HTML, CSS, and JavaScript.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/nu_pCVPKzTk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/nu_pCVPKzTk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/nu_pCVPKzTk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "freeCodeCamp.org",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-11-01T16:39:15Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "I7JJQZL391hOkcgNfagY8Je3OfY",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "j1laALb8OVM"
+    },
+    "snippet": {
+      "publishedAt": "2023-08-09T13:34:30Z",
+      "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "title": "JavaScript Functions Crash Course",
+      "description": "Learn about JavaScript functions in this full course for beginners. Functions are a fundamental building block of programming, and ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/j1laALb8OVM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/j1laALb8OVM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/j1laALb8OVM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "freeCodeCamp.org",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-08-09T13:34:30Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "B5dSIs_TzxFhdufOhqq9-EDfK0I",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "KEvL_bF7F_A"
+    },
+    "snippet": {
+      "publishedAt": "2025-03-21T01:54:03Z",
+      "channelId": "UC26N4b_v8mplKckaSUBn5BQ",
+      "title": "Day 11/30: JavaScript Project Challenge 🚀 | Live Coding &amp; Real-World JS Project",
+      "description": "Welcome to Day 11 of the 30-Day JavaScript Project Challenge! आज हम एक Real-World JavaScript Project बनाएंगे ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KEvL_bF7F_A/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KEvL_bF7F_A/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KEvL_bF7F_A/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "The Praveen Effect",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-03-21T01:54:03Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "O-0o6qnaV9fq31N5fbBZ6LW3skk",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "5fb2aPlgoys"
+    },
+    "snippet": {
+      "publishedAt": "2022-07-07T13:04:56Z",
+      "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "title": "JavaScript DOM Manipulation – Full Course for Beginners",
+      "description": "Learn about JavaScript DOM manipulation in this beginner's tutorial. This is when you use JavaScript to add, remove, and modify ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5fb2aPlgoys/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5fb2aPlgoys/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5fb2aPlgoys/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "freeCodeCamp.org",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-07-07T13:04:56Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "RwKxYSuzeu_obLP6jQ27_hcJU6M",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "ZYb_ZU8LNxs"
+    },
+    "snippet": {
+      "publishedAt": "2021-06-22T14:53:30Z",
+      "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "title": "Asynchronous JavaScript Course (Async/Await, Promises, Callbacks)",
+      "description": "Learn how to use Async/Await, Promises, and Callbacks in JavaScript. ✏️ Course from Joy Shaheb. Check out his channel: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZYb_ZU8LNxs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZYb_ZU8LNxs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZYb_ZU8LNxs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "freeCodeCamp.org",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-06-22T14:53:30Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "Pm24hnN5NVqxa5OPtaLHpm1j3AY",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "3PHXvlpOkf4"
+    },
+    "snippet": {
+      "publishedAt": "2020-06-09T16:21:02Z",
+      "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "title": "Build 15 JavaScript Projects - Vanilla JavaScript Course",
+      "description": "Sharpen your JavaScript skills by building 15 projects using plain JavaScript without frameworks. In this tutorial course, you will be ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3PHXvlpOkf4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3PHXvlpOkf4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3PHXvlpOkf4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "freeCodeCamp.org",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-06-09T16:21:02Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "h7zFZ5Wre7M-wvr_FmdDgo8f-Lk",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "45zq0Xct-Oc"
+    },
+    "snippet": {
+      "publishedAt": "2024-06-24T18:00:04Z",
+      "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "title": "Secrets of freeCodeCamp",
+      "description": "Thanks to our Champion and Sponsor supporters: davthecoder jedi-or-sith 南宮千影 Agustín Kussrow Nattira ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/45zq0Xct-Oc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/45zq0Xct-Oc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/45zq0Xct-Oc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "freeCodeCamp.org",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-06-24T18:00:04Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "6eVcH_TjUt8_duR_uiJk7NMHVSs",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "n8mNX2YqkUs"
+    },
+    "snippet": {
+      "publishedAt": "2023-12-20T17:40:48Z",
+      "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "title": "Learn JavaScript Interactively in NEW freeCodeCamp.org Curriculum",
+      "description": "freeCodeCamp.org has just launched a major update to the JavaScript Algorithms and Data Structures Certification. You can now ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/n8mNX2YqkUs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/n8mNX2YqkUs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/n8mNX2YqkUs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "freeCodeCamp.org",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-12-20T17:40:48Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "hPvqO_D_ZuJoKTMbd0bsPjkuh1A",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "YYEhye6eI8k"
+    },
+    "snippet": {
+      "publishedAt": "2023-07-03T12:39:14Z",
+      "channelId": "UC3iyLcDyYxk2nN7M5DsYaYQ",
+      "title": "The Real Difference Between freeCodeCamp and Online Learning Platforms for Beginners",
+      "description": "(Discount Link) Get 25% OFF on DataCamp subscription: https://datacamp.pxf.io/EEy2ZX Udemy's Resolution Sale is live ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YYEhye6eI8k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YYEhye6eI8k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YYEhye6eI8k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Daniel | Tech & Data",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-07-03T12:39:14Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "66fJFegchg2UTcGtma3gqs0n7y8",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "OFpqvaJ3QYg"
+    },
+    "snippet": {
+      "publishedAt": "2024-07-11T13:22:59Z",
+      "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "title": "Asynchronous JavaScript Course – Async/Await , Promises, Callbacks, Fetch API",
+      "description": "Master asynchronous programming in JavaScript. You'll learn javascript promises, async/await, and the Fetch API. Then you'll ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OFpqvaJ3QYg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OFpqvaJ3QYg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OFpqvaJ3QYg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "freeCodeCamp.org",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-07-11T13:22:59Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "6vHbeeDns7iVx-b1e7J4n7u2KcU",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "2JYT5f2isg4"
+    },
+    "snippet": {
+      "publishedAt": "2023-01-30T15:11:51Z",
+      "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "title": "Full HTTP Networking Course – Fetch and REST APIs in JavaScript",
+      "description": "Master the HTTP networking protocol by completing over 80 coding exercises and quizzes in JavaScript. Once you've learned it ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2JYT5f2isg4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2JYT5f2isg4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2JYT5f2isg4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "freeCodeCamp.org",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-01-30T15:11:51Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "JX00kCiMRv-SO5JOpTNXZK1k7gc",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "krfUjg0S2uI"
+    },
+    "snippet": {
+      "publishedAt": "2023-04-26T14:05:46Z",
+      "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "title": "Build a Simple Website with HTML, CSS, JavaScript – Course for Beginners",
+      "description": "Improve your skills in JavaScript, HTML, and CSS by building a social media dashboard with a dark/light theme. Jess, who runs ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/krfUjg0S2uI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/krfUjg0S2uI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/krfUjg0S2uI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "freeCodeCamp.org",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-04-26T14:05:46Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "s26O2mhMq1UNkjc5ZBXDY-AB4cU",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "GFO_txvwK_c"
+    },
+    "snippet": {
+      "publishedAt": "2022-07-28T13:44:43Z",
+      "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "title": "JavaScript Game Development Course for Beginners",
+      "description": "Learn to make 2D games with HTML, CSS & plain vanilla JavaScript, no frameworks and no libraries! From sprite animation to ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GFO_txvwK_c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GFO_txvwK_c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GFO_txvwK_c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "freeCodeCamp.org",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-07-28T13:44:43Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "cdTBLup-Bmb0U7L76vf2pVP_ZzI",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "9He4UBLyk8Y"
+    },
+    "snippet": {
+      "publishedAt": "2023-10-19T14:18:42Z",
+      "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "title": "Front End Developer Roadmap 2024",
+      "description": "Learn what technologies you should learn first to become a front end web developer. Watch the full learning front end learning ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9He4UBLyk8Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9He4UBLyk8Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9He4UBLyk8Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "freeCodeCamp.org",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-10-19T14:18:42Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "Dzm2c0kpaD4lnb4fh48tEJ3H1-U",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "t2CEgPsws3U"
+    },
+    "snippet": {
+      "publishedAt": "2018-09-04T18:16:17Z",
+      "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "title": "Data Structures and Algorithms in JavaScript - Full Course for Beginners",
+      "description": "Learn common data structures and algorithms in this tutorial course. You will learn the theory behind them, as well as how to ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/t2CEgPsws3U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/t2CEgPsws3U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/t2CEgPsws3U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "freeCodeCamp.org",
+      "liveBroadcastContent": "none",
+      "publishTime": "2018-09-04T18:16:17Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "XuDz2vGBMK6rUrJGQrQcBwF5Gh4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "_y9oxzTGERs"
+    },
+    "snippet": {
+      "publishedAt": "2018-05-07T15:42:36Z",
+      "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "title": "Introduction to JavaScript",
+      "description": "This course introduces you to JavaScript, the most popular programming language for web development. You can also try the ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_y9oxzTGERs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_y9oxzTGERs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_y9oxzTGERs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "freeCodeCamp.org",
+      "liveBroadcastContent": "none",
+      "publishTime": "2018-05-07T15:42:36Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "qDxoqMYJ07SJBct69KV7y4z3CIs",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "tbqVqP5ilzQ"
+    },
+    "snippet": {
+      "publishedAt": "2023-04-20T14:22:29Z",
+      "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "title": "JavaScript Interview Prep: Functions, Closures, Currying",
+      "description": "Prepare for JavaScript interview questions focusing on closures, functions, and currying. Throughout the course, you'll delve into ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tbqVqP5ilzQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tbqVqP5ilzQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tbqVqP5ilzQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "freeCodeCamp.org",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-04-20T14:22:29Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "WUSwSM1L9jtqnVZ4nmxW1SlvpZc",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "ec8vSKJuZTk"
+    },
+    "snippet": {
+      "publishedAt": "2022-02-28T14:47:20Z",
+      "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "title": "Learn JavaScript by Building 7 Games - Full Course",
+      "description": "Learn JavaScript by building 7 retro games. ✏️ Ania Kubów created this course. Check out her channel: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ec8vSKJuZTk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ec8vSKJuZTk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ec8vSKJuZTk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "freeCodeCamp.org",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-02-28T14:47:20Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "HiKnU3IGfLJP4wAO2z-qfHP7zds",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "gyMwXuJrbJQ"
+    },
+    "snippet": {
+      "publishedAt": "2022-05-26T18:59:22Z",
+      "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "title": "Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course",
+      "description": "This course will give you a full introduction into all of the core concepts related to blockchain, smart contracts, Solidity, ERC20s, ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gyMwXuJrbJQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gyMwXuJrbJQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gyMwXuJrbJQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "freeCodeCamp.org",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-05-26T18:59:22Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "LPz_fDiDm90MMG2qbdg6sX9zSuE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "bMknfKXIFA8"
+    },
+    "snippet": {
+      "publishedAt": "2022-01-10T14:47:57Z",
+      "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "title": "React Course - Beginner&#39;s Tutorial for React JavaScript Library [2022]",
+      "description": "Watch the updated version of this course: https://youtu.be/x4rFhThSX04 Learn React by building eight real-world projects and ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bMknfKXIFA8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bMknfKXIFA8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bMknfKXIFA8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "freeCodeCamp.org",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-01-10T14:47:57Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "Ou_y43Lp6pjMf9e-iU9Tik29ESA",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "KHxX0CgMGs4"
+    },
+    "snippet": {
+      "publishedAt": "2024-12-18T20:52:29Z",
+      "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "title": "Learn JavaScript to Make Games + Kaplay Library Course",
+      "description": "In this crash course you'll learn how to code in JavaScript so that you can start making games with it. Then you will learn how to ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KHxX0CgMGs4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KHxX0CgMGs4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KHxX0CgMGs4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "freeCodeCamp.org",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-12-18T20:52:29Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "pZaJxwI23Hlj9wPEUj3lXM5TKwM",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "ufBbWIyKY2E"
+    },
+    "snippet": {
+      "publishedAt": "2024-03-12T15:10:05Z",
+      "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "title": "Top 10 Javascript Algorithms to Prepare for Coding Interviews",
+      "description": "Build a solid foundation and prepare you for Leetcode-style coding challenges. Learn the top 10 must-know Javascript algorithms ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ufBbWIyKY2E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ufBbWIyKY2E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ufBbWIyKY2E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "freeCodeCamp.org",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-03-12T15:10:05Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "ocCqTdM83zdfIzQgJbG3ve0OYBk",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "cT_ZYrS3tKc"
+    },
+    "snippet": {
+      "publishedAt": "2022-05-31T12:53:23Z",
+      "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "title": "Build a Shopping Cart with JavaScript – Project Tutorial",
+      "description": "Improve your JavaScript skills by coding a shopping cart using vanilla JavaScript ('vanilla' just means JavaScript with no ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cT_ZYrS3tKc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cT_ZYrS3tKc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cT_ZYrS3tKc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "freeCodeCamp.org",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-05-31T12:53:23Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "OZM8PEIb_3WVQF35X4iqVf8t5J0",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "-gZzJ-2vYKk"
+    },
+    "snippet": {
+      "publishedAt": "2024-09-28T23:58:09Z",
+      "channelId": "UC9jIzyKYoQcRwKj8OoABTCA",
+      "title": "Learn javascript interactively in new freecodecamp org curriculum",
+      "description": "Get Free GPT4o from https://codegive.com the new freecodecamp curriculum offers an interactive approach to learning javascript, ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-gZzJ-2vYKk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-gZzJ-2vYKk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-gZzJ-2vYKk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "CodeLink",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-09-28T23:58:09Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "9NSWhw2QYLDB3ktYAsKOCSecurE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "SIj4pzF0uk8"
+    },
+    "snippet": {
+      "publishedAt": "2023-03-07T14:37:39Z",
+      "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "title": "A Day in the Life of freeCodeCamp U.S. Staff (A rare in-person meeting)",
+      "description": "This was not a normal day. :) Music: 8-Bit March by Twin Musicom is licensed under a Creative Commons Attribution 4.0 license.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SIj4pzF0uk8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SIj4pzF0uk8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SIj4pzF0uk8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "freeCodeCamp.org",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-03-07T14:37:39Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "CnO9cwX231Zw9-jkzLiynf-gpK4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "nF13693R0sU"
+    },
+    "snippet": {
+      "publishedAt": "2022-01-25T22:00:27Z",
+      "channelId": "UCVyTG4sCw-rOvB9oHkzZD1w",
+      "title": "Best sites to learn JavaScript for free",
+      "description": "Here are the best websites to learn JS for free: 1. Freecodecamp.org 2. JavaScript 30 3. The Educative Team 4. JavaScript.info 5.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/nF13693R0sU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/nF13693R0sU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/nF13693R0sU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Creative Tim Tutorials",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-01-25T22:00:27Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "HHkZ9fcy9lx0egXWi0lUqXUdemk",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "U34l-Xz5ynU"
+    },
+    "snippet": {
+      "publishedAt": "2023-02-14T16:32:05Z",
+      "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "title": "JavaScript GameDev Tutorial – Code an Animated Physics Game [Full Course]",
+      "description": "Learn how to code a JavaScript Game featuring interesting physics and AI mechanics. What makes a great game? Is it about ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/U34l-Xz5ynU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/U34l-Xz5ynU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/U34l-Xz5ynU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "freeCodeCamp.org",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-02-14T16:32:05Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "TS_18q35fd_V7OJ3MsexCcJTqqI",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "kxyAk_K-wE4"
+    },
+    "snippet": {
+      "publishedAt": "2023-08-04T15:33:31Z",
+      "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "title": "JavaScript Tutorial – Celsius to Fahrenheit",
+      "description": "Learn JavaScript here: https://www.youtube.com/watch?v=PkZNo7MFNFg.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kxyAk_K-wE4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kxyAk_K-wE4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kxyAk_K-wE4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "freeCodeCamp.org",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-08-04T15:33:31Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "To9bvQezCvZS5lBhurpba7X0PwA",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "aH6borB8e5E"
+    },
+    "snippet": {
+      "publishedAt": "2018-08-29T21:05:12Z",
+      "channelId": "UCULxCEy2TRyYUity45EK_JQ",
+      "title": "Basic Javascript on freeCodeCamp.org",
+      "description": "Broadcasted live on Twitch -- Watch live at https://www.twitch.tv/bpwnd.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/aH6borB8e5E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/aH6borB8e5E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/aH6borB8e5E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Jordon Baade",
+      "liveBroadcastContent": "none",
+      "publishTime": "2018-08-29T21:05:12Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "9rtGeDzkgFZgBBLZuTcW5GMoba8",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "oosST_gWz1o"
+    },
+    "snippet": {
+      "publishedAt": "2020-05-08T17:46:49Z",
+      "channelId": "UCDgFujmenwIHDkPb31OpLeg",
+      "title": "React: Use Advanced JavaScript in React Render Method-FreeCodeCamp org(Day-13)",
+      "description": "React: Use Advanced JavaScript in React Render Method #100DaysOfCode.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/oosST_gWz1o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/oosST_gWz1o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/oosST_gWz1o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "100 days of coding",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-05-08T17:46:49Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "iuqFj6kD2gkixdCkilvcDVIBSVc",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "8vfRqs-MtO8"
+    },
+    "snippet": {
+      "publishedAt": "2022-11-05T22:53:39Z",
+      "channelId": "UCOEuqGqSl2cVIRuUwKlFtSw",
+      "title": "Use the parseInt Function with JavaScript FreeCodeCamp.Org",
+      "description": "F3ND1MUS DISCORD LINK: https://discord.gg/nsw2mTzWFk F3ND1MUS WEBSITE: https://f3nd1mus.wordpress.com/ Check out ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8vfRqs-MtO8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8vfRqs-MtO8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8vfRqs-MtO8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "F3ND1MUS",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-11-05T22:53:39Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "HEAwu_i2_cgLRgtGyaLLQ-SsIxI",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "xV7S8BhIeBo"
+    },
+    "snippet": {
+      "publishedAt": "2022-03-17T13:26:50Z",
+      "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "title": "Portfolio Website Tutorial – Frontend Development with HTML, CSS, JavaScript",
+      "description": "In this course, you will learn how to build a portfolio website using JavaScript, HTML, and CSS. This is a great project to improve ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xV7S8BhIeBo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xV7S8BhIeBo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xV7S8BhIeBo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "freeCodeCamp.org",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-03-17T13:26:50Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "fXI5AT8GC6vrnLZxnQbz1kH2ux4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "a47sXeKLg14"
+    },
+    "snippet": {
+      "publishedAt": "2024-06-25T18:36:00Z",
+      "channelId": "UC4oRFTHw71_CBSHAcCRmV6w",
+      "title": "Learn Introductory JavaScript by Building a Pyramid Generator | FreeCodeCamp",
+      "description": "In this video, I go through the FreeCodeCamp JavaScript Challenges for Introductory JavaScript. I explain concepts along the way!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/a47sXeKLg14/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/a47sXeKLg14/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/a47sXeKLg14/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Landon Schlangen",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-06-25T18:36:00Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "iEVrBQR2Am1ENpKGhBQPSzUO2SY",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "pQaBf_y_7j0"
+    },
+    "snippet": {
+      "publishedAt": "2021-11-07T05:06:40Z",
+      "channelId": "UCT1XUFTldDyuv-BZmxZISRA",
+      "title": "Comment Your JavaScript Code - Freecodecamp.org | Video 1 | Compact Coder",
+      "description": "Hi, thanks for watching our video about how to comment code in JavaScript! Comments are very useful in programming.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/pQaBf_y_7j0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/pQaBf_y_7j0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/pQaBf_y_7j0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Compact Coder",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-11-07T05:06:40Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "P1TqZ_fB399S3GI6M1z5Z2rXqxc",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "5-oiLKEWIEw"
+    },
+    "snippet": {
+      "publishedAt": "2023-05-01T03:26:26Z",
+      "channelId": "UClLXKYEEM8OBBx85DOa6-cg",
+      "title": "Best Programming Languages #programming #coding #javascript",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5-oiLKEWIEw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5-oiLKEWIEw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5-oiLKEWIEw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Devslopes",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-05-01T03:26:26Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "1do7j5pURy8aINMOm9GNH-txGmg",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Oe421EPjeBE"
+    },
+    "snippet": {
+      "publishedAt": "2021-04-01T12:37:58Z",
+      "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "title": "Node.js and Express.js - Full Course",
+      "description": "Learn how to use Node and Express in this comprehensive course. First, you will learn the fundamentals of Node and Express.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Oe421EPjeBE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Oe421EPjeBE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Oe421EPjeBE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "freeCodeCamp.org",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-04-01T12:37:58Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "C87MuYva43-IIk6MOae2oRhpJc4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "IFAmuQgjMK0"
+    },
+    "snippet": {
+      "publishedAt": "2018-09-13T22:19:34Z",
+      "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "title": "Alexa Coding Quiz for JavaScript, CSS, and Computer Science",
+      "description": "Now you can learn coding concepts hands-free using an Amazon Echo. freeCodeCamp.org contributor David Jolliffe created a ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/IFAmuQgjMK0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/IFAmuQgjMK0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/IFAmuQgjMK0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "freeCodeCamp.org",
+      "liveBroadcastContent": "none",
+      "publishTime": "2018-09-13T22:19:34Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "iq_br-IQK66yFY0DDeFmKEbBJ7U",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "BOAE0ly4VlA"
+    },
+    "snippet": {
+      "publishedAt": "2021-11-11T02:30:02Z",
+      "channelId": "UCT1XUFTldDyuv-BZmxZISRA",
+      "title": "Increment a Number with JavaScript - Freecodecamp.org | Video 15 | Basic JavaScript",
+      "description": "Hi, thanks for watching our video about Increment a Number with JavaScript freeCodeCamp is a non-profit organization that ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BOAE0ly4VlA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BOAE0ly4VlA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BOAE0ly4VlA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Compact Coder",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-11-11T02:30:02Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "-MEHohEvfnFXnEnPpUwvx0QbXB4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "x4rFhThSX04"
+    },
+    "snippet": {
+      "publishedAt": "2024-11-20T18:25:12Z",
+      "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "title": "Learn React JS - Full Beginner’s Tutorial (2024) &amp; Practice Projects",
+      "description": "Learn modern React basics in the most interactive, hands-on way possible in the full course for beginners. Throughout this tutorial ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/x4rFhThSX04/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/x4rFhThSX04/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/x4rFhThSX04/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "freeCodeCamp.org",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-11-20T18:25:12Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "6GQSKohA0vOBMttwv6qMalldUf0",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "vzGllw18DkA"
+    },
+    "snippet": {
+      "publishedAt": "2023-03-08T14:20:12Z",
+      "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "title": "Harvard CS50’s Web Programming with Python and JavaScript – Full University Course",
+      "description": "This web programming course from Harvard University picks up where CS50x leaves off. It dives more deeply into the design and ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vzGllw18DkA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vzGllw18DkA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vzGllw18DkA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "freeCodeCamp.org",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-03-08T14:20:12Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "H2wep4hF_bLRiUnObGaRso-8M54",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "RV-XIDP8AY0"
+    },
+    "snippet": {
+      "publishedAt": "2024-12-31T12:14:21Z",
+      "channelId": "UCkyR0Dba37Jet6R-8ZVgH5g",
+      "title": "Learn Introductory JavaScript by Building a Pyramid Generator  Step 63   freeCodeCamp.org",
+      "description": "Take your first steps in #javascript with this concise walkthrough! This video covers Step 63 of the 'Build a Pyramid Generator' ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/RV-XIDP8AY0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/RV-XIDP8AY0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/RV-XIDP8AY0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "FixMyCode24",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-12-31T12:14:21Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "OPtLexqfDMkNA7J9ge0jVPgDVTY",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "avRdQ3HHx1g"
+    },
+    "snippet": {
+      "publishedAt": "2021-11-10T20:30:00Z",
+      "channelId": "UCT1XUFTldDyuv-BZmxZISRA",
+      "title": "Multiply Two Numbers with JavaScript - Freecodecamp.org | Video 13 | Basic JavaScript",
+      "description": "Hi, thanks for watching our video about Multiply Two Numbers with JavaScript. freeCodeCamp is a non-profit organization that ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/avRdQ3HHx1g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/avRdQ3HHx1g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/avRdQ3HHx1g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Compact Coder",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-11-10T20:30:00Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "i33g9OSW1jpLIqsguGhnpsPmdm4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "6ChzCaljcaI"
+    },
+    "snippet": {
+      "publishedAt": "2025-03-18T15:12:29Z",
+      "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "title": "Build a Full Stack AI Note Taking App with Next.js and Supabase – Tutorial",
+      "description": "Build a full-stack note-taking app with the Next.js 15 App Router, Supabase for authentication and database management, Prisma ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6ChzCaljcaI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6ChzCaljcaI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6ChzCaljcaI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "freeCodeCamp.org",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-03-18T15:12:29Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "s_n9U3_SDS4TWVVv04Jw5LjpSXE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "THYbr-iBgnQ"
+    },
+    "snippet": {
+      "publishedAt": "2024-01-20T21:33:10Z",
+      "channelId": "UCdvK17PiPuhniJ_Y9-TTH7A",
+      "title": "full Basic javascript : freeCodeCamp.org course",
+      "description": "bangla javascript.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/THYbr-iBgnQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/THYbr-iBgnQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/THYbr-iBgnQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Francis Nganou",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-01-20T21:33:10Z"
+    }
+  }
+]
