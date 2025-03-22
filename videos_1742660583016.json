@@ -1,0 +1,1702 @@
+[
+  {
+    "kind": "youtube#searchResult",
+    "etag": "BkgvE8s0OD8GuJHD8ip7LF80nSY",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "ks4MFTHLfyg"
+    },
+    "snippet": {
+      "publishedAt": "2023-07-12T16:00:38Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "Master Advanced JavaScript Concepts and Become a JavaScript Ninja",
+      "description": "Do you want to take your JavaScript skills to the next level? Do you want to learn how to use advanced JavaScript concepts to ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ks4MFTHLfyg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ks4MFTHLfyg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ks4MFTHLfyg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-07-12T16:00:38Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "990j0BOqX1eVGICtHfH8parXRio",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "lkIFF4maKMU"
+    },
+    "snippet": {
+      "publishedAt": "2022-11-22T15:04:57Z",
+      "channelId": "UCsBjURrPoezykLs9EqgamOA",
+      "title": "100+ JavaScript Concepts you Need to Know",
+      "description": "The ultimate 10 minute JavaScript course that quickly breaks down over 100 key concepts every web developer should know.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lkIFF4maKMU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lkIFF4maKMU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lkIFF4maKMU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Fireship",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-11-22T15:04:57Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "seTUnIdhvuFIZSd7zEsHf_KITQY",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "jNgppRzIaMc"
+    },
+    "snippet": {
+      "publishedAt": "2024-07-21T10:35:16Z",
+      "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+      "title": "How to master javascript",
+      "description": "How to master javascript.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jNgppRzIaMc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jNgppRzIaMc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jNgppRzIaMc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Chai aur Code",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-07-21T10:35:16Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "iGotDT7bHfn0F3QAaLzqneqxnqM",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "R9I85RhI7Cg"
+    },
+    "snippet": {
+      "publishedAt": "2022-02-13T06:00:10Z",
+      "channelId": "UC80PWRj_ZU8Zu0HSMNVwKWw",
+      "title": "Advanced JavaScript Crash Course",
+      "description": "Courses - https://learn.codevolution.dev/ Support UPI - https://support.codevolution.dev/ Support PayPal ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/R9I85RhI7Cg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/R9I85RhI7Cg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/R9I85RhI7Cg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Codevolution",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-02-13T06:00:10Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "WdwGD6wv8YMbMWtQZqtAGMpkA1M",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "I5_Gx3JNho8"
+    },
+    "snippet": {
+      "publishedAt": "2024-05-29T19:37:45Z",
+      "channelId": "UC8ENHE5xdFSwx71u3fDH5Xw",
+      "title": "How To Master JavaScript",
+      "description": "Twitch Everything is built live on twitch Twitch : https://bit.ly/3xhFO3E Discord: discord.gg/ThePrimeagen Spotify DevHour: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/I5_Gx3JNho8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/I5_Gx3JNho8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/I5_Gx3JNho8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ThePrimeagen",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-05-29T19:37:45Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "o3fYNjN6M_Ene-RzzOeIbdzOd_A",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "U97z9Q3Vbn0"
+    },
+    "snippet": {
+      "publishedAt": "2022-09-22T09:29:28Z",
+      "channelId": "UCC02oWntvm_i5n3uNDLDUyg",
+      "title": "JavaScript This | Mastering Advanced JavaScript Concepts",
+      "description": "JavaScript This | Mastering Advanced JavaScript Concepts Master JavaScript and Ace Your Interview: The Ultimate Course for ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/U97z9Q3Vbn0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/U97z9Q3Vbn0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/U97z9Q3Vbn0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Web Tech Talk ",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-09-22T09:29:28Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "iK5vVIWIQcQCB3Hy_6gT-XcaVXY",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "waowIDofj0M"
+    },
+    "snippet": {
+      "publishedAt": "2024-02-12T08:43:03Z",
+      "channelId": "UCudBLOKCEIGssdA8pQgIbvA",
+      "title": "Be smart . #javascript #programming #coding ##interview #job #smart",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/waowIDofj0M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/waowIDofj0M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/waowIDofj0M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ezsNippet",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-02-12T08:43:03Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "r0umQxIBNbDy9SqLFI0QvMSvFOk",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "KQ712CebFDM"
+    },
+    "snippet": {
+      "publishedAt": "2023-02-24T14:30:04Z",
+      "channelId": "UCWu_xJfwUuP_JV6RFq2EcXw",
+      "title": "Solving JavaScript&#39;s Most NOTORIOUS Interview Question",
+      "description": "Can you solve this notorious JavaScript coding interview \"trick\" question? Prepping for your frontend interviews? Use code ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KQ712CebFDM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KQ712CebFDM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KQ712CebFDM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Conner Ardman",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-02-24T14:30:04Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "--JEGhxxuXklXD36apnhO7QC4_I",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "A9MO0gOfyqw"
+    },
+    "snippet": {
+      "publishedAt": "2025-03-20T18:30:17Z",
+      "channelId": "UC3CWkAYRbqUFLq6wQF-VyPw",
+      "title": "Build spotify clone react js | spotify using react | java full course in tamil",
+      "description": "Asset Link - https://drive.google.com/drive/folders/1dJyKgz-NvHa7sZNGAy9P_OadaSAVaKf7 Source Link ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/A9MO0gOfyqw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/A9MO0gOfyqw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/A9MO0gOfyqw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BTree Systems",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-03-20T18:30:17Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "xBdrFGkPdwYP-nABP0M_tjxApdc",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "iNqymVOBFt4"
+    },
+    "snippet": {
+      "publishedAt": "2022-08-22T11:30:14Z",
+      "channelId": "UCC02oWntvm_i5n3uNDLDUyg",
+      "title": "JavaScript Higher Order Function (HOF) | Mastering Advanced JavaScript Concepts",
+      "description": "JavaScript Higher Order Function (HOF) | Mastering Advanced JavaScript Concepts Master JavaScript and Ace Your Interview: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/iNqymVOBFt4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/iNqymVOBFt4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/iNqymVOBFt4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Web Tech Talk ",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-08-22T11:30:14Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "FRpQ3QZMtF0jn2vJo-Ra_8ompyk",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "a00NRSFgHsY"
+    },
+    "snippet": {
+      "publishedAt": "2021-02-02T15:00:00Z",
+      "channelId": "UC-T8W79DN6PBnzomelvqJYw",
+      "title": "5 JavaScript Concepts You HAVE TO KNOW",
+      "description": "How well do you know JavaScript? Well, if you don't know these 5 concepts, then you better get on it! 00:00 - Intro 01:00 - Equality ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/a00NRSFgHsY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/a00NRSFgHsY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/a00NRSFgHsY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "James Q Quick",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-02-02T15:00:00Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "79IKZuwiC-bMuFmBgzD7hm0VJEQ",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "fGQckyRlAOY"
+    },
+    "snippet": {
+      "publishedAt": "2023-10-12T13:33:29Z",
+      "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+      "title": "JavaScript Coding Interview Question | @ApnaCollegeOfficial",
+      "description": "coding #interview #javascript #shorts.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fGQckyRlAOY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fGQckyRlAOY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fGQckyRlAOY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Apna College",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-10-12T13:33:29Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "TvHmav6cxgBDDMylRNlKLm4-WEY",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "urCmTFBoRNU"
+    },
+    "snippet": {
+      "publishedAt": "2023-10-04T06:47:55Z",
+      "channelId": "UCi-6IBp5z7BeAnGbe6NlIgA",
+      "title": "Javascript roadmap to master from basics to advance#javascript#roadmap#html#css",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/urCmTFBoRNU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/urCmTFBoRNU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/urCmTFBoRNU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Coding Tutorials ",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-10-04T06:47:55Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "4lW6ZpKkoHAOVxoKOfWmeceLN-o",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "YHljbt1eaE0"
+    },
+    "snippet": {
+      "publishedAt": "2022-12-09T15:08:59Z",
+      "channelId": "UCfQk5qGOEO5cPPDFlQe2lFQ",
+      "title": "Advanced javascript concepts — do you know them? #javascript #typescript #programming #coding",
+      "description": "Want to work with me 1:1? Book some time with me at https://www.youraveragetechbro.com \\n Check out the Content Marketing ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YHljbt1eaE0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YHljbt1eaE0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YHljbt1eaE0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Your Average Tech Bro",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-12-09T15:08:59Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "KIwLEnPEbcGH395Bc_dYHV99zxw",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "f-_6nHwJDp8"
+    },
+    "snippet": {
+      "publishedAt": "2021-09-28T14:00:14Z",
+      "channelId": "UCssWuTdNCWN4RSF3wHzzjMw",
+      "title": "5 Must Know Javascript Advanced Concepts",
+      "description": "Learn 5 must know javascript advanced concepts in 10 minutes. I want to share with you 5 important concepts that make your ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/f-_6nHwJDp8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/f-_6nHwJDp8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/f-_6nHwJDp8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Monsterlessons Academy",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-09-28T14:00:14Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "GYHOTbIVa-iLSWvalWypfp1BJVQ",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "jPE3lRMbZn4"
+    },
+    "snippet": {
+      "publishedAt": "2022-10-07T08:30:12Z",
+      "channelId": "UCC02oWntvm_i5n3uNDLDUyg",
+      "title": "JavaScript Memoization | Mastering Advanced JavaScript Concepts",
+      "description": "JavaScript Memoization | Mastering Advanced JavaScript Concepts Master JavaScript and Ace Your Interview: The Ultimate ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jPE3lRMbZn4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jPE3lRMbZn4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jPE3lRMbZn4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Web Tech Talk ",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-10-07T08:30:12Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "-gfjz9gT7GmRUJ2VRHG2_OyLwWQ",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "EgDmCbhmstU"
+    },
+    "snippet": {
+      "publishedAt": "2023-06-25T17:30:02Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "JavaScript Advance Crash Course: Level Up Your Coding Skills! Accelerate Your Front-End Mastery!",
+      "description": "Are you ready to take your JavaScript skills to the next level? Look no further! Join our JavaScript Advance Crash Course and ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EgDmCbhmstU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/EgDmCbhmstU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/EgDmCbhmstU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-06-25T17:30:02Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "p1FVKChzuZyGrIVrlxkYIedISME",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "zO6CHvTErxE"
+    },
+    "snippet": {
+      "publishedAt": "2023-12-03T23:13:17Z",
+      "channelId": "UC6aTLuI_j4-0wiDSzmaPctQ",
+      "title": "The best thing you can do with JavaScript #javascript #programming",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zO6CHvTErxE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zO6CHvTErxE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zO6CHvTErxE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sam Meech-Ward",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-12-03T23:13:17Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "XbbUt2dCgAy6t6xTR-OiRDiowHI",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "LykYI6vTNzs"
+    },
+    "snippet": {
+      "publishedAt": "2022-05-22T08:11:33Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "3 JavaScript libraries to create modern animated websites.",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LykYI6vTNzs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LykYI6vTNzs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LykYI6vTNzs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-05-22T08:11:33Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "q2IQXLhUY-m7sMOZtDXaOK24AoE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "EerdGm-ehJQ"
+    },
+    "snippet": {
+      "publishedAt": "2024-05-09T07:28:14Z",
+      "channelId": "UCB6dvaWu0N8uVq2yKsZ5s5g",
+      "title": "JavaScript Tutorial Full Course - Beginner to Pro",
+      "description": "Certificates are now available! https://courses.supersimple.dev/courses/javascript Enroll to get a Certificate of Completion and ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EerdGm-ehJQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/EerdGm-ehJQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/EerdGm-ehJQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "SuperSimpleDev",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-05-09T07:28:14Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "tOrWy2sdmhmzYQcyu9vZ3TgmQ40",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "wIyHSOugGGw"
+    },
+    "snippet": {
+      "publishedAt": "2024-03-18T12:00:52Z",
+      "channelId": "UC-kHm7pG884IYQiYwqJWv9A",
+      "title": "Every React Concept Explained in 12 Minutes",
+      "description": "My React course: https://reactbootcamp.dev Chapters 0:00 - Intro 0:11 - Components 0:29 - JSX 1:02 - Curly Braces 1:29 ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wIyHSOugGGw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wIyHSOugGGw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wIyHSOugGGw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Code Bootcamp",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-03-18T12:00:52Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "1aukHFyL6IOUpuEoZYGsT1R13sk",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "CXh55uorQs0"
+    },
+    "snippet": {
+      "publishedAt": "2024-08-21T09:35:20Z",
+      "channelId": "UC_Fh8kvtkVPkeihBs42jGcA",
+      "title": "3 Levels Of React Developers #reactjs #reactdevelopment #reactjsdeveloper #webdevelopment",
+      "description": "The 3 levels of React.js developers and how they fetch data. What level are you at? ⭐ Get my full-stack Next.js with Express ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CXh55uorQs0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CXh55uorQs0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CXh55uorQs0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Coding in Flow",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-08-21T09:35:20Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "cOqgtHNXN8bZdIoXzZ2y94fkGKc",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "wDuJUiJfv4k"
+    },
+    "snippet": {
+      "publishedAt": "2023-10-25T11:15:11Z",
+      "channelId": "UCans6tlOzOGqtq-IKMLJR8g",
+      "title": "#120 Javascript Interview Questions | JS Output based questions || #frontendmaster  #javascript",
+      "description": "My Blogs: https://rahuulmiishra.medium.com LinkedIn: https://www.linkedin.com/in/rahuulmiishra/ Instagram: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wDuJUiJfv4k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wDuJUiJfv4k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wDuJUiJfv4k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Frontend Master",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-10-25T11:15:11Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "3iwAfgMZPbGu1UiAvim1BIk2L4Q",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "HmOiiBvpaJM"
+    },
+    "snippet": {
+      "publishedAt": "2022-08-16T11:00:13Z",
+      "channelId": "UCC02oWntvm_i5n3uNDLDUyg",
+      "title": "JavaScript NaN | Mastering Advanced JavaScript Concepts",
+      "description": "JavaScript NaN | Mastering Advanced JavaScript Concepts Master JavaScript and Ace Your Interview: The Ultimate Course for ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HmOiiBvpaJM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HmOiiBvpaJM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HmOiiBvpaJM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Web Tech Talk ",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-08-16T11:00:13Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "68sDRXhlIYrtVAwWLJ5tIDhRmi0",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "wmjLc65u6JM"
+    },
+    "snippet": {
+      "publishedAt": "2019-03-18T12:00:12Z",
+      "channelId": "UCshZ3rdoCLjDYuTR_RBubzw",
+      "title": "Advanced JavaScript Concepts Course Review Udemy",
+      "description": "Hey Hey! Today I'm looking at the Advanced JavaScript Concept course by Andrei Neagoie! This is an excellent course for ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wmjLc65u6JM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wmjLc65u6JM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wmjLc65u6JM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Program With Erik",
+      "liveBroadcastContent": "none",
+      "publishTime": "2019-03-18T12:00:12Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "O1IFuD65SCadmvhg5OUgxt1UBsA",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "BOo3llNfHjI"
+    },
+    "snippet": {
+      "publishedAt": "2022-09-06T11:00:13Z",
+      "channelId": "UCC02oWntvm_i5n3uNDLDUyg",
+      "title": "JavaScript Find FindIndex Some and Every | Mastering Advanced JavaScript Concepts",
+      "description": "JavaScript Find FindIndex Some and Every | Mastering Advanced JavaScript Concepts Master JavaScript and Ace Your Interview: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BOo3llNfHjI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BOo3llNfHjI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BOo3llNfHjI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Web Tech Talk ",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-09-06T11:00:13Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "_7YKKwfE4rD-sKgj-TAYG2xZGEg",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "uud2HqN6pTA"
+    },
+    "snippet": {
+      "publishedAt": "2023-06-28T16:00:44Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "🔥 Master Advanced JavaScript: Join, Share &amp; Level Up! 🚀✨",
+      "description": "Get ready to level up your JavaScript skills! In this exciting tutorial, we dive deep into advanced JavaScript concepts, techniques, ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uud2HqN6pTA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uud2HqN6pTA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uud2HqN6pTA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-06-28T16:00:44Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "iEEjHHDa_cYRk3FlTscs0A7_wgE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "dZj_4iH-qjA"
+    },
+    "snippet": {
+      "publishedAt": "2023-01-22T14:00:16Z",
+      "channelId": "UCjxqlo2mUnHdgl5zeOiRlZA",
+      "title": "MUST-KNOW JavaScript ES6 Advanced Concepts 🤩🤩 #shorts #javascript #programming #youtubeshorts",
+      "description": "MUST-KNOW JavaScript ES6 Advanced Concepts. Hi Everyone, this channel is all about Programming and Coding YouTube ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dZj_4iH-qjA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dZj_4iH-qjA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dZj_4iH-qjA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "IbadDoesCode",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-01-22T14:00:16Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "zvvFAC7sQ6csQu3AEsV4cBkN56w",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "GMSuK8eUwFc"
+    },
+    "snippet": {
+      "publishedAt": "2022-09-09T09:00:11Z",
+      "channelId": "UCC02oWntvm_i5n3uNDLDUyg",
+      "title": "JavaScript setTimeout and setInterval | Mastering Advanced JavaScript Concepts",
+      "description": "JavaScript setTimeout and setInterval | Mastering Advanced JavaScript Concepts Master JavaScript and Ace Your Interview: The ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GMSuK8eUwFc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GMSuK8eUwFc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GMSuK8eUwFc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Web Tech Talk ",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-09-09T09:00:11Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "gCk_WoJzbUtyz3nMjDoDW8uyURY",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "kYrRZSaFMU0"
+    },
+    "snippet": {
+      "publishedAt": "2024-07-18T13:47:30Z",
+      "channelId": "UClHhSTHTJmte7YoQp7t9bXw",
+      "title": "Master JavaScript Concepts before learning React or Angular!!",
+      "description": "Elevate Your Coding Journey: Master JavaScript Essentials! Before conquering React or Angular, make sure to nail these core ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kYrRZSaFMU0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kYrRZSaFMU0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kYrRZSaFMU0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "A Software Developer ",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-07-18T13:47:30Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "TE_oxp02QRL1BO_mQ6IxY_9TSFw",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "i4PxWDEulCg"
+    },
+    "snippet": {
+      "publishedAt": "2023-07-31T19:04:24Z",
+      "channelId": "UCP_2XrPz1j5BaMeDvfjUIGg",
+      "title": "12 Key Advanced JavaScript Concepts",
+      "description": "Are you ready to take your JavaScript skills to the next level? If you're interested in learning more about advanced JavaScript, ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/i4PxWDEulCg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/i4PxWDEulCg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/i4PxWDEulCg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Capicua",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-07-31T19:04:24Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "zUhBQAdLubUR3jglkYifrX1qv78",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "vKJpN5FAeF4"
+    },
+    "snippet": {
+      "publishedAt": "2021-06-17T16:02:19Z",
+      "channelId": "UCsBjURrPoezykLs9EqgamOA",
+      "title": "Closures Explained in 100 Seconds // Tricky JavaScript Interview Prep",
+      "description": "What is a JavaScript Closure? Learn the how closures allow functions to \"remember\" outside their local scope ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vKJpN5FAeF4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vKJpN5FAeF4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vKJpN5FAeF4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Fireship",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-06-17T16:02:19Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "AUKbHDK7QMM_2ukE8OcI4Zm8l9Q",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "qnS8fSzuHiU"
+    },
+    "snippet": {
+      "publishedAt": "2023-02-01T14:00:34Z",
+      "channelId": "UCjxqlo2mUnHdgl5zeOiRlZA",
+      "title": "🤩😍 5 JavaScript Concepts You MUST Know! #shorts #javascript #programming #ytshorts",
+      "description": "5 JavaScript Concepts You MUST Know Hi Everyone, this channel is all about Programming and Coding YouTube Shorts.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qnS8fSzuHiU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qnS8fSzuHiU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qnS8fSzuHiU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "IbadDoesCode",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-02-01T14:00:34Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "Vx4BT8k-uJbqWOc0UAdDocKf5lc",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "JR9wsVYp8RQ"
+    },
+    "snippet": {
+      "publishedAt": "2021-12-14T17:00:10Z",
+      "channelId": "UCFbNIlppjAuEX4znoulh0Cw",
+      "title": "Do You Know Enough JavaScript To Learn React",
+      "description": "JavaScript Simplified Course: https://javascriptsimplified.com React is hard to learn and it is made exponentially hard if you don't ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JR9wsVYp8RQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JR9wsVYp8RQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JR9wsVYp8RQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Web Dev Simplified",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-12-14T17:00:10Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "qDxoqMYJ07SJBct69KV7y4z3CIs",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "tbqVqP5ilzQ"
+    },
+    "snippet": {
+      "publishedAt": "2023-04-20T14:22:29Z",
+      "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "title": "JavaScript Interview Prep: Functions, Closures, Currying",
+      "description": "Prepare for JavaScript interview questions focusing on closures, functions, and currying. Throughout the course, you'll delve into ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tbqVqP5ilzQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tbqVqP5ilzQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tbqVqP5ilzQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "freeCodeCamp.org",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-04-20T14:22:29Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "J6sbxqMU1fU3COGdMH1Fxy53Cv4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "xVpaF8527Qg"
+    },
+    "snippet": {
+      "publishedAt": "2021-09-10T06:43:55Z",
+      "channelId": "UCeVMnSShP_Iviwkknt83cww",
+      "title": "5 JavaScript Concepts Everyone Should Learn! 🔥",
+      "description": "JavaScript Concepts: In this video, we will see the top 5 javascript concepts everyone should learn for frameworks like react, ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xVpaF8527Qg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xVpaF8527Qg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xVpaF8527Qg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "CodeWithHarry",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-09-10T06:43:55Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "wI5wLUGTsch0hcvC6CMOCkPdLqA",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "8zVYpla-78E"
+    },
+    "snippet": {
+      "publishedAt": "2022-08-10T12:30:15Z",
+      "channelId": "UCC02oWntvm_i5n3uNDLDUyg",
+      "title": "JavaScript Equality vs Strict Equality | Mastering Advanced JavaScript Concepts",
+      "description": "JavaScript Equality vs Strict Equality | Mastering Advanced JavaScript Concepts Master JavaScript and Ace Your Interview: The ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8zVYpla-78E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8zVYpla-78E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8zVYpla-78E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Web Tech Talk ",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-08-10T12:30:15Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "TbO7CEXr907O5t0ZP9PzMtYil9g",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "EwcVt3D4_rE"
+    },
+    "snippet": {
+      "publishedAt": "2022-08-02T13:27:23Z",
+      "channelId": "UCC02oWntvm_i5n3uNDLDUyg",
+      "title": "JavaScript Pass by Value vs Pass by Reference | Mastering Advanced JavaScript Concepts",
+      "description": "JavaScript Pass by Value vs Pass by Reference | Mastering Advanced JavaScript Concepts Master JavaScript and Ace Your ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EwcVt3D4_rE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/EwcVt3D4_rE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/EwcVt3D4_rE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Web Tech Talk ",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-08-02T13:27:23Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "DSkPrxqexfAQ-NdXr0_A4Iy1hRc",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "XyTfneDHqik"
+    },
+    "snippet": {
+      "publishedAt": "2022-10-10T03:30:06Z",
+      "channelId": "UCvzlnZbePin9kH-1JCKBt8Q",
+      "title": "Advanced JavaScript Concepts",
+      "description": "Advanced JavaScript Concepts Made Simple. In this video, we've discussed javascript concepts like - Execution context - Call ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XyTfneDHqik/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XyTfneDHqik/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XyTfneDHqik/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "CodAffection",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-10-10T03:30:06Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "7B6GJ-TQAC-fic-4P3nXe5w5-qQ",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "8EkdjS8IY0Q"
+    },
+    "snippet": {
+      "publishedAt": "2023-10-14T17:09:47Z",
+      "channelId": "UCans6tlOzOGqtq-IKMLJR8g",
+      "title": "#109 Javascript Interview Questions | JS Output based questions || #frontendmaster  #javascript",
+      "description": "My Blogs: https://rahuulmiishra.medium.com LinkedIn: https://www.linkedin.com/in/rahuulmiishra/ Instagram: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8EkdjS8IY0Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8EkdjS8IY0Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8EkdjS8IY0Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Frontend Master",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-10-14T17:09:47Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "ou2WCAIu2TAsn0FnnmtoFnx0wm0",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "YwsOCN8woA8"
+    },
+    "snippet": {
+      "publishedAt": "2024-02-29T13:30:14Z",
+      "channelId": "UCwfaAHy4zQUb2APNOGXUCCA",
+      "title": "JavaScript Advanced full Course Tutorial🔥15+ Projects + Free Notes",
+      "description": "Complete Advanced JavaScript Tutorial in One Video in Hindi Watch JavaScript Full Course Part 1: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YwsOCN8woA8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YwsOCN8woA8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YwsOCN8woA8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Thapa Technical",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-02-29T13:30:14Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "3n2e2ixVjRL94ORM3p2XNnH_cwE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "HHOxjNcpbbc"
+    },
+    "snippet": {
+      "publishedAt": "2020-09-25T00:49:33Z",
+      "channelId": "UCHa8J-xnRYOg5VuudfWpBgg",
+      "title": "10 JavaScript concepts every Developer SHOULD know",
+      "description": "10 JavaScript concepts every Developer SHOULD know! In this video I share my top 10 JavaScript concepts for every developer ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HHOxjNcpbbc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HHOxjNcpbbc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HHOxjNcpbbc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ColorCode",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-09-25T00:49:33Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "Vxw05t1rYzpy5XKFKmLMCESFT9w",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "ERKvz5cQMus"
+    },
+    "snippet": {
+      "publishedAt": "2023-03-14T13:27:05Z",
+      "channelId": "UC-T8W79DN6PBnzomelvqJYw",
+      "title": "10 JavaScript Concepts Every Developer Should Know (or should you?!)",
+      "description": "Should you really need to know all of these topics? Let's discuss ten topics in JavaScript and talk about how important they are to ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ERKvz5cQMus/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ERKvz5cQMus/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ERKvz5cQMus/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "James Q Quick",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-03-14T13:27:05Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "Uz5lkDdVMFgKrbuV4IooEEoO2g4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "-3bVuFcteUo"
+    },
+    "snippet": {
+      "publishedAt": "2024-02-16T14:00:00Z",
+      "channelId": "UC4JX40jDee_tINbkjycV4Sg",
+      "title": "Mastering JavaScript - EVERYTHING You Need To Know",
+      "description": "In this video, I've put together a comprehensive guide to mastering JavaScript. We'll start with the basics and work our way up to ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-3bVuFcteUo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-3bVuFcteUo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-3bVuFcteUo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Tech With Tim",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-02-16T14:00:00Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "FV7nqqPSTaiKZPBFJ18H9Td7R38",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "5to4faQfFSA"
+    },
+    "snippet": {
+      "publishedAt": "2023-01-21T09:15:00Z",
+      "channelId": "UCjxqlo2mUnHdgl5zeOiRlZA",
+      "title": "Before ReactJS, Master These JS ES6 Concepts First #shorts #youtubeshorts #programming #javascript",
+      "description": "Before ReactJS, Master These JavaScript ES6 Concepts First. These are some important concepts you need to learn before ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5to4faQfFSA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5to4faQfFSA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5to4faQfFSA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "IbadDoesCode",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-01-21T09:15:00Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "uKJr5BocMCfh6vtSClC99yMmu-U",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "yN2yBmSHduI"
+    },
+    "snippet": {
+      "publishedAt": "2023-09-25T11:30:32Z",
+      "channelId": "UCeVMnSShP_Iviwkknt83cww",
+      "title": "5 JavaScript Mistakes Every Beginner Must Avoid 🔥",
+      "description": "JavaScript Beginner Course: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/yN2yBmSHduI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/yN2yBmSHduI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/yN2yBmSHduI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "CodeWithHarry",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-09-25T11:30:32Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "mmiMe2lp9sq3OupD3Mg384_b4Ks",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "s7kZanmpwFA"
+    },
+    "snippet": {
+      "publishedAt": "2024-07-29T12:00:50Z",
+      "channelId": "UCwr-evhuzGZgDFrq_1pLt_A",
+      "title": "Thinking about which programming language to start with? #shorts #fullstack",
+      "description": "Which Programming Language to choose First? Choosing your first programming language? If you're a student aiming for a ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/s7kZanmpwFA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/s7kZanmpwFA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/s7kZanmpwFA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Error Makes Clever",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-07-29T12:00:50Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "c_KhFd-Ma9v8DF-FtoNnRL26YxE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "93UWQw2cvxU"
+    },
+    "snippet": {
+      "publishedAt": "2022-07-14T09:00:13Z",
+      "channelId": "UCC02oWntvm_i5n3uNDLDUyg",
+      "title": "JavaScript Hoisting | Mastering Advanced JavaScript Concepts",
+      "description": "JavaScript Hoisting | Mastering Advanced JavaScript Concepts Master JavaScript and Ace Your Interview: The Ultimate Course ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/93UWQw2cvxU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/93UWQw2cvxU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/93UWQw2cvxU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Web Tech Talk ",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-07-14T09:00:13Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "YZs46Ido8_p1wHKr_DjSWluhF24",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "2ZLfd6oeDxs"
+    },
+    "snippet": {
+      "publishedAt": "2023-01-23T14:00:03Z",
+      "channelId": "UCjxqlo2mUnHdgl5zeOiRlZA",
+      "title": "Advanced JS Concept: Hoisting in JavaScript 🤩🤯 #shorts #javascript #programming #youtubeshorts",
+      "description": "Advanced JS Concept: Hoisting in JavaScript Hi Everyone, this channel is all about Programming and Coding YouTube Shorts.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2ZLfd6oeDxs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2ZLfd6oeDxs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2ZLfd6oeDxs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "IbadDoesCode",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-01-23T14:00:03Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "ADSKi4UC7kwvvDsrg0O16UwpdE4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "aYtrnxYsIYg"
+    },
+    "snippet": {
+      "publishedAt": "2021-10-05T08:30:01Z",
+      "channelId": "UCJUmE61LxhbhudzUugHL2wQ",
+      "title": "How React JS Works? ReactJS Explained #shorts",
+      "description": "Learn Full Stack Development: https://cdm.sh/fullstack Free HTML5 + CSS3 Course: https://cdm.sh/htmlcsscourse Free ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/aYtrnxYsIYg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/aYtrnxYsIYg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/aYtrnxYsIYg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Mehul - Codedamn",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-10-05T08:30:01Z"
+    }
+  }
+]
