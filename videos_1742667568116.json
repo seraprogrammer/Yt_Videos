@@ -1,0 +1,1702 @@
+[
+  {
+    "kind": "youtube#searchResult",
+    "etag": "Z5oy8stdDRy6Xqb9FcRUf1FJbmE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "FtaQSdrl7YA"
+    },
+    "snippet": {
+      "publishedAt": "2024-02-28T15:03:22Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "JavaScript Tutorial for Beginners [JS Crash Course 2024]",
+      "description": "JavaScript Tutorial for Beginners - Full JavaScript Course to learn JavaScript with Hands-On Examples and get the Complete ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/FtaQSdrl7YA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/FtaQSdrl7YA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/FtaQSdrl7YA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-02-28T15:03:22Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "dPWimWNTiz7MugpNCvRMSp5KXwA",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "afSbBjAaqeM"
+    },
+    "snippet": {
+      "publishedAt": "2020-04-04T08:01:34Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "What is JavaScript? | JavaScript Tutorial #1",
+      "description": "What is JavaScript and what is JavaScript used for? JavaScript is THE standard programming language of the web. It's used by ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/afSbBjAaqeM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/afSbBjAaqeM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/afSbBjAaqeM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-04-04T08:01:34Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "diW4lutPcKy-8fxpNPpXt6q_YYQ",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "qK3yEwXqaAc"
+    },
+    "snippet": {
+      "publishedAt": "2020-05-03T11:10:34Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "JavaScript Operators &amp; JavaScript Conditionals | JavaScript Tutorial #4",
+      "description": "Learn JavaScript Operators and JavaScript Conditionals | JavaScript if else statement ▻ Subscribe to me on Youtube: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qK3yEwXqaAc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qK3yEwXqaAc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qK3yEwXqaAc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-05-03T11:10:34Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "YvsSX48Oe5ww9efl2O7nhOP-yjA",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "5N7Tq9e1U_0"
+    },
+    "snippet": {
+      "publishedAt": "2020-05-01T16:02:15Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "Where to write JavaScript | Where to execute JavaScript Code | JavaScript Tutorial #3",
+      "description": "Learn where to write and execute JavaScript Code | How to write JavaScript code? ▻ Subscribe To Me On Youtube: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5N7Tq9e1U_0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5N7Tq9e1U_0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5N7Tq9e1U_0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-05-01T16:02:15Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "NLDxgZi4Rz1QwRXpfDPg5l19BRs",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "q8OleYuqntY"
+    },
+    "snippet": {
+      "publishedAt": "2024-11-14T15:15:17Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "Full NGINX Tutorial - Demo Project with Node.js, Docker",
+      "description": "Full NGINX Tutorial for Beginners - Even if you've never used Nginx before, this crash course will get you up to speed with a ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/q8OleYuqntY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/q8OleYuqntY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/q8OleYuqntY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-11-14T15:15:17Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "f2IMi_o7wTnypkXJVxVdHgd7EAY",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Iyfntbj2jWU"
+    },
+    "snippet": {
+      "publishedAt": "2022-11-30T15:24:11Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "Ultimate IT Fundamentals Course - From Zero to Engineer [22 Hours Released]",
+      "description": "Course for complete IT Beginners | Learning the complete Software Development Life Cycle by taking up all key roles (software ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Iyfntbj2jWU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Iyfntbj2jWU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Iyfntbj2jWU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-11-30T15:24:11Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "-309OpohcOqT-TIwPpHTp9hKd6E",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "L9-3VBOjNH4"
+    },
+    "snippet": {
+      "publishedAt": "2020-04-17T15:46:49Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "JavaScript Variables &amp; JavaScript Data Types explained | JavaScript Tutorial #2",
+      "description": "JavaScript Variables and JavaScript Data Types explained for Beginners | JavaScript Tutorial ▻ Subscribe To Me On Youtube: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/L9-3VBOjNH4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/L9-3VBOjNH4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/L9-3VBOjNH4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-04-17T15:46:49Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "ZrmyYZ9SdqGhOFn1jx3cml6lqjk",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "3c-iBn73dDE"
+    },
+    "snippet": {
+      "publishedAt": "2020-10-21T19:26:53Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "Docker Tutorial for Beginners [FULL COURSE in 3 Hours]",
+      "description": "Full Docker Tutorial | Complete Docker Course | Hands-on course with a lot of demos and explaining the concepts behind, so that ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3c-iBn73dDE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3c-iBn73dDE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3c-iBn73dDE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-10-21T19:26:53Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "ZtJR-PJJPoE4Qty000-VJbGK0Lo",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "9e6sUNhAB4M"
+    },
+    "snippet": {
+      "publishedAt": "2020-02-02T09:32:14Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "Top 3 programming languages to learn in 2020 | meta analysis",
+      "description": "Top programming languages to learn in 2020 based on a meta analysis. We analyzed several articles, statistics, surveys and ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9e6sUNhAB4M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9e6sUNhAB4M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9e6sUNhAB4M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-02-02T09:32:14Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "IvhmlK7pATJaigLxIIoCABIBm0Y",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "t8pPdKYpowI"
+    },
+    "snippet": {
+      "publishedAt": "2021-03-05T14:10:17Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "Python Tutorial for Beginners - Learn Python in 5 Hours [FULL COURSE]",
+      "description": "Python Tutorial for Beginners | Full Python Course | Learn Python in 2023 The Ultimate IT Beginner's Course: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/t8pPdKYpowI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/t8pPdKYpowI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/t8pPdKYpowI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-03-05T14:10:17Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "RrB06MtIzbpBcWrAt2BlciQwm1Y",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "DBEL1xjxr4o"
+    },
+    "snippet": {
+      "publishedAt": "2023-12-21T18:15:00Z",
+      "channelId": "UCSWj8mqQCcrcBlXPi4ThRDQ",
+      "title": "DevOps Learning Path for Beginners 👇",
+      "description": "DevOps Learning Path for Beginners Learn Now: https://bit.ly/DevOpsLearningPath-YT For individuals starting out, having ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DBEL1xjxr4o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DBEL1xjxr4o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DBEL1xjxr4o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "KodeKloud",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-12-21T18:15:00Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "E4QGE1z7B5ZzbszrpBW8tD6sfR4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "1h46cNkyXlE"
+    },
+    "snippet": {
+      "publishedAt": "2021-02-04T17:44:14Z",
+      "channelId": "UCCktnahuRFYIBtNnKT5IYyg",
+      "title": "JavaScript Tutorial For Beginners | JavaScript Training | JavaScript Course | Intellipaat",
+      "description": "Intellipaat JavaScript training: https://intellipaat.com/full-stack-web-developer-mean-stack-certification-training/ In this JavaScript ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1h46cNkyXlE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1h46cNkyXlE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1h46cNkyXlE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Intellipaat",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-02-04T17:44:14Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "HBM5RIYZ9-DTuHQ6Ovg6GqQzrGs",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "R8_veQiYBjI"
+    },
+    "snippet": {
+      "publishedAt": "2020-10-08T15:03:01Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "GitHub Actions Tutorial - Basic Concepts and CI/CD Pipeline with Docker",
+      "description": "Complete Github Actions Tutorial | GitHub Actions CI/CD | GitHub Actions Docker Build and Push | GitHub Actions Demo ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/R8_veQiYBjI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/R8_veQiYBjI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/R8_veQiYBjI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-10-08T15:03:01Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "M0S8DPmR6nZf1ZkDM5euvBuJjXY",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "QYIyjw-P7zE"
+    },
+    "snippet": {
+      "publishedAt": "2021-04-13T13:38:43Z",
+      "channelId": "UC58_wzhvJta3hDSPvRLDAqg",
+      "title": "How to create simple APIs in Node JS ? #shorts",
+      "description": "Hey guys, In this video we're going to learn how to Create Node JS API using just 4 lines of code. #shorts Follow for updates: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QYIyjw-P7zE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QYIyjw-P7zE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QYIyjw-P7zE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Anuj Kumar Sharma",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-04-13T13:38:43Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "MLZOUEWCC67c1JmzcGcXVMLNZdM",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "e2fKYP_7B_Y"
+    },
+    "snippet": {
+      "publishedAt": "2024-03-31T10:30:11Z",
+      "channelId": "UCqPw78XvJUKtGiq3TzAcwJQ",
+      "title": "JavaScript for Beginners | Learn JavaScript in one hour!",
+      "description": "This video will truly take you from Zero to Hero, just look at the timestamps and you will know that it covers the most important ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/e2fKYP_7B_Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/e2fKYP_7B_Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/e2fKYP_7B_Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Keerti Purswani",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-03-31T10:30:11Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "cXsKUVEjCmowbee5_l1a6lX4IuA",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "zclmsRz01pg"
+    },
+    "snippet": {
+      "publishedAt": "2024-01-14T20:04:03Z",
+      "channelId": "UCWYz4W6m1toUP7x0M1od3fA",
+      "title": "Devops Roadmap 🔥",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zclmsRz01pg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zclmsRz01pg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zclmsRz01pg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ezSnippet",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-01-14T20:04:03Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "ryV9imFSLLd0jScXEnmW_hZw8og",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "uvb00oaa3k8"
+    },
+    "snippet": {
+      "publishedAt": "2023-01-10T18:37:37Z",
+      "channelId": "UCsBjURrPoezykLs9EqgamOA",
+      "title": "Kafka in 100 Seconds",
+      "description": "Apache Kafka is a distributed event streaming platform used to handle large amounts of realtime data. Learn the basics of Kafka in ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uvb00oaa3k8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uvb00oaa3k8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uvb00oaa3k8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Fireship",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-01-10T18:37:37Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "vnw1r0dDc5SEfY03ZFeT0IVpHHI",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "pg19Z8LL06w"
+    },
+    "snippet": {
+      "publishedAt": "2023-02-15T15:08:45Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "Docker Crash Course for Absolute Beginners [NEW]",
+      "description": "Docker Tutorial for Beginners that teaches you everything you need to get started Connect on Instagram ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/pg19Z8LL06w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/pg19Z8LL06w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/pg19Z8LL06w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-02-15T15:08:45Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "iGotDT7bHfn0F3QAaLzqneqxnqM",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "R9I85RhI7Cg"
+    },
+    "snippet": {
+      "publishedAt": "2022-02-13T06:00:10Z",
+      "channelId": "UC80PWRj_ZU8Zu0HSMNVwKWw",
+      "title": "Advanced JavaScript Crash Course",
+      "description": "Courses - https://learn.codevolution.dev/ Support UPI - https://support.codevolution.dev/ Support PayPal ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/R9I85RhI7Cg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/R9I85RhI7Cg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/R9I85RhI7Cg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Codevolution",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-02-13T06:00:10Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "36eAcn5PMKUWWjR39cQN1tKPbTU",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "vcRmKtL4o_4"
+    },
+    "snippet": {
+      "publishedAt": "2020-03-29T09:58:14Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "How Websites Work | simply explained with examples",
+      "description": "Ever wondered how web applications like Facebook work? What is a website made of, where is it stored, where does it come from ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vcRmKtL4o_4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vcRmKtL4o_4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vcRmKtL4o_4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-03-29T09:58:14Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "TcMc5IEuKC4LIqWHU9oQkQdUHjI",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "qP8kir2GUgo"
+    },
+    "snippet": {
+      "publishedAt": "2022-06-09T14:17:27Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "GitLab CI CD Tutorial for Beginners [Crash Course]",
+      "description": "Learn GitLab CI/CD by building a complete CICD pipeline for a python demo project | with Docker GitLab Course with ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qP8kir2GUgo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qP8kir2GUgo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qP8kir2GUgo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-06-09T14:17:27Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "UNxRkWFqYj0MKVRqHk8muhatkUs",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "NQ3fZtyXji0"
+    },
+    "snippet": {
+      "publishedAt": "2022-09-06T14:54:37Z",
+      "channelId": "UCsBjURrPoezykLs9EqgamOA",
+      "title": "RabbitMQ in 100 Seconds",
+      "description": "RabbitMQ is an open-source message broker often used for communication between microservices in the cloud. Learn how to ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NQ3fZtyXji0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NQ3fZtyXji0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NQ3fZtyXji0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Fireship",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-09-06T14:54:37Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "w8C1SAZ3OVMQz3SQgdwioHcEHak",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "bxuYDT-BWaI"
+    },
+    "snippet": {
+      "publishedAt": "2023-05-22T17:40:48Z",
+      "channelId": "UCjm_qVkCPjOVDz9BWjNqO9A",
+      "title": "APIs Explained (in 4 Minutes)",
+      "description": "Make sure you're interview-ready with Exponent's system design interview prep course: https://bit.ly/3ItwJKk Read our complete ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bxuYDT-BWaI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bxuYDT-BWaI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bxuYDT-BWaI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Exponent",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-05-22T17:40:48Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "TdUUxVDn4KSYvj0XqeEpkbfmhB4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "h4Sl21AKiDg"
+    },
+    "snippet": {
+      "publishedAt": "2020-04-24T16:11:40Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "How Prometheus Monitoring works | Prometheus Architecture explained",
+      "description": "Part of the DevOps Bootcamp More infos here: https://bit.ly/41Wc1cM Fully understand how Prometheus Monitoring works ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/h4Sl21AKiDg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/h4Sl21AKiDg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/h4Sl21AKiDg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-04-24T16:11:40Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "wfnrmz48rohI9SDLTEtExm746tM",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "dQogZx2aABQ"
+    },
+    "snippet": {
+      "publishedAt": "2023-11-27T15:51:30Z",
+      "channelId": "UC9x0AN7BWHpCDHSm9NiJFJQ",
+      "title": "What does a PROXY actually do??",
+      "description": "Join the NetworkChuck Academy!: https://ntck.co/NCAcademy ☕☕ COFFEE and MERCH: https://ntck.co/coffee #proxies #chrome ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dQogZx2aABQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dQogZx2aABQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dQogZx2aABQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "NetworkChuck",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-11-27T15:51:30Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "UlsPz4wdevAJb-vpIyKVWkfUNJY",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Zg4XIpnLWQg"
+    },
+    "snippet": {
+      "publishedAt": "2022-05-10T13:00:17Z",
+      "channelId": "UC8S4rDRZn6Z_StJ-hh7ph8g",
+      "title": "Learn GraphQL in 7 Minutes For Beginners",
+      "description": "In this brief video I will be explaining GraphQL for beginners. Join our Discord: https://discord.gg/WE92Cqs6Vk Learn ReactJS ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Zg4XIpnLWQg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Zg4XIpnLWQg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Zg4XIpnLWQg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "PedroTech",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-05-10T13:00:17Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "XZsFah9PLZGfYFIVyMi3Xne1JcE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "lL_j7ilk7rc"
+    },
+    "snippet": {
+      "publishedAt": "2022-12-18T19:43:14Z",
+      "channelId": "UCmucQyVE8bjP5zJhJgHIp2w",
+      "title": "Microservices Explained in 5 Minutes",
+      "description": "What are Microservices? Microservices are a popular architectural pardigm used to build maintainable, evolvable and scalable ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lL_j7ilk7rc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lL_j7ilk7rc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lL_j7ilk7rc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "5 Minutes or Less",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-12-18T19:43:14Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "v5iqe5RsyFKK1bNzlZgTOwYcKgE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "YxnDAvlatC8"
+    },
+    "snippet": {
+      "publishedAt": "2024-12-28T06:28:56Z",
+      "channelId": "UCNet1ukCcp6IYZgz14CFwxA",
+      "title": "How to become a Senior developer.. ♥️ 😂 #programming #javascript  #coding #developer #coder",
+      "description": "Front-End Development for Beginners: HTML, CSS, and JavaScript Tutorial @MK_CODER #coding Video Description: How to ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YxnDAvlatC8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YxnDAvlatC8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YxnDAvlatC8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "@MK_Coder",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-12-28T06:28:56Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "bwTpBPdVGGSjCBKgu6ExrLFHcYE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "jQZNIs4JksA"
+    },
+    "snippet": {
+      "publishedAt": "2025-03-06T07:33:10Z",
+      "channelId": "UCMUuCs6Y1WzDpAKg_2W-3yA",
+      "title": "python full course in hindi 🐍 python for beginners.#python",
+      "description": "python full course in hindi python for beginners.#python @monuinstitute Some of you asked me about Python courses for ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jQZNIs4JksA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jQZNIs4JksA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jQZNIs4JksA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Monu institute ",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-03-06T07:33:10Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "oppuFlQHq4qioTI_WGmbV_gOr4U",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "SqcY0GlETPk"
+    },
+    "snippet": {
+      "publishedAt": "2023-03-12T08:00:07Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "React Tutorial for Beginners",
+      "description": "Master React 18 with TypeScript! ⚛️ Build amazing front-end apps with this beginner-friendly tutorial. ❤️ Join this channel to ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SqcY0GlETPk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SqcY0GlETPk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SqcY0GlETPk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-03-12T08:00:07Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "kxjqjVJ_H2yTALYveMtHsWayJAE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "vIjeiDcsR3Q"
+    },
+    "snippet": {
+      "publishedAt": "2021-05-28T14:11:12Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "Pulumi - IaC in your favorite programming language!",
+      "description": "Infrastructure as code using your favorite programming language with Pulumi | Pulumi Tutorial ⭐️ DevOps Tool for May - From ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vIjeiDcsR3Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vIjeiDcsR3Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vIjeiDcsR3Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-05-28T14:11:12Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "OhyPeGfnNF72XZdKOF4xfw63XAg",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "QysgfVs36eI"
+    },
+    "snippet": {
+      "publishedAt": "2025-03-03T12:00:36Z",
+      "channelId": "UCSCpimJvMFN_Ymr_2w3yXwA",
+      "title": "Must know concepts in programming!",
+      "description": "Don't call yourself a developer until you master these essentials! 1️⃣ Namaste JavaScript – Deep dive into JS concepts ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QysgfVs36eI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QysgfVs36eI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QysgfVs36eI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Swati Jha",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-03-03T12:00:36Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "LO-f_ayR4V-CvTcv7GII2Q2HrU8",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "9BEphC4JX3M"
+    },
+    "snippet": {
+      "publishedAt": "2022-03-24T08:58:45Z",
+      "channelId": "UC26_rFZReLXNu8bULVARUXg",
+      "title": "Learn DOM manipulation with JavaScript",
+      "description": "Source code: https://openjavascript.info/2022/03/16/a-guide-to-dom-manipulation-with-javascript/ ⚡ Looking for ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9BEphC4JX3M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9BEphC4JX3M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9BEphC4JX3M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "OpenJavaScript",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-03-24T08:58:45Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "nJZGP8Crihc-fY-9SPnQ7DPfxBk",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "ZOQYIWLngSU"
+    },
+    "snippet": {
+      "publishedAt": "2023-11-01T14:12:18Z",
+      "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+      "title": "Learn JavaScript FOR LOOPS in 5 minutes! 🔂",
+      "description": "00:00:00 introduction 00:00:15 increment 00:02:50 decrement 00:03:36 continue 00:04:59 break 00:05:21 conclusion.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZOQYIWLngSU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZOQYIWLngSU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZOQYIWLngSU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Bro Code",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-11-01T14:12:18Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "N3bPSAiBDKhmDDGPzLM4QxEL7IE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "6YisG2GcXaw"
+    },
+    "snippet": {
+      "publishedAt": "2019-11-10T10:32:54Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "Developing with Docker - Docker in Practice || Docker Tutorial 8",
+      "description": "How to develop an application with Docker. This is a practical tutorial building a simple Javascript application with Node.js and ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6YisG2GcXaw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6YisG2GcXaw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6YisG2GcXaw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2019-11-10T10:32:54Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "HvFulZ3_QeqRQYR5z0mivk2GBuE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "R6fdQ-3y6dw"
+    },
+    "snippet": {
+      "publishedAt": "2025-02-09T17:07:31Z",
+      "channelId": "UC4AHYmD-mbkw5MOqOtaY3PQ",
+      "title": "Top 10  Programing Symbol #htmlcsswebsite #htmlfullcourse #htmlfulltutorial #htmlcss #webdesign #js",
+      "description": "Understanding Programming Symbols & Their Uses Top 10 Essential Programming Symbols You Must Know Beginner's Guide to ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/R6fdQ-3y6dw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/R6fdQ-3y6dw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/R6fdQ-3y6dw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Develop Code Journey",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-02-09T17:07:31Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "dXzXXjf-EE3PfJ11jy4Pwgye_wg",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Ch5VhJzaoaI"
+    },
+    "snippet": {
+      "publishedAt": "2018-09-15T12:21:17Z",
+      "channelId": "UCEjnyZLCK-y4D8xuPR0S2mg",
+      "title": "Apache Kafka in 6 minutes",
+      "description": "A quick introduction to how Apache Kafka works and differs from other messaging systems using an example application. In this ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Ch5VhJzaoaI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Ch5VhJzaoaI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Ch5VhJzaoaI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "James Cutajar",
+      "liveBroadcastContent": "none",
+      "publishTime": "2018-09-15T12:21:17Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "7tum1dsuDu0WLAG77CZh_rRBzsA",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "7KnEt5gPiGQ"
+    },
+    "snippet": {
+      "publishedAt": "2023-06-08T13:19:24Z",
+      "channelId": "UCsUalyRg43M8D60mtHe6YcA",
+      "title": "Nana Janashia On Her Channel And The Community Behind It (@TechWorldwithNana)",
+      "description": "Nana Janashia, a.k.a. the 'DevOps Goddess', created the channel @TechWorldwithNana with the intention of teaching others ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7KnEt5gPiGQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7KnEt5gPiGQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7KnEt5gPiGQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Honeypot",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-06-08T13:19:24Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "wXo6rvQr9FtbvMe104WxLPGUWp4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "ZHsmd4A-FsU"
+    },
+    "snippet": {
+      "publishedAt": "2024-12-24T03:26:54Z",
+      "channelId": "UCNet1ukCcp6IYZgz14CFwxA",
+      "title": "Coding short tricks in VS code #day3  #coding #codewithharry @Seekho_Code @freecodecamp",
+      "description": "Coding short tricks in VS code #coding #codewithharry @Seekho_Code @freecodecamp Video Description: Welcome to the ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZHsmd4A-FsU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZHsmd4A-FsU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZHsmd4A-FsU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "@MK_Coder",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-12-24T03:26:54Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "O5h419BOtGep8EHA3jtLf5U9WgA",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "gxPykhPxRW0"
+    },
+    "snippet": {
+      "publishedAt": "2021-08-30T14:00:05Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "8 Terraform Best Practices that will improve your TF workflow immediately",
+      "description": "8 Terraform Best Practices that will improve your Terraform workflow immediately ▭▭▭▭▭▭ Learn more about Terraform?",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gxPykhPxRW0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gxPykhPxRW0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gxPykhPxRW0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-08-30T14:00:05Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "sfGweUFntNyPyCkHh4F7bsG1oK8",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "lsMQRaeKNDk"
+    },
+    "snippet": {
+      "publishedAt": "2020-10-23T18:35:20Z",
+      "channelId": "UCKWaEZ-_VweaEx1j62do_vQ",
+      "title": "What is a REST API?",
+      "description": "Learn more about about APIs → http://ibm.biz/guide-to-apis Learn more about REST APIs → http://ibm.biz/rest-apis-guide Watch ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lsMQRaeKNDk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lsMQRaeKNDk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lsMQRaeKNDk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "IBM Technology",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-10-23T18:35:20Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "ju22JNJafDFp03ufNGnXY9xRMXc",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "-ykwb1d0DXU"
+    },
+    "snippet": {
+      "publishedAt": "2020-03-21T14:57:22Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "What is Helm in Kubernetes? Helm and Helm Charts explained  | Kubernetes Tutorial 23",
+      "description": "What is Helm and Helm Charts? When to use Helm and how to use it. Using Helm in practice ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-ykwb1d0DXU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-ykwb1d0DXU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-ykwb1d0DXU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-03-21T14:57:22Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "S4Aitv75J33-SBuxX9mMOps8_a4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "YdKUkDe22RA"
+    },
+    "snippet": {
+      "publishedAt": "2019-11-10T10:02:34Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "Overview of Workflow with Docker - Docker in Practice || Docker Tutorial 7",
+      "description": "Work with Docker from development to deployment. Get an overview of how to develop Docker Nodejs and MongoDB application.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YdKUkDe22RA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YdKUkDe22RA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YdKUkDe22RA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2019-11-10T10:02:34Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "uauYjVhhbDxWrLhRgf8YIzTxhqY",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "eIQh02xuVw4"
+    },
+    "snippet": {
+      "publishedAt": "2021-02-13T16:17:17Z",
+      "channelId": "UCsBjURrPoezykLs9EqgamOA",
+      "title": "GraphQL Explained in 100 Seconds",
+      "description": "What is GraphQL? Learn how it compares to REST and why developers love this query language for reading and mutating data in ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/eIQh02xuVw4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/eIQh02xuVw4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/eIQh02xuVw4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Fireship",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-02-13T16:17:17Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "9pEO1k4S0dDJ_O46v4HYB1FI8eE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "9JGONx_X4ho"
+    },
+    "snippet": {
+      "publishedAt": "2024-03-27T14:58:21Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "GitHub Copilot Tutorial | How useful is it for Cloud and DevOps?",
+      "description": "Does GitHub Copilot make you faster as a Cloud or DevOps engineer? The what, why and how of GitHub Copilot - Writing ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9JGONx_X4ho/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9JGONx_X4ho/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9JGONx_X4ho/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-03-27T14:58:21Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "sr6rQEcZXZUoEgEgiy5g_v4tJfk",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "ZV5yTm4pT8g"
+    },
+    "snippet": {
+      "publishedAt": "2023-06-29T15:30:09Z",
+      "channelId": "UCZgt6AzoyjslHTC9dz0UoTw",
+      "title": "OAuth 2 Explained In Simple Terms",
+      "description": "Get a Free System Design PDF with 158 pages by subscribing to our weekly newsletter: https://bytebytego.ck.page/subscribe ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZV5yTm4pT8g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZV5yTm4pT8g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZV5yTm4pT8g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ByteByteGo",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-06-29T15:30:09Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "-hgKMj2G_NYOqrHgrEjcUQ_Y5p0",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "LuAWFium1nk"
+    },
+    "snippet": {
+      "publishedAt": "2020-07-16T08:15:00Z",
+      "channelId": "UCjX0FtIZBBVD3YoCcxnDC4g",
+      "title": "Learn JavaScript Loops in 10 Minutes",
+      "description": "In today's video we'll be taking a look at looping and iteration within JavaScript - this is perfect for beginners who are just learning ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LuAWFium1nk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LuAWFium1nk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LuAWFium1nk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "dcode",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-07-16T08:15:00Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "DpqaV4qAfhdTeGdmU_52BUcdMOo",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "fVJEOprBk7U"
+    },
+    "snippet": {
+      "publishedAt": "2023-09-14T14:43:20Z",
+      "channelId": "UCveNj7NuFKK3HWWDhcMtn5g",
+      "title": "75+ youtube channel for coding #ytshorts #code",
+      "description": "75 YouTube channels you will never regret subscribing to: ❯ C ➟ Jacob Sorber ❯ C++ ➟ TheCherno ❯ Java ➟ amigoscode ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fVJEOprBk7U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fVJEOprBk7U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fVJEOprBk7U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Pritam",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-09-14T14:43:20Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "y5tZG2roPfgYjFRu4W2bLMNZ6G4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "6u5NE1GiQDk"
+    },
+    "snippet": {
+      "publishedAt": "2021-03-14T15:01:35Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "Why learn Python as a DevOps Engineer | Python for DevOps",
+      "description": "Why you should learn Python as a DevOps engineer | Python for DevOps | Python for DevOps Automation ✓ Programming and ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6u5NE1GiQDk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6u5NE1GiQDk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6u5NE1GiQDk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-03-14T15:01:35Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "kJfZ5MMfw1PKP0BvMzYbXpevIGM",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "s3I1kKKfjtQ"
+    },
+    "snippet": {
+      "publishedAt": "2023-10-26T14:07:57Z",
+      "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+      "title": "Consul Service Mesh Tutorial for Beginners [Crash Course]",
+      "description": "Complete Service Mesh and HashiCorp Consul tutorial - Real life demo of setting up Consul in Kubernetes multi cluster, multi ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/s3I1kKKfjtQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/s3I1kKKfjtQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/s3I1kKKfjtQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TechWorld with Nana",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-10-26T14:07:57Z"
+    }
+  }
+]
