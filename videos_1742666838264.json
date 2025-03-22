@@ -1,0 +1,1702 @@
+[
+  {
+    "kind": "youtube#searchResult",
+    "etag": "sD8N9Q41-RuIQ_9Scf0cYd7yULw",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "x5trGVMKTdY"
+    },
+    "snippet": {
+      "publishedAt": "2021-06-21T20:21:42Z",
+      "channelId": "UCcabW7890RKJzL968QWEykA",
+      "title": "CS50W - Lecture 5 - JavaScript",
+      "description": "This is CS50W, CS50's Web Programming with Python and JavaScript. Register for free at https://cs50.edx.org/web. Slides and ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/x5trGVMKTdY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/x5trGVMKTdY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/x5trGVMKTdY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "CS50",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-06-21T20:21:42Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "44W1eQ9CsoE3QP5H67S6AQZYV2s",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "ciz2UaifaNM"
+    },
+    "snippet": {
+      "publishedAt": "2024-01-01T06:52:31Z",
+      "channelId": "UCcabW7890RKJzL968QWEykA",
+      "title": "CS50x 2024 - Lecture 8 - HTML, CSS, JavaScript",
+      "description": "This is CS50, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ciz2UaifaNM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ciz2UaifaNM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ciz2UaifaNM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "CS50",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-01-01T06:52:31Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "6GQSKohA0vOBMttwv6qMalldUf0",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "vzGllw18DkA"
+    },
+    "snippet": {
+      "publishedAt": "2023-03-08T14:20:12Z",
+      "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "title": "Harvard CS50’s Web Programming with Python and JavaScript – Full University Course",
+      "description": "This web programming course from Harvard University picks up where CS50x leaves off. It dives more deeply into the design and ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vzGllw18DkA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vzGllw18DkA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vzGllw18DkA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "freeCodeCamp.org",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-03-08T14:20:12Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "7o7G_HEpWN3dYS-1JBwgwZzMUkM",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "xiWUL3M9D8c"
+    },
+    "snippet": {
+      "publishedAt": "2024-11-06T14:05:23Z",
+      "channelId": "UCcabW7890RKJzL968QWEykA",
+      "title": "CS50x 2025 - Lecture 8 - HTML, CSS, JavaScript",
+      "description": "This is CS50, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xiWUL3M9D8c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xiWUL3M9D8c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xiWUL3M9D8c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "CS50",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-11-06T14:05:23Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "ePhMQwY4-9OJyoflKm7lPk6tYhk",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "28rJgMiFb8M"
+    },
+    "snippet": {
+      "publishedAt": "2019-03-02T00:42:45Z",
+      "channelId": "UCcabW7890RKJzL968QWEykA",
+      "title": "JAVASCRIPT BASICS TUTORIAL! - CS50 on Twitch, EP. 43",
+      "description": "Join CS50's Colton Ogden for a look at the basics of JavaScript, one of the most popular languages currently in use. Starting with ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/28rJgMiFb8M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/28rJgMiFb8M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/28rJgMiFb8M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "CS50",
+      "liveBroadcastContent": "none",
+      "publishTime": "2019-03-02T00:42:45Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "JnSgXsuR6yrLYf95jegyck5H3gE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "g1LC-nbnr34"
+    },
+    "snippet": {
+      "publishedAt": "2016-11-18T20:32:50Z",
+      "channelId": "UCcabW7890RKJzL968QWEykA",
+      "title": "CS50 2016 - Week 10 - JavaScript",
+      "description": "TOC 00:00:00 - Week 10 Recap 00:01:27 - JavaScript 00:02:52 - Frosh IMs 00:03:51 - JavaScript Syntax 00:09:23 - JavaScript ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/g1LC-nbnr34/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/g1LC-nbnr34/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/g1LC-nbnr34/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "CS50",
+      "liveBroadcastContent": "none",
+      "publishTime": "2016-11-18T20:32:50Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "6m1G7kfntqOgbEbN-wstlUNE7DE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "mmVaKcM_vrw"
+    },
+    "snippet": {
+      "publishedAt": "2024-02-15T04:48:58Z",
+      "channelId": "UCkcqmxjMXaBb0kDWqqSEU1g",
+      "title": "Top 5 programming courses",
+      "description": "Course links: 1. CS 50: https://www.youtube.com/watch?v=8mAITcNt710 2. 100 Days of Code: https://tinyurl.com/100-days-code 3.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mmVaKcM_vrw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mmVaKcM_vrw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mmVaKcM_vrw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sahil & Sarra",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-02-15T04:48:58Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "a-pjtsRrWQbvIeZwqT4uBMW3fBA",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "alnzFK-4xMY"
+    },
+    "snippet": {
+      "publishedAt": "2022-10-31T20:26:47Z",
+      "channelId": "UCcabW7890RKJzL968QWEykA",
+      "title": "CS50x 2023 - Lecture 8 - HTML, CSS, JavaScript",
+      "description": "This is CS50, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/alnzFK-4xMY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/alnzFK-4xMY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/alnzFK-4xMY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "CS50",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-10-31T20:26:47Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "fCcThZfkAXUGBE2bw0SJ8t750mE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "rfJnUeZ3uUo"
+    },
+    "snippet": {
+      "publishedAt": "2025-03-21T23:56:51Z",
+      "channelId": "UCHkrWHtUnwJP6qHfYInDkGQ",
+      "title": "[DIA 19/??] | CÓDIGO &amp;&amp; ESTUDOS ATÉ SER CONTRATADO PagMan (PARTE 2)",
+      "description": "Olá! Sou um programador iniciante/intermediário e entusiasta da computação. Tenho 21 anos e estou aprendendo ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rfJnUeZ3uUo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rfJnUeZ3uUo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rfJnUeZ3uUo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TposeProgrammer",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-03-21T23:56:51Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "TvynEA8CEVz7LhQgCa4yWm8FgVE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "zFZrkCIc2Oc"
+    },
+    "snippet": {
+      "publishedAt": "2021-06-21T20:20:25Z",
+      "channelId": "UCcabW7890RKJzL968QWEykA",
+      "title": "CS50W - Lecture 0 - HTML and CSS",
+      "description": "This is CS50W, CS50's Web Programming with Python and JavaScript. Register for free at https://cs50.edx.org/web. Slides and ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zFZrkCIc2Oc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zFZrkCIc2Oc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zFZrkCIc2Oc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "CS50",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-06-21T20:20:25Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "rnya57Fdi_1KttraeZufv3sZIV8",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "LfaMVlDaQ24"
+    },
+    "snippet": {
+      "publishedAt": "2023-10-24T12:43:08Z",
+      "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "title": "Harvard CS50 (2023) – Full Computer Science University Course",
+      "description": "Learn the basics of computer science from Harvard University. This is CS50, an introduction to the intellectual enterprises of ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LfaMVlDaQ24/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LfaMVlDaQ24/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LfaMVlDaQ24/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "freeCodeCamp.org",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-10-24T12:43:08Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "PH87jMRZTP1SHxAefaH8W7L47nc",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "3Ay2lS6tm4M"
+    },
+    "snippet": {
+      "publishedAt": "2018-01-31T02:16:41Z",
+      "channelId": "UCcabW7890RKJzL968QWEykA",
+      "title": "JavaScript, ES6 - Lecture 1 - CS50&#39;s Mobile App Development with React Native 2018",
+      "description": "00:00:00 - ECMAScript 00:03:35 - Closures 00:13:47 - Immediately Invoked Function Expression 00:22:53 - First-Class Functions ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3Ay2lS6tm4M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3Ay2lS6tm4M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3Ay2lS6tm4M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "CS50",
+      "liveBroadcastContent": "none",
+      "publishTime": "2018-01-31T02:16:41Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "1fdZO9PbnKJd2S_pC0vGFKk1hiM",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "btG--vz2jrk"
+    },
+    "snippet": {
+      "publishedAt": "2023-05-29T14:27:35Z",
+      "channelId": "UCmMh67wv2JJKPcUyKSdSmjA",
+      "title": "Why You SHOULD NOT Take Harvard CS50 in 2024",
+      "description": "This video explains Why you SHOULD NOT Take Harvard's CS50 in 2024... Harvard CS50 Introduction to Computer Science is ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/btG--vz2jrk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/btG--vz2jrk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/btG--vz2jrk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "CS50 Made Easy with Rahul",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-05-29T14:27:35Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "W_-sqfMhcaZcmNBmVfnqTtCmJcY",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "EJlPIfNSFH8"
+    },
+    "snippet": {
+      "publishedAt": "2022-03-23T13:00:07Z",
+      "channelId": "UCcJQ96WlEhJ0Ve0SLmU310Q",
+      "title": "CS50’s Web Programming Course FULL REVIEW",
+      "description": "CS50's Web Programming with Python and JavaScript Course Review If you have been following this blog and/or my Youtube ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EJlPIfNSFH8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/EJlPIfNSFH8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/EJlPIfNSFH8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Internet Made Coder",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-03-23T13:00:07Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "TjR9c_yU5B4EzK04SurkDNHdQEM",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "xvp5EyiT-I0"
+    },
+    "snippet": {
+      "publishedAt": "2023-11-06T21:57:44Z",
+      "channelId": "UCcabW7890RKJzL968QWEykA",
+      "title": "CS50 Fall 2023 - Lecture 8 - HTML, CSS, JavaScript (live, unedited)",
+      "description": "This is CS50, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xvp5EyiT-I0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xvp5EyiT-I0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xvp5EyiT-I0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "CS50",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-11-06T21:57:44Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "PYctVVfP0nJMWimJLf9WbruMSXw",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "jrBhi8wbzPw"
+    },
+    "snippet": {
+      "publishedAt": "2021-07-07T20:37:16Z",
+      "channelId": "UCcabW7890RKJzL968QWEykA",
+      "title": "CS50W - Lecture 6 - User Interfaces",
+      "description": "This is CS50W, CS50's Web Programming with Python and JavaScript. Register for free at https://cs50.edx.org/web. Slides and ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jrBhi8wbzPw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jrBhi8wbzPw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jrBhi8wbzPw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "CS50",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-07-07T20:37:16Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "wksOQ8sNW8PqRvc9UYaFkWLH4FE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Z93IaNfavZw"
+    },
+    "snippet": {
+      "publishedAt": "2017-10-25T15:26:04Z",
+      "channelId": "UCcabW7890RKJzL968QWEykA",
+      "title": "JavaScript - CS50 Shorts",
+      "description": "This is CS50, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Z93IaNfavZw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Z93IaNfavZw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Z93IaNfavZw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "CS50",
+      "liveBroadcastContent": "none",
+      "publishTime": "2017-10-25T15:26:04Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "WZx0f5edKa16czVygGcfeNESwko",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "X52b-8y2Hf4"
+    },
+    "snippet": {
+      "publishedAt": "2018-01-26T14:49:19Z",
+      "channelId": "UCcabW7890RKJzL968QWEykA",
+      "title": "Overview, JavaScript - Lecture 0 - CS50&#39;s Mobile App Development with React Native 2018",
+      "description": "00:00:00 - Introduction 00:04:31 - Course Information 00:06:00 - JavaScript 00:07:45 - JavaScript Syntax 00:12:42 - Types ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/X52b-8y2Hf4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/X52b-8y2Hf4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/X52b-8y2Hf4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "CS50",
+      "liveBroadcastContent": "none",
+      "publishTime": "2018-01-26T14:49:19Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "ykCUmgyx4H-4pixuYtrJXyY_FKk",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "jaw7GyeE4mU"
+    },
+    "snippet": {
+      "publishedAt": "2024-01-11T04:30:18Z",
+      "channelId": "UCTj8xSzJHMyQ6C1c0wTrPcg",
+      "title": "Don’t Freak Out   CS50 #Reels  #python #cs50 #coding #code #javascript #tech #tutorial #java #shorts",
+      "description": "viral #shorts.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jaw7GyeE4mU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jaw7GyeE4mU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jaw7GyeE4mU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "RGPV_De_Bunkers",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-01-11T04:30:18Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "iddiK0hZWhS0joTSMI4vWcpREBo",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "5g0x2xv3aHU"
+    },
+    "snippet": {
+      "publishedAt": "2020-12-31T18:01:35Z",
+      "channelId": "UCcabW7890RKJzL968QWEykA",
+      "title": "CS50 2020 - Lecture 8 - HTML, CSS, JavaScript",
+      "description": "TABLE OF CONTENTS 00:00:00 - Introduction 00:00:49 - Internet 00:03:59 - Routers 00:05:23 - Protocols 00:06:19 - TCP/IP ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5g0x2xv3aHU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5g0x2xv3aHU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5g0x2xv3aHU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "CS50",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-12-31T18:01:35Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "3kGpwTFLk7z0a28vrS9ib7RfhU8",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "I2tmprm8D9s"
+    },
+    "snippet": {
+      "publishedAt": "2022-12-15T21:51:33Z",
+      "channelId": "UCPV3uNMx3TPkVKBfiCdHyIQ",
+      "title": "Python Beginner Project #cs50 #pythonforbeginners #pythonprogramming #pythontutorial #programming",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/I2tmprm8D9s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/I2tmprm8D9s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/I2tmprm8D9s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "The Innovative Engineer",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-12-15T21:51:33Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "A0z9rKL5iZj-z3-wyzwn9oAQ6ao",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "dlEPkLSDQi0"
+    },
+    "snippet": {
+      "publishedAt": "2019-01-21T19:06:34Z",
+      "channelId": "UCcabW7890RKJzL968QWEykA",
+      "title": "JavaScript - CS50 Beyond 2019",
+      "description": "TABLE OF CONTENTS 00:00:00 - Introduction 00:01:55 - alert 00:03:15 - let and const 00:08:42 - DOM Manipulation 00:13:21 ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dlEPkLSDQi0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dlEPkLSDQi0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dlEPkLSDQi0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "CS50",
+      "liveBroadcastContent": "none",
+      "publishTime": "2019-01-21T19:06:34Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "CpnXuPXkPt4EqX0_HDOQqCb68c4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "BJ48bUbByoU"
+    },
+    "snippet": {
+      "publishedAt": "2022-02-27T08:58:14Z",
+      "channelId": "UCKGNx62l4qr1dgF1r-F46gg",
+      "title": "Learn Programming for Free with Harvard University’s CS50 course",
+      "description": "Did you know Harvard University offers a great introduction to Computer Science? - In this course, you'll get to be introduced to ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BJ48bUbByoU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BJ48bUbByoU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BJ48bUbByoU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "🇧🇩Ishraq Haider Chowdhury — Fullstack Developer",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-02-27T08:58:14Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "sZBzQRcdYtC7CmJbMKqRRmK_Trw",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "H1I_Fpv1_MU"
+    },
+    "snippet": {
+      "publishedAt": "2024-01-12T04:30:04Z",
+      "channelId": "UCTj8xSzJHMyQ6C1c0wTrPcg",
+      "title": "Path in Life   CS50 #Reels  #python #cs50 #coding #code #javascript #tech #shorts #tutorial #java",
+      "description": "viral #shorts.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/H1I_Fpv1_MU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/H1I_Fpv1_MU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/H1I_Fpv1_MU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "RGPV_De_Bunkers",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-01-12T04:30:04Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "KUwC1UugNvRQsqzT2gWqIVbZb94",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "gQtbEPZqHlw"
+    },
+    "snippet": {
+      "publishedAt": "2017-04-17T13:26:56Z",
+      "channelId": "UCcabW7890RKJzL968QWEykA",
+      "title": "CS50 VR 2016 - Week 10 - JavaScript",
+      "description": "This is Week 10 of CS50 2016 in 360º stereoscopic VR, shot on Nokia OZO. For the 2D version of Week 10, see ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gQtbEPZqHlw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gQtbEPZqHlw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gQtbEPZqHlw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "CS50",
+      "liveBroadcastContent": "none",
+      "publishTime": "2017-04-17T13:26:56Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "miVjRC-0VhWmcZZ6VkAecckTMQQ",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "F1Ksyhr6xKQ"
+    },
+    "snippet": {
+      "publishedAt": "2025-02-17T03:55:12Z",
+      "channelId": "UC3nxZcRaddQfkP7Hl4OPqEA",
+      "title": "CS50&#39;s Web Programming with Python and JavaScript (HTML and CSS)",
+      "description": "This video shows a front-end for Google Search, Google Image Search, and Google Advanced Search.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/F1Ksyhr6xKQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/F1Ksyhr6xKQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/F1Ksyhr6xKQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Alef Vaz",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-02-17T03:55:12Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "jx_mr_XhW3QeZxdHYmC1mu8TyRU",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "PuRIMFWVZ1M"
+    },
+    "snippet": {
+      "publishedAt": "2016-10-28T20:48:48Z",
+      "channelId": "UCcabW7890RKJzL968QWEykA",
+      "title": "CS50 Seminar: JavaScript with Exponent and React Native",
+      "description": "Learn how to build native mobile apps that work on iOS and Android by writing just JavaScript. In this seminar, we'll cover some ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PuRIMFWVZ1M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PuRIMFWVZ1M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PuRIMFWVZ1M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "CS50",
+      "liveBroadcastContent": "none",
+      "publishTime": "2016-10-28T20:48:48Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "dxoCO3shsieAdh3Fo2JeuLnEIv4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "sWMW3kaxXEA"
+    },
+    "snippet": {
+      "publishedAt": "2022-12-10T19:28:30Z",
+      "channelId": "UCPV3uNMx3TPkVKBfiCdHyIQ",
+      "title": "Python Beginner Project #pythonforbeginners #pythonprogramming #pythontutorial #cs50 #harvard #stem",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/sWMW3kaxXEA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/sWMW3kaxXEA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/sWMW3kaxXEA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "The Innovative Engineer",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-12-10T19:28:30Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "-_UBWeLPbDG9Uic2eBJ_oMeIqk4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "LrxZ93cwq-U"
+    },
+    "snippet": {
+      "publishedAt": "2023-07-13T23:54:23Z",
+      "channelId": "UC9zrt277wSXsHyCmPgUqzdQ",
+      "title": "Harvard CS50 Learn Programming Now!",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LrxZ93cwq-U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LrxZ93cwq-U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LrxZ93cwq-U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "JavaScript Josh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-07-13T23:54:23Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "bn1RQ-JjivvcCmzBryzSX9W5Ph0",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "NuQNZJCytWw"
+    },
+    "snippet": {
+      "publishedAt": "2024-01-10T04:30:06Z",
+      "channelId": "UCTj8xSzJHMyQ6C1c0wTrPcg",
+      "title": "Talking to the Duck   CS50  #python #cs50 #coding #code #javascript #tutorial #java #tech",
+      "description": "viral #shorts.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NuQNZJCytWw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NuQNZJCytWw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NuQNZJCytWw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "RGPV_De_Bunkers",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-01-10T04:30:06Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "rFRx77LDDM848UK7C9uqe2-aVgI",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "rw1-lPlVH4Q"
+    },
+    "snippet": {
+      "publishedAt": "2016-10-29T17:34:10Z",
+      "channelId": "UCcabW7890RKJzL968QWEykA",
+      "title": "JavaScript with Exponent and React Native - CS50 Seminars 2016",
+      "description": "Charlie Cheever Exponent Learn how to build native mobile apps that work on iOS and Android by writing just JavaScript. In this ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rw1-lPlVH4Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rw1-lPlVH4Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rw1-lPlVH4Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "CS50",
+      "liveBroadcastContent": "none",
+      "publishTime": "2016-10-29T17:34:10Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "GYYytaYiJMCBhoYfFPy-m7qjYAo",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "xFFs9UgOAlE"
+    },
+    "snippet": {
+      "publishedAt": "2014-04-04T14:30:21Z",
+      "channelId": "UCcabW7890RKJzL968QWEykA",
+      "title": "CS50 Lecture by Mark Zuckerberg - 7 December 2005",
+      "description": "On 7 December 2005, Mark Zuckerberg joined CS50 for a guest lecture about Facebook and computer science. With Professor ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xFFs9UgOAlE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xFFs9UgOAlE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xFFs9UgOAlE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "CS50",
+      "liveBroadcastContent": "none",
+      "publishTime": "2014-04-04T14:30:21Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "Lin5dKsLAmEcVPaNyWGLj-wpS1A",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "SRXNrahgAPU"
+    },
+    "snippet": {
+      "publishedAt": "2023-05-26T22:46:49Z",
+      "channelId": "UCgPGFeMrvYq2URRzKjRWUyg",
+      "title": "#learntocode #computermemory #coding #cs50",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SRXNrahgAPU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SRXNrahgAPU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SRXNrahgAPU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Homebrew",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-05-26T22:46:49Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "ZTUKmnc_Etj1d_xuA767DmV4vs4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "zzKTVxRnYa8"
+    },
+    "snippet": {
+      "publishedAt": "2022-12-22T02:54:36Z",
+      "channelId": "UCPV3uNMx3TPkVKBfiCdHyIQ",
+      "title": "Python Beginner Project #cs50 #pythonforbeginners #pythonprogramming #pythontutorial #engineering",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zzKTVxRnYa8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zzKTVxRnYa8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zzKTVxRnYa8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "The Innovative Engineer",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-12-22T02:54:36Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "LYeXQXz48eF1ELtH_kQsWhaY9xw",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "A1lD-WASuOs"
+    },
+    "snippet": {
+      "publishedAt": "2024-01-14T04:30:05Z",
+      "channelId": "UCTj8xSzJHMyQ6C1c0wTrPcg",
+      "title": "Find Out   CS50 #Reels  #python #cs50 #coding #code #javascript #tech #java #tutorial #shorts",
+      "description": "viral #shorts.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/A1lD-WASuOs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/A1lD-WASuOs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/A1lD-WASuOs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "RGPV_De_Bunkers",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-01-14T04:30:05Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "12YkR51qeASUXo-6GMAh6Zz2ObU",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "NidDePfio0s"
+    },
+    "snippet": {
+      "publishedAt": "2023-01-06T11:13:57Z",
+      "channelId": "UC0whRos-BQ2HkKcfRf9pK6g",
+      "title": "JavaScript Introduction -What is JavaScript #javascript #programming #cs50 #computerscience #website",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NidDePfio0s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NidDePfio0s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NidDePfio0s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming Shorts",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-01-06T11:13:57Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "fxoA68bV_BJ0GnDn1OwkbkTTwtI",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "FnsnbB87wY4"
+    },
+    "snippet": {
+      "publishedAt": "2024-03-28T12:49:30Z",
+      "channelId": "UCgNdmWhwfj_ohLtROwXlaUw",
+      "title": "Cs50:free course!!  #computerscience #python #datastructure #sqltips #webdevelopment #javascript",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/FnsnbB87wY4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/FnsnbB87wY4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/FnsnbB87wY4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "JackNapNYC",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-03-28T12:49:30Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "gAdPshYUgj6ernZnyTyVCA5ZmIc",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "UfQeE_jeqCI"
+    },
+    "snippet": {
+      "publishedAt": "2023-04-02T04:47:41Z",
+      "channelId": "UCq8tVVxCc-Xca85GaHn_Z4w",
+      "title": "CS50’s Web Programming with Python and JS: Project 1 (wiki)",
+      "description": "Timestamps: - 0:00 - Entry & Index Page 0:15 - Search bar 0:30 - Create new page. 0:50 - Edit page. 1:04 - Random page.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UfQeE_jeqCI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UfQeE_jeqCI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UfQeE_jeqCI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Rishikesh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-04-02T04:47:41Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "kPhrYwfjdpSOIHwlxN-GBQlCq5U",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "tcKUAUY4KNU"
+    },
+    "snippet": {
+      "publishedAt": "2024-03-19T21:11:40Z",
+      "channelId": "UC5CRfLOpo9r60XsERVMp0Cg",
+      "title": "Project 3 - Mail | Harvard CS50&#39;s Web Programming with Python and JavaScript",
+      "description": "Design a front-end for an email client that makes API calls to send and receive emails. CS50's Web Programming with Python and ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tcKUAUY4KNU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tcKUAUY4KNU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tcKUAUY4KNU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BERD",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-03-19T21:11:40Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "Hi19v0vkmaeVWhu6zmeAGpWU-s4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "otvhsFcdEPU"
+    },
+    "snippet": {
+      "publishedAt": "2022-11-21T16:12:59Z",
+      "channelId": "UCV-2YUamtwE7OfccK-neujg",
+      "title": "CS50 - Web Programming with Python and JavaScript  Project 0 review",
+      "description": "Timecodes 0:00 - Intro 0:09 - Google Search Page 0:19 - Page to visit other pages 0:22 - Google Image Search 034 - Page to visit ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/otvhsFcdEPU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/otvhsFcdEPU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/otvhsFcdEPU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Soniya Prasad",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-11-21T16:12:59Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "E0iytIUEvzv_PAqhD9ZwMysRjqY",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "QXot9FMOO5g"
+    },
+    "snippet": {
+      "publishedAt": "2022-01-23T18:26:49Z",
+      "channelId": "UC54RqZlR7HJMY6sGyYh3CIQ",
+      "title": "Project 0 | CS50&#39;s Web Programming with Python and Javascript",
+      "description": "Demo of CS50's Web project 0 Twitter: https://twitter.com/Manideep085 LinkedIn: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QXot9FMOO5g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QXot9FMOO5g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QXot9FMOO5g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Kunjeti Manideep",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-01-23T18:26:49Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "o8fAwHi6DbbyZm0k2BDpl9SOhLE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "OD1MLPT2TDY"
+    },
+    "snippet": {
+      "publishedAt": "2020-09-13T05:03:05Z",
+      "channelId": "UCJ38ll7VDji_e9PPPUU3ObQ",
+      "title": "CS50&#39;s Web Programming with Python and JavaScript - Project 0: Search",
+      "description": "Video submission for Harvard CS50W -- Project 0: search Google Search UI CS50 Project Timestamps: 0:10 Google Search 0:14 ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OD1MLPT2TDY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OD1MLPT2TDY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OD1MLPT2TDY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "CS50 Projects",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-09-13T05:03:05Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "W74lTKRT8Y-bj2ZASXGO5SDtROM",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "QBBj1xI9uvk"
+    },
+    "snippet": {
+      "publishedAt": "2017-07-18T19:43:08Z",
+      "channelId": "UCcabW7890RKJzL968QWEykA",
+      "title": "CS50 Explained 2016 - Week 10 - JavaScript",
+      "description": "This is CS50 Explained, wherein David J. Malan and Doug Lloyd watch CS50's lectures and discuss the pedagogy behind CS50 ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QBBj1xI9uvk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QBBj1xI9uvk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QBBj1xI9uvk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "CS50",
+      "liveBroadcastContent": "none",
+      "publishTime": "2017-07-18T19:43:08Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "dHTBIYY0hmT6JHST24OkNWk9tbo",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "nLRL_NcnK-4"
+    },
+    "snippet": {
+      "publishedAt": "2023-05-01T13:55:40Z",
+      "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "title": "Harvard CS50’s Introduction to Programming with Python – Full University Course",
+      "description": "Learn Python programming from Harvard University. It dives more deeply into the design and implementation of web apps with ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/nLRL_NcnK-4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/nLRL_NcnK-4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/nLRL_NcnK-4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "freeCodeCamp.org",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-05-01T13:55:40Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "9RazbLmpOfvBSq2nhlUoOe_OTHg",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "eQ4crQApijA"
+    },
+    "snippet": {
+      "publishedAt": "2025-03-16T08:17:17Z",
+      "channelId": "UCxEj637R06NG66f52bvrNcQ",
+      "title": "CS50&#39;s Web Programming with Python and JavaScript | Project 2 | Commerce | Python, Django, SQL",
+      "description": "Showcasing the ebay-like e-commerce website feature relative to project 2 of CS50's Web Programming with Python and ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/eQ4crQApijA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/eQ4crQApijA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/eQ4crQApijA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Wx2",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-03-16T08:17:17Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "lAhA8KrNIiY4WfcYYiJhoYMG1EI",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "W_2lAuM4ft4"
+    },
+    "snippet": {
+      "publishedAt": "2024-09-06T03:02:14Z",
+      "channelId": "UCYsG4uY55VNzwNqpcft60Sw",
+      "title": "This legend🫡 #coding #developer #cs50 #davidmalan #programming #java #javascript #education #viral",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/W_2lAuM4ft4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/W_2lAuM4ft4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/W_2lAuM4ft4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "helpWithCoding",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-09-06T03:02:14Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "V47Sb43VVsKqtz45isAERzzcfZo",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Y9_EA0TnN8U"
+    },
+    "snippet": {
+      "publishedAt": "2020-12-26T17:48:03Z",
+      "channelId": "UCyFGtEs9kM8-whcrfjZM5tw",
+      "title": "CS50 Web Programming with Python and JavaScript - project0 search 0",
+      "description": "This is CS50 Web Programming with Python and JavaScript. An online learning Harvard University Course. This time I am going ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Y9_EA0TnN8U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Y9_EA0TnN8U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Y9_EA0TnN8U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "omarData",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-12-26T17:48:03Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "xerDABbnxwF2GM0kkJ1zfkSbXHg",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "EerdGm-ehJQ"
+    },
+    "snippet": {
+      "publishedAt": "2024-05-09T07:28:14Z",
+      "channelId": "UCB6dvaWu0N8uVq2yKsZ5s5g",
+      "title": "JavaScript Tutorial Full Course - Beginner to Pro",
+      "description": "Certificates are now available! https://courses.supersimple.dev/courses/javascript Enroll to get a Certificate of Completion and ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EerdGm-ehJQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/EerdGm-ehJQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/EerdGm-ehJQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "SuperSimpleDev",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-05-09T07:28:14Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "tQGjED9m8dNLNG1nF-7k1IkFR6g",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "hR61lLLXmTU"
+    },
+    "snippet": {
+      "publishedAt": "2022-12-27T07:18:17Z",
+      "channelId": "UCEg3sP1TPRJAG2xg2774pMQ",
+      "title": "CS50 FINAL PROJECT HTML CSS JAVASCRIPT 2022",
+      "description": "The final project was my opportunity to take my newfound savvy skills of programming out for a spin and develop my very own ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hR61lLLXmTU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hR61lLLXmTU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hR61lLLXmTU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "1uckySwish",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-12-27T07:18:17Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "44rmQmfMB-Jt6AFPps9zei-xJg4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "nyxpAXIiIkk"
+    },
+    "snippet": {
+      "publishedAt": "2022-10-10T13:37:48Z",
+      "channelId": "UCq-ogA56HBtpn_zkJ5ktE4w",
+      "title": "Day 90: Week 1 of CS50",
+      "description": "cs50 #learningtocode.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/nyxpAXIiIkk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/nyxpAXIiIkk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/nyxpAXIiIkk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Code Questing",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-10-10T13:37:48Z"
+    }
+  }
+]
