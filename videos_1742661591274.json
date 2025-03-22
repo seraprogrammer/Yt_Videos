@@ -1,0 +1,1702 @@
+[
+  {
+    "kind": "youtube#searchResult",
+    "etag": "aX9I1uR4fxN10BRSfpRfNOjvBwk",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "htznIeWKgg8"
+    },
+    "snippet": {
+      "publishedAt": "2023-06-18T18:00:27Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "JavaScript Crash Course: Master the Basics in One Video! Ignite Your Front-End Mastery Series!",
+      "description": "SORRY FOR THE INCONVENIENCE (due to some error last part of the video is removed. here's is the link of remaining part): ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/htznIeWKgg8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/htznIeWKgg8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/htznIeWKgg8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-06-18T18:00:27Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "-gfjz9gT7GmRUJ2VRHG2_OyLwWQ",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "EgDmCbhmstU"
+    },
+    "snippet": {
+      "publishedAt": "2023-06-25T17:30:02Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "JavaScript Advance Crash Course: Level Up Your Coding Skills! Accelerate Your Front-End Mastery!",
+      "description": "Are you ready to take your JavaScript skills to the next level? Look no further! Join our JavaScript Advance Crash Course and ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EgDmCbhmstU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/EgDmCbhmstU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/EgDmCbhmstU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-06-25T17:30:02Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "BkgvE8s0OD8GuJHD8ip7LF80nSY",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "ks4MFTHLfyg"
+    },
+    "snippet": {
+      "publishedAt": "2023-07-12T16:00:38Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "Master Advanced JavaScript Concepts and Become a JavaScript Ninja",
+      "description": "Do you want to take your JavaScript skills to the next level? Do you want to learn how to use advanced JavaScript concepts to ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ks4MFTHLfyg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ks4MFTHLfyg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ks4MFTHLfyg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-07-12T16:00:38Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "t0rjh2xi_gOty4lcpRO2bGu_2h0",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "_aRVrGQZy14"
+    },
+    "snippet": {
+      "publishedAt": "2023-05-30T15:30:08Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "[REALITY🎙️] Hidden Truths: Unspoken Facts About JavaScript in India 💀",
+      "description": "Prepare to have your mind blown as we unveil the unspoken facts about JavaScript in India in our riveting podcast! Join us as we ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_aRVrGQZy14/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_aRVrGQZy14/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_aRVrGQZy14/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-05-30T15:30:08Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "iUrvEaj6J_FzkwtHSM0RuFirKjA",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "dY-OpnLZRd0"
+    },
+    "snippet": {
+      "publishedAt": "2025-02-18T14:30:19Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "DSA with JavaScript | Introduction &amp; Roadmap for Beginners",
+      "description": "Welcome to \"DSA with JavaScript | Introduction & Roadmap for Beginners\" ! In this video, you'll get a complete overview of Data ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dY-OpnLZRd0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dY-OpnLZRd0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dY-OpnLZRd0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-02-18T14:30:19Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "Cl4zUl1j2tuKKEmXDppagmyMlZc",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Aw_SmcpEOdY"
+    },
+    "snippet": {
+      "publishedAt": "2023-09-07T12:30:11Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "🔥 JS Practice 1: Master JavaScript Essentials with Fun Mini Projects! 💡",
+      "description": "Bible of JS (book link) - https://sheryians.com/download/bibleofjs_by_sheryians Feedback Form ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Aw_SmcpEOdY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Aw_SmcpEOdY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Aw_SmcpEOdY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-09-07T12:30:11Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "60eFk2fM5_qHiYx4tR7DP40c8OY",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "h86FQ7vrnds"
+    },
+    "snippet": {
+      "publishedAt": "2025-02-24T14:30:28Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "Master the Basics | DSA with JavaScript | Part 1",
+      "description": "Welcome to the first video of the DSA with JavaScript series! In this introduction, we'll cover the fundamentals of Data Structures ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/h86FQ7vrnds/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/h86FQ7vrnds/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/h86FQ7vrnds/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-02-24T14:30:28Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "TrmN6vP_bQ9xpEud1_2issjf8JM",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "6kE8lrqfwHo"
+    },
+    "snippet": {
+      "publishedAt": "2023-07-30T17:15:00Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "Master Async JavaScript: What it is and How to Use it",
+      "description": "Asynchronous JavaScript is one of the most important topics in web development. It allows you to write code that can run in the ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6kE8lrqfwHo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6kE8lrqfwHo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6kE8lrqfwHo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-07-30T17:15:00Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "XbbUt2dCgAy6t6xTR-OiRDiowHI",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "LykYI6vTNzs"
+    },
+    "snippet": {
+      "publishedAt": "2022-05-22T08:11:33Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "3 JavaScript libraries to create modern animated websites.",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LykYI6vTNzs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LykYI6vTNzs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LykYI6vTNzs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-05-22T08:11:33Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "XPWjds_VFrDqQmmfdZpXS0NKtlM",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "2IPEp_4obGw"
+    },
+    "snippet": {
+      "publishedAt": "2023-08-02T17:00:01Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "JavaScript DOM Manipulation: How to DOMinate the DOM with JavaScript",
+      "description": "Do you want to learn how to use JavaScript to create dynamic and interactive web pages? Do you want to know how to access ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2IPEp_4obGw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2IPEp_4obGw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2IPEp_4obGw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-08-02T17:00:01Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "mhjRcl8gTY3uGeL2UOHbEPhJHps",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Ub83KGbDZzw"
+    },
+    "snippet": {
+      "publishedAt": "2023-09-08T14:45:04Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "🚀 JS Practice 2: Elevate Your JavaScript Skills with Exciting Projects! 💡",
+      "description": "Bible of JS (book link) - https://sheryians.com/download/bibleofjs_by_sheryians Feedback Form ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Ub83KGbDZzw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Ub83KGbDZzw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Ub83KGbDZzw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-09-08T14:45:04Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "Hww0WoHMkuR62mvr2NyDmdPCWdw",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "qTszFuibDEg"
+    },
+    "snippet": {
+      "publishedAt": "2025-02-04T14:30:27Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "50 JavaScript Interview Questions Solved in 1 Hour",
+      "description": "Preparing for a JavaScript interview? This video covers 50 commonly asked JavaScript interview questions, all solved and ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qTszFuibDEg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qTszFuibDEg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qTszFuibDEg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-02-04T14:30:27Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "TgKhu2bGPAeJfBOUj7Y38TKUZaA",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "BNqf1bsbeqU"
+    },
+    "snippet": {
+      "publishedAt": "2023-09-13T14:00:07Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "🚀 JS Practice 3: Elevate Your JavaScript Skills with Exciting Projects! 💡",
+      "description": "Bible of JS (book link) - https://sheryians.com/download/bibleofjs_by_sheryians Feedback Form ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BNqf1bsbeqU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BNqf1bsbeqU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BNqf1bsbeqU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-09-13T14:00:07Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "HRjsnYWG94MXPwUI6pK4E1BzlJQ",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "_7IR39vOKfU"
+    },
+    "snippet": {
+      "publishedAt": "2023-08-26T15:15:02Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "5 Real-Life JavaScript Effects and Features That Reign Supreme! 👑🌐",
+      "description": "Ever wondered how those awesome animations on websites work? In this video, we're showing you 5 real-life tricks using ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_7IR39vOKfU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_7IR39vOKfU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_7IR39vOKfU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-08-26T15:15:02Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "MOrzCiXLKpVu_r7UL8OJc1iiO6M",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "D8HyB-W7ToI"
+    },
+    "snippet": {
+      "publishedAt": "2023-08-30T08:00:10Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "💥 Mind-Blowing ES6 JavaScript Techniques Every Coder Should Know!",
+      "description": "Welcome to our coding tutorial! In this video, we're diving deep into the exciting world of ES6 JavaScript, and you won't believe ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/D8HyB-W7ToI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/D8HyB-W7ToI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/D8HyB-W7ToI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-08-30T08:00:10Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "tw_-FsLJKc61mIBv63XVfVl5KiU",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "YTFFXJejOpg"
+    },
+    "snippet": {
+      "publishedAt": "2024-05-02T08:46:34Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "[GAMECHANGER🔥] Logic Making in Programming | Sheryians",
+      "description": "Instructor in this video: Harsh Sharma Website: https://sheryians.com/ Socials: Instagram: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YTFFXJejOpg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YTFFXJejOpg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YTFFXJejOpg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-05-02T08:46:34Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "tYgEs5JcC_ficIjw5JDUf2DXerY",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "tERfw5UQ7S0"
+    },
+    "snippet": {
+      "publishedAt": "2024-12-24T15:31:11Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "CSS LAYOUT SECRETS You Need to Know for Pinterest like Design",
+      "description": "Instructor in this video: Sarthak Sharma Socials: Instagram: https://www.instagram.com/sheryians_c... Facebook: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tERfw5UQ7S0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tERfw5UQ7S0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tERfw5UQ7S0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-12-24T15:31:11Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "oLAspSdsu6a6FId9n02jY30oMcE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "wBtuL0Uu1IQ"
+    },
+    "snippet": {
+      "publishedAt": "2024-08-14T12:20:14Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "Potential of Three.js : The Future of Web Dev is Here! ✨",
+      "description": "Unlock the magic of 3D animations! Learn how to create stunning effects like this with Three.js on our channel. Dive into the ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wBtuL0Uu1IQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wBtuL0Uu1IQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wBtuL0Uu1IQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-08-14T12:20:14Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "hYYjzQp85YiYwEoIbI1OQBFhqFw",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "QnByCMbGJcI"
+    },
+    "snippet": {
+      "publishedAt": "2024-08-17T11:30:23Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "Three.js is About to Change Web Dev—Coming Soon on the Channel! ✨",
+      "description": "Unlock the magic of 3D animations! Learn how to create stunning effects like this with Three.js on our channel. Dive into the ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QnByCMbGJcI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QnByCMbGJcI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QnByCMbGJcI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-08-17T11:30:23Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "oun3hTHIa0DQJREm960pWkwXAV4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "ibRnFY14j1o"
+    },
+    "snippet": {
+      "publishedAt": "2023-07-26T13:30:18Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "8/100 Tricks: CSS Boilerplate Shortcut | HTML CSS JS Animation and Effects #htmlcss #webdevelopment",
+      "description": "CSS snippet code link: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ibRnFY14j1o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ibRnFY14j1o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ibRnFY14j1o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-07-26T13:30:18Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "BomYUgT8Y_K0lYB_ocTV-JLOqvA",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "2vVq1xXIL58"
+    },
+    "snippet": {
+      "publishedAt": "2024-10-01T15:00:04Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "JS Logic | MERN Stack",
+      "description": "Master JavaScript Logics – Boost Your Web Development Skills! In this video, we dive deep into JavaScript logics, breaking ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2vVq1xXIL58/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2vVq1xXIL58/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2vVq1xXIL58/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-10-01T15:00:04Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "QnPe_gDV9xIkQSxLlXwEtPzKiAY",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "8kd0YDyVZaA"
+    },
+    "snippet": {
+      "publishedAt": "2023-07-10T13:30:07Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "2/100 Tricks: CSS Clip-path | HTML CSS JS Animation and Effects #webdevelopment #html #css #js #code",
+      "description": "In this short video, you'll learn how to create 100 mind-blowing HTML CSS JS animation effects in just 1 minute! This is part 2 of a ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8kd0YDyVZaA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8kd0YDyVZaA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8kd0YDyVZaA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-07-10T13:30:07Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "jdZvjUp2GzfzkCxKuAuCNxDxKA4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "GB6v6sqPvmQ"
+    },
+    "snippet": {
+      "publishedAt": "2024-10-08T06:51:35Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "Three.js Domination : Unlock Its Limitless Potential! ✨ #coding",
+      "description": "Buy now Three.js Domination: https://sheryians.com/courses/courses-details/Three.js%20Domination Use Coupon: “ELONMUSK” ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GB6v6sqPvmQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GB6v6sqPvmQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GB6v6sqPvmQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-10-08T06:51:35Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "jS8IDpm-EEAUurGTUpjkPAdaTqI",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "KR4dPUpDVsI"
+    },
+    "snippet": {
+      "publishedAt": "2024-05-02T16:38:57Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "Reacting to UI Design | Part 2 #htmlcssjavascript #learnwebdev #webdesign",
+      "description": "Instructor in this video: Sarthak Sharma Website: https://sheryians.com/ Socials: Instagram: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KR4dPUpDVsI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KR4dPUpDVsI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KR4dPUpDVsI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-05-02T16:38:57Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "3WOf5OQuczCLIjEF9YcErHG4yqQ",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "kkOuRJ69BRY"
+    },
+    "snippet": {
+      "publishedAt": "2024-09-28T15:14:19Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "Learn HTML, CSS and JavaScript in Single Video | Basics of MERN Stack Development",
+      "description": "Master the Basics of HTML, CSS & JavaScript – Functional and Creative MERN Series! ✨ In this video, we cover the ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kkOuRJ69BRY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kkOuRJ69BRY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kkOuRJ69BRY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-09-28T15:14:19Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "_ke8yKuHUcccztooaV9-WXoQiuE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "7cz6nLdi1yU"
+    },
+    "snippet": {
+      "publishedAt": "2024-05-05T13:30:02Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "Reacting to UI Design | Part 4 #htmlcssjavascript #learnwebdev #webdesign",
+      "description": "Instructor in this video: Sarthak Sharma Website: https://sheryians.com/ Socials: Instagram: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7cz6nLdi1yU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7cz6nLdi1yU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7cz6nLdi1yU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-05-05T13:30:02Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "4A5UtEtAAoIyvvoeR18yiaARpTA",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "NiSjsjK-ZDU"
+    },
+    "snippet": {
+      "publishedAt": "2024-10-04T14:22:03Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "[ Course Launch 🚀 ] Three.js Domination | Complete Course | Sheryians",
+      "description": "Buy now Three.js Domination: https://sheryians.com/courses/courses-details/Three.js%20Domination Use Coupon: “ELONMUSK” ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NiSjsjK-ZDU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NiSjsjK-ZDU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NiSjsjK-ZDU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-10-04T14:22:03Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "vFolVUlrF9smj8QgDo6clpHpsAM",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Y1tsJD28ocU"
+    },
+    "snippet": {
+      "publishedAt": "2023-08-11T14:30:10Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "🎮 Bubble Game Tutorial: Create Fun with JS | Harsh Sharma",
+      "description": "In this easy-to-follow guide, you'll join me in creating a fun Bubble Game using HTML, CSS, and JavaScript. Whether you're new ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Y1tsJD28ocU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Y1tsJD28ocU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Y1tsJD28ocU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-08-11T14:30:10Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "bYe44odPGkGmJ9dWLcBtMLI0Maw",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "qJGR9lLcRc0"
+    },
+    "snippet": {
+      "publishedAt": "2023-05-19T14:30:15Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "25 Mind-Blowing Practice Questions, Master JavaScript, Can You Solve Them All ?",
+      "description": "Crack 25 JavaScript Questions: Boost Your Skills and Conquer Coding Challenges!\" Get ready for an exhilarating JavaScript ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qJGR9lLcRc0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qJGR9lLcRc0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qJGR9lLcRc0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-05-19T14:30:15Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "J8ZzT9IcIdvJ2BP2rTdM0wgtOqY",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "ReqZe1yi1tE"
+    },
+    "snippet": {
+      "publishedAt": "2023-04-11T14:30:07Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "Functions in JavaScript | 2 Minute JS | JavaScript Tutorials in Hindi [Part 13]",
+      "description": "Welcome to Sheryians Coding School, where we bring you the latest and most efficient ways to learn coding. In this video, we are ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ReqZe1yi1tE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ReqZe1yi1tE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ReqZe1yi1tE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-04-11T14:30:07Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "Iw5tj81vNPHGYdwIBwHwFQIJkCY",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "a2YlLgT8juc"
+    },
+    "snippet": {
+      "publishedAt": "2024-08-17T05:15:01Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "Reacting to Reimagined Design | #webdesign #uiux #americantourister  #luggage #webdesigner",
+      "description": "Our Courses: https://sheryians.com/courses Instructor in this Short: Sarthak & Akarsh Visit our website: https://sheryians.com/ ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/a2YlLgT8juc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/a2YlLgT8juc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/a2YlLgT8juc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-08-17T05:15:01Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "FgSZeNdsSMdxloBK4prxuV2pKek",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "T9wWUFMMqS8"
+    },
+    "snippet": {
+      "publishedAt": "2025-01-04T13:33:56Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "Will Svelte OVERTAKE React.js in 2025?",
+      "description": "Instructor in this video: Harsh Sharma Socials: Instagram: https://www.instagram.com/sheryians_c... Facebook: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/T9wWUFMMqS8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/T9wWUFMMqS8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/T9wWUFMMqS8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-01-04T13:33:56Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "cnfIW-CYBp-HTruu1i7ytw7Y6v4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "CW3gjRgL4w4"
+    },
+    "snippet": {
+      "publishedAt": "2025-03-08T14:00:17Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "Mastering Arrays | DSA with JavaScript | Part 4",
+      "description": "Arrays are one of the most fundamental and powerful data structures in JavaScript. In this video, we'll dive deep into how arrays ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CW3gjRgL4w4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CW3gjRgL4w4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CW3gjRgL4w4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-03-08T14:00:17Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "HtXK0tj0dRSNlg3vEaN9U855hLs",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "g2ZFGCYL0rk"
+    },
+    "snippet": {
+      "publishedAt": "2023-12-31T13:30:24Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "43/100 Tricks: Perspective Rotations | HTML CSS JS Animation and Effects #html #css #webdevelopment",
+      "description": "In this short video series, you'll learn how to create 100 mind-blowing HTML CSS JS animation effects in just 1 minute! This is part ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/g2ZFGCYL0rk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/g2ZFGCYL0rk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/g2ZFGCYL0rk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-12-31T13:30:24Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "_H_wMwKrrm8tLSUZXiAxi8hvu5E",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "CrYMEZzHyxU"
+    },
+    "snippet": {
+      "publishedAt": "2023-05-15T14:30:04Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "Code Quiz: Clg Students Win 100Rs &amp; Prizes #codingchallenge #collegestudents #winprizes #funandgames",
+      "description": "shorts #ytshorts #codingchallenge #collegestudents #winprizes #100rupeesidsell #100rupees #funandgames #education ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CrYMEZzHyxU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CrYMEZzHyxU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CrYMEZzHyxU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-05-15T14:30:04Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "6aMnjB0nlVCV1PlYEP-6lzns3M0",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "jY7ySyj_f8U"
+    },
+    "snippet": {
+      "publishedAt": "2023-11-29T14:30:14Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "39/100 Tricks: Glassmorphism Effect CSS | HTML CSS JS Animation and Effects #htmlcss #webdevelopment",
+      "description": "In this short video series, you'll learn how to create 100 mind-blowing HTML CSS JS animation effects in just 1 minute! This is part ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jY7ySyj_f8U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jY7ySyj_f8U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jY7ySyj_f8U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-11-29T14:30:14Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "tfOcAUi8zhA92sxpRxa2AQmOF-U",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "HwO-jB_bu-o"
+    },
+    "snippet": {
+      "publishedAt": "2023-11-19T14:30:07Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "36/100 Tricks: Calc() Function in CSS | HTML CSS JS Animation and Effects #html #css #webdevelopment",
+      "description": "In this short video series, you'll learn how to create 100 mind-blowing HTML CSS JS animation effects in just 1 minute! This is part ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HwO-jB_bu-o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HwO-jB_bu-o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HwO-jB_bu-o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-11-19T14:30:07Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "vKO5L25NuhafUA4kqTxt7d8dO0c",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "FM4EniYX2Jo"
+    },
+    "snippet": {
+      "publishedAt": "2023-08-17T17:27:11Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "Shery.js: Your Secret Weapon for Amazing Websites! 💪🎨",
+      "description": "Unveiling Shery.js: Your Ultimate JavaScript Library for Effortless Web Development! Are you ready to transform your web ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/FM4EniYX2Jo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/FM4EniYX2Jo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/FM4EniYX2Jo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-08-17T17:27:11Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "ZkwI_G9AjV4WvHkD2mcbp-jrGII",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "h1XVYS1pUj4"
+    },
+    "snippet": {
+      "publishedAt": "2025-02-08T12:30:40Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "This AI is FUTURE of WEB DEVELOPMENT",
+      "description": "Instructor in this video: Sarthak Sharma Socials: Instagram: https://www.instagram.com/sheryians_c... Facebook: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/h1XVYS1pUj4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/h1XVYS1pUj4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/h1XVYS1pUj4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-02-08T12:30:40Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "qlVCeaq-DUtPmiE6Wjs3biIYkCM",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "EqvV_73eHAc"
+    },
+    "snippet": {
+      "publishedAt": "2024-01-14T14:30:04Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "48/100 Tricks: Resize Property in CSS | HTML CSS JS Animation and Effects #html #css #webdevelopment",
+      "description": "In this short video series, you'll learn how to create 100 mind-blowing HTML CSS JS animation effects in just 1 minute! This is part ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EqvV_73eHAc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/EqvV_73eHAc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/EqvV_73eHAc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-01-14T14:30:04Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "s38WlfrtrAdTv7lI3x1DeecGib4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "r2n8J1tK_tw"
+    },
+    "snippet": {
+      "publishedAt": "2023-07-07T16:30:18Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "&quot;Library vs Framework: Clearing Up the Confusion!&quot; #coding #programming #shorts #computerscience",
+      "description": "In this short and informative video, I dive into the world of software development to demystify the key differences between libraries ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/r2n8J1tK_tw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/r2n8J1tK_tw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/r2n8J1tK_tw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-07-07T16:30:18Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "zfGueqjddNtsulmglge-bdGrGic",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "XMI6AaKNIxw"
+    },
+    "snippet": {
+      "publishedAt": "2023-08-20T14:30:10Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "20/100 Tricks: Span tag in HTML | HTML CSS JS Animation and Effects #html #css #js #webdevelopment",
+      "description": "In this short video, you'll learn how to create 100 mind-blowing HTML CSS JS animation effects in just 1 minute! This is part 20 of ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XMI6AaKNIxw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XMI6AaKNIxw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XMI6AaKNIxw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-08-20T14:30:10Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "lA7mSYK94lNHQsGllpNEhzHu_Rg",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "UvKl9JdKE6c"
+    },
+    "snippet": {
+      "publishedAt": "2023-12-11T10:30:01Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "40/100 Tricks: Box Shadow Effect | HTML CSS JS Animation and Effects #htmlcss #webdevelopment #css",
+      "description": "In this short video series, you'll learn how to create 100 mind-blowing HTML CSS JS animation effects in just 1 minute! This is part ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UvKl9JdKE6c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UvKl9JdKE6c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UvKl9JdKE6c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-12-11T10:30:01Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "YaVbBqBFSYp-5uHx5FFCR7xlM24",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "UaDSjUa5748"
+    },
+    "snippet": {
+      "publishedAt": "2023-08-27T13:15:03Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "21/100 Tricks: After Before in CSS | HTML CSS JS Animation and Effects #html #css #webdevelopment",
+      "description": "In this short video, you'll learn how to create 100 mind-blowing HTML CSS JS animation effects in just 1 minute! This is part 21 of ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UaDSjUa5748/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UaDSjUa5748/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UaDSjUa5748/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-08-27T13:15:03Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "TjIZgzch9qfTaOsd9bPa_04arc0",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "NHd1frNyFr0"
+    },
+    "snippet": {
+      "publishedAt": "2025-01-04T08:30:12Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "SOFTWARE DEVELOPER Salary Revealed!",
+      "description": "Instructor in this video: Sarthak Sharma Socials: Instagram: https://www.instagram.com/sheryians_c... Facebook: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NHd1frNyFr0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NHd1frNyFr0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NHd1frNyFr0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-01-04T08:30:12Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "njs1GKphtnaS3OtsfNvYIL3o02Y",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "8rrb-HknB-k"
+    },
+    "snippet": {
+      "publishedAt": "2023-08-03T15:18:56Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "10/100 Tricks: Border on Text | Text Stroke | HTML CSS JS Animation and Effects #css #webdevelopment",
+      "description": "In this short video, you'll learn how to create 100 mind-blowing HTML CSS JS animation effects in just 1 minute! This is part 10 of ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8rrb-HknB-k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8rrb-HknB-k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8rrb-HknB-k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-08-03T15:18:56Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "LLnedNAtE9cfLNyk7bLjBdjjqAI",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "E6tAtRi82QY"
+    },
+    "snippet": {
+      "publishedAt": "2024-10-07T14:30:10Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "Complete React JS Course | MERN Stack Development",
+      "description": "Master ReactJS | MERN Stack – Boost Your Web Development Skills! In this video, we dive deep into ReactJS logic, ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/E6tAtRi82QY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/E6tAtRi82QY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/E6tAtRi82QY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-10-07T14:30:10Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "8-yKj1YWeStjyrw3hcm8bd2SCAQ",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "S89YYab8AFM"
+    },
+    "snippet": {
+      "publishedAt": "2024-12-26T14:00:26Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "Can Ankur Warikoo REALLY Become a Web Developer in 2025?",
+      "description": "In this video, we'll explore if Ankur Warikoo can become a web developer by 2025. Join us as we dive into Sheryians Coding ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/S89YYab8AFM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/S89YYab8AFM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/S89YYab8AFM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-12-26T14:00:26Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "ntg-guZBeiLBGUom7zUWvysB6_o",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "H88hkdA02tY"
+    },
+    "snippet": {
+      "publishedAt": "2025-03-03T14:00:17Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "Everything About Loops | DSA with JavaScript | Part 3",
+      "description": "Loops are one of the most powerful tools in programming, helping you execute repetitive tasks efficiently. In this video, I'll break ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/H88hkdA02tY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/H88hkdA02tY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/H88hkdA02tY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-03-03T14:00:17Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "CWMTc0cIfJ7cPSGFwawOEh1pQyU",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "6i_lZJud_n8"
+    },
+    "snippet": {
+      "publishedAt": "2022-11-02T15:46:02Z",
+      "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+      "title": "3 Topics for JavaScript Interview which you will be asked in your next interview #javascript #shorts",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6i_lZJud_n8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6i_lZJud_n8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6i_lZJud_n8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sheryians Coding School",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-11-02T15:46:02Z"
+    }
+  }
+]
