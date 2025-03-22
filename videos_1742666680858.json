@@ -1,0 +1,1702 @@
+[
+  {
+    "kind": "youtube#searchResult",
+    "etag": "AOLJDIkxlWl2qX0P1iP1JkwDTfM",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "_uQrJ0TkZlc"
+    },
+    "snippet": {
+      "publishedAt": "2019-02-18T15:00:08Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "Python Full Course for Beginners",
+      "description": "Learn Python for AI, machine learning, and web development with this beginner-friendly course! Get 6 months of PyCharm ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_uQrJ0TkZlc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_uQrJ0TkZlc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_uQrJ0TkZlc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2019-02-18T15:00:08Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "cJ69HSbVqBHm7eLwyRxjhcnQGV0",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "K5KVEU3aaeQ"
+    },
+    "snippet": {
+      "publishedAt": "2025-02-12T12:30:31Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "Python Full Course for Beginners [2025]",
+      "description": "Master Python from scratch No fluff—just clear, practical coding skills to kickstart your journey! ❤️ Join this channel to get ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/K5KVEU3aaeQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/K5KVEU3aaeQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/K5KVEU3aaeQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-02-12T12:30:31Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "4ewsvIS2vBVczV2ZelUtTfo1oe4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "eIrMbAQSU34"
+    },
+    "snippet": {
+      "publishedAt": "2019-07-15T16:00:12Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "Java Full Course for Beginners",
+      "description": "Master Java – a must-have language for software development, Android apps, and more! ☕️ This beginner-friendly course takes ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/eIrMbAQSU34/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/eIrMbAQSU34/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/eIrMbAQSU34/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2019-07-15T16:00:12Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "PT2K__wTUefqbbGGZp1eLHztnTM",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "kqtD5dpn9C8"
+    },
+    "snippet": {
+      "publishedAt": "2020-09-16T13:00:20Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "Python for Beginners - Learn Coding with Python in 1 Hour",
+      "description": "Learn Python basics in just 1 hour! Perfect for beginners interested in AI and coding. ⚡ Plus, get 6 months of PyCharm FREE with ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kqtD5dpn9C8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kqtD5dpn9C8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kqtD5dpn9C8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-09-16T13:00:20Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "V4cMB3MWbxOfJpEXCsN4VU6QasI",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "27YP6n6pDh0"
+    },
+    "snippet": {
+      "publishedAt": "2024-04-09T13:00:06Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "The FASTEST Way to Learn to Code &amp; Get a Job",
+      "description": "Ready to change your life? Learn how ordinary people transformed their careers with coding and landed high-paying tech jobs in ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/27YP6n6pDh0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/27YP6n6pDh0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/27YP6n6pDh0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-04-09T13:00:06Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "EB1f4SNGw8mSYnGxs3Pklscwrz4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "GxmfcnU3feo"
+    },
+    "snippet": {
+      "publishedAt": "2024-07-25T13:00:16Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "The Complete Web Development Roadmap",
+      "description": "Go from zero to a full stack web developer in 12 months. This step-by-step roadmap covers the essential skills and latest ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GxmfcnU3feo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GxmfcnU3feo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GxmfcnU3feo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-07-25T13:00:16Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "ZabD_u6BEbrAu8mzFhNIGWTnLsg",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Vrtx9G9lEuM"
+    },
+    "snippet": {
+      "publishedAt": "2024-04-13T14:00:19Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "Python in 1 Minute",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Vrtx9G9lEuM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Vrtx9G9lEuM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Vrtx9G9lEuM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-04-13T14:00:19Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "etbCNgjkdiu38OMPgdB6UvhHWRw",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "kJOqIaGwQ7Y"
+    },
+    "snippet": {
+      "publishedAt": "2024-04-02T13:00:50Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "Top Programming Languages to Learn in 2024 (For High-paying Jobs)",
+      "description": "Overwhelmed by endless programming languages? This video helps you pick the PERFECT language to kickstart your dream ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kJOqIaGwQ7Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kJOqIaGwQ7Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kJOqIaGwQ7Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-04-02T13:00:50Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "gcmS5baBHzNznD1LTJOL6iDYQdo",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "NClmyC6olC0"
+    },
+    "snippet": {
+      "publishedAt": "2025-01-22T12:30:18Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "Top Programming Languages to Learn in 2025",
+      "description": "Want to future-proof your coding skills? Discover the top programming languages that will dominate in 2025, with real-world use ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NClmyC6olC0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NClmyC6olC0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NClmyC6olC0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-01-22T12:30:18Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "a2V__KEI2_h0zpgA3Qc9zquyHLQ",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "YRJbhFLLPyE"
+    },
+    "snippet": {
+      "publishedAt": "2024-08-06T13:00:37Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "The Complete Data Analyst Roadmap",
+      "description": "Go from zero to a data analyst in 8-16 months. This step-by-step roadmap covers the essential skills you must learn to become a ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YRJbhFLLPyE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YRJbhFLLPyE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YRJbhFLLPyE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-08-06T13:00:37Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "IiIol-6Z0htjX03WpWWSSczbZsg",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "W6NZfCO5SIk"
+    },
+    "snippet": {
+      "publishedAt": "2018-04-24T02:37:33Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "JavaScript Course for Beginners – Your First Step to Web Development",
+      "description": "Learn JavaScript basics with this quick, beginner-friendly course! ⚡ Perfect for new coders ready to build real skills and start ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/W6NZfCO5SIk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/W6NZfCO5SIk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/W6NZfCO5SIk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2018-04-24T02:37:33Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "7o3ddrwweJSnu_l2KHXLMeu_tKg",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "ZzaPdXTrSb8"
+    },
+    "snippet": {
+      "publishedAt": "2022-08-10T16:00:12Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "C++ Tutorial for Beginners - Learn C++ in 1 Hour",
+      "description": "Learn C++ basics in 1 hour! Get 6 months of CLion FREE with the coupon in the description! ❤️ Join this channel to get ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZzaPdXTrSb8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZzaPdXTrSb8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZzaPdXTrSb8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-08-10T16:00:12Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "FKoOVkixT6nxROpp1Dx3Te-K-Cg",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "vE7Cy5csYbQ"
+    },
+    "snippet": {
+      "publishedAt": "2024-04-12T13:01:00Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "Python in 2 Minutes!",
+      "description": "Get to know Python and why it's hated by C++ programmers! Python tutorials ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vE7Cy5csYbQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vE7Cy5csYbQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vE7Cy5csYbQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-04-12T13:01:00Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "bp4sjkOQe8VKcSlqrMUTG3FRw1Q",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "J-graiyPhpw"
+    },
+    "snippet": {
+      "publishedAt": "2024-05-17T13:00:17Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "9 Reasons People Hate JavaScript",
+      "description": "Why does everyone HATE JavaScript? We expose its flaws, quirks, and why it's still the king of the web! ✋ Stay connected ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/J-graiyPhpw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/J-graiyPhpw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/J-graiyPhpw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-05-17T13:00:17Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "btoUk-863FVIXsUlE0Oo2L-b4BE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "qz0aGYrrlhU"
+    },
+    "snippet": {
+      "publishedAt": "2021-01-11T14:30:10Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "HTML Tutorial for Beginners: HTML Crash Course",
+      "description": "Start your web development career with HTML/CSS! This beginner-friendly tutorial covers the essentials. ❤️ Join this channel ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qz0aGYrrlhU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qz0aGYrrlhU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qz0aGYrrlhU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-01-11T14:30:10Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "5a25UyOYpgcMFdkKJJHZTePmvdc",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "7S_tz1z_5bA"
+    },
+    "snippet": {
+      "publishedAt": "2019-03-20T00:50:32Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "SQL Course for Beginners [Full Course]",
+      "description": "Master SQL – an essential skill for AI, machine learning, data analysis, and more! This beginner-friendly course teaches you ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7S_tz1z_5bA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7S_tz1z_5bA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7S_tz1z_5bA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2019-03-20T00:50:32Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "RivvPKiXK0wmd7593dJqQCf63jU",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "7IgVGSaQPaw"
+    },
+    "snippet": {
+      "publishedAt": "2024-07-18T13:00:06Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "The Complete Machine Learning Roadmap",
+      "description": "Go from zero to a machine learning engineer in 12 months. This step-by-step roadmap covers the essential skills you must learn ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7IgVGSaQPaw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7IgVGSaQPaw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7IgVGSaQPaw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-07-18T13:00:06Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "pvg92-5TT3X8XIPwM42n_JB4sV8",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "4gX44uyGSHo"
+    },
+    "snippet": {
+      "publishedAt": "2024-04-17T13:00:07Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "Is Coding Still Worth Learning in 2024?",
+      "description": "AI replacing coders? The REAL story about software engineering in 2024. Stats, trends, and the truth you need to know. ✋ Stay ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4gX44uyGSHo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4gX44uyGSHo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4gX44uyGSHo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-04-17T13:00:07Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "zmzcUQBTbe40lQ1dJjZTDPLlLd4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "pTB0EiLXUC8"
+    },
+    "snippet": {
+      "publishedAt": "2018-03-30T00:24:17Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "Object-Oriented Programming, Simplified",
+      "description": "4 pillars of object-oriented programming: encapsulation, abstraction, inheritance and polymorphism. ❤️ Join this channel to get ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/pTB0EiLXUC8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/pTB0EiLXUC8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/pTB0EiLXUC8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2018-03-30T00:24:17Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "wjKI0WlLqA1CXIsjnMVbeScrngc",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "OeEHJgzqS1k"
+    },
+    "snippet": {
+      "publishedAt": "2024-06-11T13:00:30Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "The Complete Backend Developer Roadmap",
+      "description": "Go from zero to a backend developer in 12 months. This step-by-step roadmap covers the essential skills and latest technologies ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OeEHJgzqS1k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OeEHJgzqS1k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OeEHJgzqS1k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-06-11T13:00:30Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "czMvpXfzhdrOEc0tC4X1eZjtYBw",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "fZmQ_aPXJAM"
+    },
+    "snippet": {
+      "publishedAt": "2024-12-24T13:30:06Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "The Best Tech Jobs for 2025: High Demand &amp; High Pay",
+      "description": "Curious about the best tech careers for 2025? Find out which roles are in demand, what they pay, and why they matter in today's ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fZmQ_aPXJAM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fZmQ_aPXJAM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fZmQ_aPXJAM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-12-24T13:30:06Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "9_3dn74hcBcgsyZ8rSA4ukotvXM",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "6GQRb4fGvtk"
+    },
+    "snippet": {
+      "publishedAt": "2024-08-15T13:00:08Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "The Complete DevOps Roadmap",
+      "description": "Go from zero to a DevOps Engineer in 10-14 months. This step-by-step roadmap covers the essential skills you need to become a ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6GQRb4fGvtk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6GQRb4fGvtk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6GQRb4fGvtk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-08-15T13:00:08Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "ufCkaorC9Cq9oVluHsYorSkziYc",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "iw0znRuaYL8"
+    },
+    "snippet": {
+      "publishedAt": "2024-04-25T13:00:42Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "The FASTEST Way to Learn Coding &amp; Get a Job",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/iw0znRuaYL8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/iw0znRuaYL8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/iw0znRuaYL8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-04-25T13:00:42Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "pB8_xunLkqIRKTb4hsivRbqot04",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Tef1e9FiSR0"
+    },
+    "snippet": {
+      "publishedAt": "2024-05-28T13:00:06Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "The Complete Frontend Developer Roadmap",
+      "description": "Go from zero to a frontend developer in 12 months. This step-by-step roadmap covers the essential skills and latest technologies ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Tef1e9FiSR0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Tef1e9FiSR0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-05-28T13:00:06Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "bkQO8tNopivHJJmOQD7IrDRhAes",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "IQDA39A44AA"
+    },
+    "snippet": {
+      "publishedAt": "2024-06-19T13:00:24Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "Become a Back-end Developer in 12 Months! 🚀",
+      "description": "backend #webdevelopment #coding #codewithmosh.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/IQDA39A44AA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/IQDA39A44AA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/IQDA39A44AA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-06-19T13:00:24Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "FTBCoUB5fXa6CKKJQsqcYZ9h3Sg",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "7IoNR3q2Jcc"
+    },
+    "snippet": {
+      "publishedAt": "2024-05-09T13:00:07Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "Is Coding Still Worth Learning in 2024?",
+      "description": "coding #programming #codewithmosh.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7IoNR3q2Jcc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7IoNR3q2Jcc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7IoNR3q2Jcc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-05-09T13:00:07Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "exX8pyEdli_Yrud5KTomSKjtHCU",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "v7BNtpw53AA"
+    },
+    "snippet": {
+      "publishedAt": "2025-01-14T12:31:01Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "The Complete Cybersecurity Roadmap: Land a Cybersecurity Job in 10 Months",
+      "description": "The complete step-by-step roadmap to land your first cybersecurity job in 10 months or less. ❤️ Join this channel to get access ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/v7BNtpw53AA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/v7BNtpw53AA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/v7BNtpw53AA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-01-14T12:31:01Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "1HJsqDMh8gylkSMDULsJyimFo58",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "gdiao7L9GjE"
+    },
+    "snippet": {
+      "publishedAt": "2025-01-07T12:30:49Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "From Zero to Blockchain Developer in 10 Months: Complete Roadmap",
+      "description": "Go from zero to a blockchain developer in 10 months. This step-by-step roadmap covers the essential skills and latest ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gdiao7L9GjE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gdiao7L9GjE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gdiao7L9GjE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-01-07T12:30:49Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "oppuFlQHq4qioTI_WGmbV_gOr4U",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "SqcY0GlETPk"
+    },
+    "snippet": {
+      "publishedAt": "2023-03-12T08:00:07Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "React Tutorial for Beginners",
+      "description": "Master React 18 with TypeScript! ⚛️ Build amazing front-end apps with this beginner-friendly tutorial. ❤️ Join this channel to ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SqcY0GlETPk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SqcY0GlETPk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SqcY0GlETPk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-03-12T08:00:07Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "0NQQ3fquTJkw7QbJc3N8t2sDlPo",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "av83kx_YGa0"
+    },
+    "snippet": {
+      "publishedAt": "2023-05-31T06:59:41Z",
+      "channelId": "UCWYz4W6m1toUP7x0M1od3fA",
+      "title": "Easiest Programming language to start with to earn money",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/av83kx_YGa0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/av83kx_YGa0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/av83kx_YGa0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ezSnippet",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-05-31T06:59:41Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "AzoFkD-uTwA2Nu29TcZlCYoD9mg",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "BGZB9dn0GV4"
+    },
+    "snippet": {
+      "publishedAt": "2024-11-15T13:00:19Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "3 Problems with AI-Generated Code",
+      "description": "AI was supposed to change coding forever, but it's creating new problems no one saw coming. Let's break down what this means ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BGZB9dn0GV4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BGZB9dn0GV4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BGZB9dn0GV4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-11-15T13:00:19Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "jj5l3ZavQjv0N7jQq-B6y0P1jSY",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "8JJ101D3knE"
+    },
+    "snippet": {
+      "publishedAt": "2020-09-15T12:45:00Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "Git Tutorial for Beginners: Learn Git in 1 Hour",
+      "description": "Git: The essential tool for modern development. This quick explainer shows why it's a must-have skill. ❤️ Join this channel to ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8JJ101D3knE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8JJ101D3knE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8JJ101D3knE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-09-15T12:45:00Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "qZerQYAepyeHa8IvBH4xSYsGmJo",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "FIZI3k7mTvA"
+    },
+    "snippet": {
+      "publishedAt": "2022-05-22T23:43:57Z",
+      "channelId": "UCqdwM6M5SPmuX779w-6iQTA",
+      "title": "what 10 years of coding looks like…",
+      "description": "Full video on @jomakaze #coding #programming #tech #computerscience #math.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/FIZI3k7mTvA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/FIZI3k7mTvA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/FIZI3k7mTvA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Joma Clips",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-05-22T23:43:57Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "-kvah7DCwTmaLjayf0CY6Lzk0xc",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Y8Tko2YC5hA"
+    },
+    "snippet": {
+      "publishedAt": "2018-10-23T03:06:02Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "What is Python? Why Python is So Popular?",
+      "description": "What is Python? This short video explains it in 4 minutes. Python Tutorial for Beginners: https://youtu.be/_uQrJ0TkZlc Python ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Y8Tko2YC5hA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Y8Tko2YC5hA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Y8Tko2YC5hA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2018-10-23T03:06:02Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "ketip-gkK4NM9fMJlAcqAcyWgwY",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "yVl_G-F7m8c"
+    },
+    "snippet": {
+      "publishedAt": "2024-09-10T13:01:00Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "Python Projects for Beginners – Master Problem-Solving! 🚀",
+      "description": "Improve your Python programming skills with these handpicked Python projects. Want to dive deeper? - Get 13 more Python ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/yVl_G-F7m8c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/yVl_G-F7m8c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/yVl_G-F7m8c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-09-10T13:01:00Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "ifqj5BzftKaHnuGtMVADPSRDnHk",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "9R3X0JoCLyU"
+    },
+    "snippet": {
+      "publishedAt": "2024-08-01T13:00:08Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "The Complete Data Science Roadmap",
+      "description": "Go from zero to a data scientist in 12 months. This step-by-step roadmap covers the essential skills you must learn to become a ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9R3X0JoCLyU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9R3X0JoCLyU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9R3X0JoCLyU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-08-01T13:00:08Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "KxAwHErCRCF_8zyYIFcMG5zgPR8",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "390Pc6_fdeg"
+    },
+    "snippet": {
+      "publishedAt": "2024-12-19T00:40:54Z",
+      "channelId": "UC8Wt7vynFfRnoVtpNpESWjw",
+      "title": "It’s literally perfect 🫠 #coding #java #programmer #computer #python",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/390Pc6_fdeg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/390Pc6_fdeg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/390Pc6_fdeg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Desk Mate",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-12-19T00:40:54Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "A9m4tqaJeftYB73ftB0dAptqcuA",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "u-OmVr_fT4s"
+    },
+    "snippet": {
+      "publishedAt": "2018-11-06T15:00:11Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "Python Functions | Python Tutorial for Absolute Beginners #1",
+      "description": "Learn all about Python functions, *args, **kwargs with this Python tutorial for beginners. Complete Python course for beginners: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/u-OmVr_fT4s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/u-OmVr_fT4s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/u-OmVr_fT4s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2018-11-06T15:00:11Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "GqqJL-urDgTFaurm1utJzenS3rc",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "uVwtVBpw7RQ"
+    },
+    "snippet": {
+      "publishedAt": "2018-01-23T23:51:31Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "What is Node js?",
+      "description": "What is Node js? This short video explains it in 3 minutes. Node js tutorial for beginners: https://youtu.be/TlB_eWDSMt4 ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uVwtVBpw7RQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uVwtVBpw7RQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uVwtVBpw7RQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2018-01-23T23:51:31Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "PF2-ry0jTDanexCtms8SlmSukso",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "94UHCEmprCY"
+    },
+    "snippet": {
+      "publishedAt": "2018-11-05T15:00:00Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "Python For Loops - Python Tutorial for Absolute Beginners",
+      "description": "Python for loops. Learn Python basics with this Python tutorial for absolute beginners. Subscribe for more videos like this: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/94UHCEmprCY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/94UHCEmprCY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/94UHCEmprCY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2018-11-05T15:00:00Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "8u75wFkJL3r1X2GOjwtT8MYcahY",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "SLwpqD8n3d0"
+    },
+    "snippet": {
+      "publishedAt": "2018-01-20T00:09:55Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "What is a REST API?",
+      "description": "What is a REST API? This short video explains it in 6 minutes. Learn to build REST APIs with Node.js and Express: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SLwpqD8n3d0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SLwpqD8n3d0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SLwpqD8n3d0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2018-01-20T00:09:55Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "P1TqZ_fB399S3GI6M1z5Z2rXqxc",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "5-oiLKEWIEw"
+    },
+    "snippet": {
+      "publishedAt": "2023-05-01T03:26:26Z",
+      "channelId": "UClLXKYEEM8OBBx85DOa6-cg",
+      "title": "Best Programming Languages #programming #coding #javascript",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5-oiLKEWIEw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5-oiLKEWIEw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5-oiLKEWIEw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Devslopes",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-05-01T03:26:26Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "0TIN-t8s6g9gfESWzXeUPbocWL0",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "gfkTfcpWqAY"
+    },
+    "snippet": {
+      "publishedAt": "2016-04-03T07:02:55Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "C# Tutorial For Beginners - Learn C# Basics in 1 Hour",
+      "description": "Learn C# basics in 1 hour! ⚡ This beginner-friendly tutorial gets you coding fast. No experience needed. ❤️ Join this channel to ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gfkTfcpWqAY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gfkTfcpWqAY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gfkTfcpWqAY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2016-04-03T07:02:55Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "vUNJ7DeSOz_QNUSHU27toz9c3tY",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "8S6i_pzBww0"
+    },
+    "snippet": {
+      "publishedAt": "2025-01-09T10:45:01Z",
+      "channelId": "UCjbhtid8Y2AgRPxS3sar8qA",
+      "title": "Python Tutorial Review: Programming with Mosh",
+      "description": "In this video, we dive into one of the most popular Python tutorials available on YouTube—Mosh Hamedani's free Python course ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8S6i_pzBww0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8S6i_pzBww0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8S6i_pzBww0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Hackr",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-01-09T10:45:01Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "bF9S08YOONoCo5rU5iHg23HorgI",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "opRm3x9vHH0"
+    },
+    "snippet": {
+      "publishedAt": "2022-11-01T13:30:12Z",
+      "channelId": "UCWu_xJfwUuP_JV6RFq2EcXw",
+      "title": "Programming Language Tier List",
+      "description": "These are the undeniable rankings for the best programming languages. Let me know if you want a part 2 Prepping for your ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/opRm3x9vHH0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/opRm3x9vHH0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/opRm3x9vHH0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Conner Ardman",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-11-01T13:30:12Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "rLzowwvNglg8u79tN9DkE0TcaXA",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "HTGM--4WX4o"
+    },
+    "snippet": {
+      "publishedAt": "2024-05-24T20:31:16Z",
+      "channelId": "UC2QMUZolj-FpUTYCG4wMhLQ",
+      "title": "Python #29 - While Loops [By Mosh Hamedani]",
+      "description": "Python Programming for Developers (Episode 29)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HTGM--4WX4o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HTGM--4WX4o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HTGM--4WX4o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Coding Codes",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-05-24T20:31:16Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "ULtLo_J3gsDx09dZEjb-aKKix48",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "YmcF-51almU"
+    },
+    "snippet": {
+      "publishedAt": "2024-05-28T20:27:01Z",
+      "channelId": "UC2QMUZolj-FpUTYCG4wMhLQ",
+      "title": "Python #55 - Arrays [By Mosh Hamedani]",
+      "description": "Python Programming for Developers (Episode 55)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YmcF-51almU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YmcF-51almU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YmcF-51almU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Coding Codes",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-05-28T20:27:01Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "v32kLFyzujNW2NqQHij9exnQwDA",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Ke90Tje7VS0"
+    },
+    "snippet": {
+      "publishedAt": "2018-07-16T16:51:44Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "React JS - React Tutorial for Beginners",
+      "description": "Watch the latest version: https://youtu.be/SqcY0GlETPk?si=cir-2iVquJ3Eaw8X React JS Tutorial - Get up & running with React JS: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Ke90Tje7VS0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Ke90Tje7VS0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Ke90Tje7VS0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2018-07-16T16:51:44Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "N9W3TsBtzJAjHqFrJA9jkbxpz_U",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Viq8ha7BW7k"
+    },
+    "snippet": {
+      "publishedAt": "2024-02-13T16:30:09Z",
+      "channelId": "UCZJlMUYdbtzQ8tVfLvK1KvQ",
+      "title": "Python or Java? #codingninjas #coding #java #python",
+      "description": "Smash that 'Like' button and hit 'Subscribe' to stay ahead in the coding game. Let's go on this coding adventure together!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Viq8ha7BW7k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Viq8ha7BW7k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Viq8ha7BW7k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Coding Ninjas",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-02-13T16:30:09Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "1yArF7m8-wwmd26GYQYzjckGNJw",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "jt41xX_SMtA"
+    },
+    "snippet": {
+      "publishedAt": "2024-03-15T14:00:44Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "Think JavaScript = Job? WRONG!",
+      "description": "coding, #programming, #javascript.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jt41xX_SMtA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jt41xX_SMtA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jt41xX_SMtA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-03-15T14:00:44Z"
+    }
+  }
+]
