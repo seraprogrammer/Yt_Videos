@@ -1,0 +1,342 @@
+[
+  {
+    "kind": "youtube#searchResult",
+    "etag": "990j0BOqX1eVGICtHfH8parXRio",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "lkIFF4maKMU"
+    },
+    "snippet": {
+      "publishedAt": "2022-11-22T15:04:57Z",
+      "channelId": "UCsBjURrPoezykLs9EqgamOA",
+      "title": "100+ JavaScript Concepts you Need to Know",
+      "description": "The ultimate 10 minute JavaScript course that quickly breaks down over 100 key concepts every web developer should know.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lkIFF4maKMU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lkIFF4maKMU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lkIFF4maKMU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Fireship",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-11-22T15:04:57Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "WdwGD6wv8YMbMWtQZqtAGMpkA1M",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "I5_Gx3JNho8"
+    },
+    "snippet": {
+      "publishedAt": "2024-05-29T19:37:45Z",
+      "channelId": "UC8ENHE5xdFSwx71u3fDH5Xw",
+      "title": "How To Master JavaScript",
+      "description": "Twitch Everything is built live on twitch Twitch : https://bit.ly/3xhFO3E Discord: discord.gg/ThePrimeagen Spotify DevHour: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/I5_Gx3JNho8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/I5_Gx3JNho8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/I5_Gx3JNho8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ThePrimeagen",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-05-29T19:37:45Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "0GA84lbjJW2Pd6E4dL0xtrPV_iA",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "erEgovG9WBs"
+    },
+    "snippet": {
+      "publishedAt": "2022-06-14T16:39:51Z",
+      "channelId": "UCsBjURrPoezykLs9EqgamOA",
+      "title": "100+ Web Development Things you Should Know",
+      "description": "WebDev 101 is a complete introduction into the world of web development. Learn the basic concepts and skills required to build ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/erEgovG9WBs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/erEgovG9WBs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/erEgovG9WBs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Fireship",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-06-14T16:39:51Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "5Xfb7yOEMFSatPeS9RyUSB6l52Y",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "W4mQKh6NtOQ"
+    },
+    "snippet": {
+      "publishedAt": "2024-09-19T07:41:45Z",
+      "channelId": "UCwJFBpUIyVh8fvigZGMG7Yg",
+      "title": "JavaScript Concepts Every Developer Should Know | JavaScript | Multiple Concepts #javascript",
+      "description": "JavaScript Concepts Every Developer Should Know | JavaScript | Multiple Concepts #javascript.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/W4mQKh6NtOQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/W4mQKh6NtOQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/W4mQKh6NtOQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "DotNetFullStackDeveloper",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-09-19T07:41:45Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "NFu9Dgz5hQ6aF_M0X9Ap4p54fIg",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "DHjqpvDnNGE"
+    },
+    "snippet": {
+      "publishedAt": "2022-01-13T17:56:13Z",
+      "channelId": "UCsBjURrPoezykLs9EqgamOA",
+      "title": "JavaScript in 100 Seconds",
+      "description": "JavaScript is the the programming language that built the web. Learn how it evolved into a powerful tool for building websites, ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DHjqpvDnNGE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DHjqpvDnNGE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DHjqpvDnNGE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Fireship",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-01-13T17:56:13Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "cr9XapX94tRsbX1K0lblyoD0UYQ",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "1tXfpQVXo-w"
+    },
+    "snippet": {
+      "publishedAt": "2025-01-08T02:42:45Z",
+      "channelId": "UCcJu3K6_5QIewDgSeF6z1Lg",
+      "title": "You Need to Know These JavaScript Concepts Before Learning React",
+      "description": "Get your free detailed roadmap : https://thecodinglion.kit.com/69cf628158 Learn React the Right Way: Start with a Solid JavaScript ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1tXfpQVXo-w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1tXfpQVXo-w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1tXfpQVXo-w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "The Coding Lion",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-01-08T02:42:45Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "seTUnIdhvuFIZSd7zEsHf_KITQY",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "jNgppRzIaMc"
+    },
+    "snippet": {
+      "publishedAt": "2024-07-21T10:35:16Z",
+      "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+      "title": "How to master javascript",
+      "description": "How to master javascript.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jNgppRzIaMc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jNgppRzIaMc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jNgppRzIaMc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Chai aur Code",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-07-21T10:35:16Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "FRpQ3QZMtF0jn2vJo-Ra_8ompyk",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "a00NRSFgHsY"
+    },
+    "snippet": {
+      "publishedAt": "2021-02-02T15:00:00Z",
+      "channelId": "UC-T8W79DN6PBnzomelvqJYw",
+      "title": "5 JavaScript Concepts You HAVE TO KNOW",
+      "description": "How well do you know JavaScript? Well, if you don't know these 5 concepts, then you better get on it! 00:00 - Intro 01:00 - Equality ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/a00NRSFgHsY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/a00NRSFgHsY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/a00NRSFgHsY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "James Q Quick",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-02-02T15:00:00Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "a0-HLz9Knhhzqh_hH0UJrvsEkHM",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "WTRGcKkVzHg"
+    },
+    "snippet": {
+      "publishedAt": "2025-03-20T11:15:27Z",
+      "channelId": "UCjMpsBpg8uv6kjPOyJuTmww",
+      "title": "🎯 100+ Most Asked JavaScript Interview Questions &amp; Answers (2025 )  || What is JavaScript?",
+      "description": "100+ Most Asked JavaScript Interview Questions & Answers (2025 Edition) | Crack Your Next JavaScript Interview! Welcome ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WTRGcKkVzHg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WTRGcKkVzHg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WTRGcKkVzHg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Ujjwal Technical Tips",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-03-20T11:15:27Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "w0egLqYVJugdw054qLjJ04Cz260",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Jy9QkLexbmc"
+    },
+    "snippet": {
+      "publishedAt": "2023-09-03T14:24:59Z",
+      "channelId": "UCt-h6OzM6f94QTwcnS22PLw",
+      "title": "Javascript Concepts You Must Know",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Jy9QkLexbmc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Jy9QkLexbmc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Jy9QkLexbmc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Code01",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-09-03T14:24:59Z"
+    }
+  }
+]
